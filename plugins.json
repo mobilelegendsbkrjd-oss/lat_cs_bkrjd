@@ -1,0 +1,22 @@
+[
+  {
+    "iconUrl": "https://latanime.org/public/img/logito.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 13017,
+    "status": 1,
+    "language": "es-mx",
+    "authors": [
+      "Phisher98"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "version": 2,
+    "internalName": "Latanime",
+    "description": "Latanime mod prioridad latino",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Latanime.cs3",
+    "name": "Latanime"
+  }
+]
