@@ -1,0 +1,25 @@
+{
+  "name": "lat_cs_bkrjd",
+  "version": 1,
+  "plugins": [
+    {
+      "iconUrl": "https://latanime.org/public/img/logito.png",
+      "apiVersion": 1,
+      "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/cloudstream-phisher-lat",
+      "fileSize": 12988,
+      "status": 1,
+      "language": "mx",
+      "authors": [
+        "Phisher98"
+      ],
+      "tvTypes": [
+        "Movie",
+        "Anime",
+        "AnimeMovie"
+      ],
+      "version": 2,
+      "internalName": "Latanime",
+      "description": "(Mexican) Anime Extension",
+      "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Latanime.cs3",
+      "name": "Latanime"
+    },
