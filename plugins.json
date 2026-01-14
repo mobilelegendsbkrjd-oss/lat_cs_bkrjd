@@ -39,28 +39,7 @@
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Netmirror.cs3",
     "name": "Netmirror"
   },
-   {
-        "iconUrl": "https://sololatino.net/wp-content/uploads/2020/10/cropped-logo-final-192x192.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Stormunblessed/storm-ext",
-        "fileSize": 14624,
-        "status": 1,
-        "language": "es",
-        "authors": [
-            "bkrjd"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime",
-            "Cartoon"
-        ],
-        "version": 1,
-        "internalName": "SoloLatinoProvider",
-        "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/SoloLatino.cs3",
-        "name": "SoloLatino"
-    },
-  {
+     {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=animeav1.com",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
@@ -76,8 +55,8 @@
         "version": 7,
         "internalName": "AnimeAV",
         "description": "Disfruta de los \u00faltimos episodios y animes agregados en HD y Sub Espa\u00f1ol. Miles de series, pel\u00edculas y OVAs disponibles para ver online totalmente gratis.",
-        "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeAV.cs3",
-        "name": "AnimeAV"
+        "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Animeav1.cs3",
+        "name": "AnimeAV1"
     },
     {
         "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeytx.net/&size=128",
