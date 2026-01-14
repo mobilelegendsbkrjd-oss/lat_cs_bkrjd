@@ -39,6 +39,27 @@
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Netmirror.cs3",
     "name": "Netmirror"
   },
+   {
+        "iconUrl": "https://sololatino.net/wp-content/uploads/2020/10/cropped-logo-final-192x192.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Stormunblessed/storm-ext",
+        "fileSize": 14624,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "bkrjd"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 1,
+        "internalName": "SoloLatinoProvider",
+        "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/SoloLatino.cs3",
+        "name": "SoloLatino"
+    },
   {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=animeav1.com",
         "apiVersion": 1,
