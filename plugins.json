@@ -38,5 +38,122 @@
     "description": "NETMIRROR mod prioridad latino",
     "url": "https://raw.githubusercontent.com/Sushan64/NetMirror-Extension/builds/Netmirror.cs3",
     "name": "Netmirror"
-  }
+  },
+  {
+        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=animeav1.com",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+        "fileSize": 21020,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "kraptor"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 7,
+        "internalName": "AnimeAV",
+        "description": "Disfruta de los \u00faltimos episodios y animes agregados en HD y Sub Espa\u00f1ol. Miles de series, pel\u00edculas y OVAs disponibles para ver online totalmente gratis.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeAV.cs3",
+        "name": "AnimeAV"
+    },
+    {
+        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeytx.net/&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+        "fileSize": 17863,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "ByAyzen"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 1,
+        "internalName": "AnimeYTX",
+        "description": "\u00danete a la familia de AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido m\u00e1s popular de la animaci\u00f3n japonesa.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeYTX.cs3",
+        "name": "AnimeYTX"
+    },
+  {
+        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://doramaslatinox.com/&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+        "fileSize": 20486,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "ByAyzen"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 2,
+        "internalName": "DoramasLatinoX",
+        "description": "Doramas en Audio Espa\u00f1ol Latino y Subtitulado.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/DoramasLatinoX.cs3",
+        "name": "DoramasLatinoX"
+    },
+  {
+        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://flixlatam.com&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+        "fileSize": 42189,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "ByAyzen"
+        ],
+        "tvTypes": [
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "Flixlatam",
+        "description": "Mira tus Series, Pel\u00edculas y Animes en Latino Online!",
+        "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Flixlatam.cs3",
+        "name": "Flixlatam"
+    },
+  {
+        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww3.gnulahd.nu/&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+        "fileSize": 25447,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "ByAyzen"
+        ],
+        "tvTypes": [
+            "Movie",
+            "Anime",
+            "TvSeries"
+        ],
+        "version": 1,
+        "internalName": "Gnulahd",
+        "description": "GnulaHD",
+        "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Gnulahd.cs3",
+        "name": "Gnulahd"
+    },
+  {
+        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww1.henaojara.net/&size=128",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+        "fileSize": 14204,
+        "status": 1,
+        "language": "es",
+        "authors": [
+            "ByAyzen"
+        ],
+        "tvTypes": [
+            "Anime",
+            "AnimeMovie"
+        ],
+        "version": 1,
+        "internalName": "Henaojara",
+        "description": "Ver anime online, subtitulado y/o doblado al espa\u00f1ol latino HD y completamente gratis. Aqu\u00ed podr\u00e1s ver y descargar todas tus series preferidas sin anuncios.",
+        "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Henaojara.cs3",
+        "name": "Henaojara"
+    }
 ]
