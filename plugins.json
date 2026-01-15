@@ -120,7 +120,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
         "fileSize": 25447,
-        "status": 1,
+        "status": 0,
         "language": "es",
         "authors": [
             "ByAyzen"
@@ -142,7 +142,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
         "fileSize": 17920,
-        "status": 1,
+        "status": 3,
         "language": "mx",
         "authors": [
             "Phisher98,Adippe,bkrjd"
@@ -158,35 +158,14 @@
         "name": "IPTVPlayer"
     },
   {
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/IPTV.png",
-        "jarFileSize": 73119,
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 17920,
-        "status": 1,
-        "language": "mx",
-        "authors": [
-            "bkrjd"
-        ],
-        "tvTypes": [
-            "Live"
-        ],
-        "version": 6,
-        "internalName": "telegratishd",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IPTVPlayer.jar",
-        "description": "telegratishd",
-        "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/telegratis.cs3",
-        "name": "telegratishd"
-    },
-  {
         "iconUrl": "https://sololatino.net/wp-content/uploads/2020/10/cropped-logo-final-192x192.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Stormunblessed/storm-ext",
         "fileSize": 14624,
-        "status": 1,
+        "status": 3,
         "language": "es",
         "authors": [
-            "misajimenezmx"
+            "bkrjd"
         ],
         "tvTypes": [
             "Movie",
@@ -195,9 +174,9 @@
             "Cartoon"
         ],
         "version": 1,
-        "internalName": "SoloLatinoProvider",
+        "internalName": "SoloLatino",
         "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/sololatino.cs3",
-        "name": "SoloLatinoProvider"
+        "name": "SoloLatino"
     },
   {
         "iconUrl": "https://www.pelisgratishd.net/images/logo.png",
