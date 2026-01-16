@@ -39,6 +39,25 @@
     "name": "Dailymotion"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=invidious.io&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 59562,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "bkrjd"
+    ],
+    "tvTypes": [
+      "Others"
+    ],
+    "version": 2,
+    "internalName": "InvidiousProvider",
+    "description": "InvidiousProvider mod prioridad latino",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/InvidiousProvider.cs3",
+    "name": "InvidiousProvider"
+  },
+  {
     "iconUrl": "https://cachedimages.podchaser.com/256x256/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9zdGFnaW5nL3BvZGNhc3RfdXBsb2FkZWRfZXBpc29kZS80NDAwNzI2Mi80NDAwNzI2Mi0xNzU3MDY3OTE2Njg2LWRlNmYxYjJmYmEwZTcuanBn/aHR0cHM6Ly93d3cucG9kY2hhc2VyLmNvbS9pbWFnZXMvbWlzc2luZy1pbWFnZS5wbmc%3D",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
