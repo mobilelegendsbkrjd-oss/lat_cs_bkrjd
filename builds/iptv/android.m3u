@@ -152,123 +152,123 @@ https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 tvg-id="Videorola.mx" tvg-logo="https://d58ohtx80p2sd.cloudfront.net/dish/grilla_gracenote/logos_canales/videorolla.png" group-title="MEXICO-LOCAL", VIDEOROLA
 https://d3b2epqdk0p7vd.cloudfront.net/out/v1/8a448b5e16384af4a3c8146a7b049c32/index.m3u8
-#EXTINF:-1 tvg-id="A&E.co" tvg-name="CINE - A&E (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="MEXICO-LOCAL",CINE - A&E (Z)(1080)
+#EXTINF:-1 tvg-id="A&E.co" tvg-name="A&E (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-943HqfCPxQg/XaokWqg1OdI/AAAAAAAAAVc/1AoqfgHWi54FdXNpoEWGn20gvUy83YB6QCLcBGAsYHQ/s200/1.png" group-title="MEXICO-LOCAL",A&E (Z)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9616
-#EXTINF:-1 tvg-id="AMC.(México).sv" tvg-name="CINE - AMC (L)(720)" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" group-title="MEXICO-LOCAL",CINE - AMC (L)(720)
+#EXTINF:-1 tvg-id="AMC.(México).sv" tvg-name="AMC (L)(720)" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" group-title="MEXICO-LOCAL",AMC (L)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9619
-#EXTINF:-1 tvg-id="AXN.(México).mx" tvg-name="CINE - AXN (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="MEXICO-LOCAL",CINE - AXN (M)(1080)
+#EXTINF:-1 tvg-id="AXN.(México).mx" tvg-name="AXN (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-iWQgVHxICdU/XaokZV-N4aI/AAAAAAAAAWE/iYvSleZzU88F9QKcmm4JOG2Di8OEgz0KwCLcBGAsYHQ/s200/3.png" group-title="MEXICO-LOCAL",AXN (M)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9623
-#EXTINF:-1 tvg-id="HBO.(México).mx" tvg-name="CINE - HBO (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="MEXICO-LOCAL",CINE - HBO (M)(1080)
+#EXTINF:-1 tvg-id="HBO.(México).mx" tvg-name="HBO (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="MEXICO-LOCAL",HBO (M)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9666
-#EXTINF:-1 tvg-id="HBO.(México).mx" tvg-name="CINE - HBO (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="MEXICO-LOCAL",CINE - HBO (TV)(1080)
+#EXTINF:-1 tvg-id="HBO.(México).mx" tvg-name="HBO (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="MEXICO-LOCAL",HBO (TV)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9668
-#EXTINF:-1 tvg-id="HBO.2.Latinoamérica.mx" tvg-name="CINE - HBO 2 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="MEXICO-LOCAL",CINE - HBO 2 (TV)(720)
+#EXTINF:-1 tvg-id="HBO.2.Latinoamérica.mx" tvg-name="HBO 2 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="MEXICO-LOCAL",HBO 2 (TV)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9674
-#EXTINF:-1 tvg-id="HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="MEXICO-LOCAL",CINE - HBO Family (TV)(1080)
+#EXTINF:-1 tvg-id="HBO.Family.Latinoamérica.mx" tvg-name="HBO Family (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="MEXICO-LOCAL",HBO Family (TV)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9679
-#EXTINF:-1 tvg-id="HBO.Mundi.mx" tvg-name="CINE - HBO Mundi (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200-h200/hbomundi.png" group-title="MEXICO-LOCAL",CINE - HBO Mundi (TV)(720)
+#EXTINF:-1 tvg-id="HBO.Mundi.mx" tvg-name="HBO Mundi (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200-h200/hbomundi.png" group-title="MEXICO-LOCAL",HBO Mundi (TV)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9683
-#EXTINF:-1 tvg-id="HBO.Plus.mx" tvg-name="CINE - HBO Plus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="MEXICO-LOCAL",CINE - HBO Plus (M)(1080)
+#EXTINF:-1 tvg-id="HBO.Plus.mx" tvg-name="HBO Plus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="MEXICO-LOCAL",HBO Plus (M)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9685
-#EXTINF:-1 tvg-id="HBO.Pop.mx" tvg-name="CINE - HBO POP (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="MEXICO-LOCAL",CINE - HBO POP (M)(1080)
+#EXTINF:-1 tvg-id="HBO.Pop.mx" tvg-name="HBO POP (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="MEXICO-LOCAL",HBO POP (M)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9689
-#EXTINF:-1 tvg-id="HBO.Signature.Latinoamérica.mx" tvg-name="CINE - HBO Signature (M)(720)" tvg-logo="https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Signature (M)(720)
+#EXTINF:-1 tvg-id="HBO.Signature.Latinoamérica.mx" tvg-name="HBO Signature (M)(720)" tvg-logo="https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png" group-title="CANALES-CINE Y SERIES",HBO Signature (M)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9692
-#EXTINF:-1 tvg-id="HBO.XTREME.co" tvg-name="CINE - HBO Xtream (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="MEXICO-LOCAL",CINE - HBO Xtream (TV)(720)
+#EXTINF:-1 tvg-id="HBO.XTREME.co" tvg-name="HBO Xtream (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="MEXICO-LOCAL",HBO Xtream (TV)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9697
-#EXTINF:-1 tvg-id="Cinelatino.cl" tvg-name="CINE - Cine Latino (L)(720)" tvg-logo="https://1.bp.blogspot.com/-3-EvoMrQo-M/XaokZPxvp-I/AAAAAAAAAV8/wiPsHTnn5TQPaAOxfW6h00GSoQA1UvGgwCLcBGAsYHQ/s200/17.png" group-title="CANALES-CINE Y SERIES",CINE - Cine Latino (L)(720)
+#EXTINF:-1 tvg-id="Cinelatino.cl" tvg-name="Cine Latino (L)(720)" tvg-logo="https://1.bp.blogspot.com/-3-EvoMrQo-M/XaokZPxvp-I/AAAAAAAAAV8/wiPsHTnn5TQPaAOxfW6h00GSoQA1UvGgwCLcBGAsYHQ/s200/17.png" group-title="CANALES-CINE Y SERIES",Cine Latino (L)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9626
-#EXTINF:-1 tvg-id="AdultSwim.co" tvg-name="CINE - CineCanal (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" group-title="MEXICO-LOCAL",CINE - CineCanal (TV)(1080)
+#EXTINF:-1 tvg-id="AdultSwim.co" tvg-name="CineCanal (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" group-title="MEXICO-LOCAL",CineCanal (TV)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9629
-#EXTINF:-1 tvg-id="Cine(México).mx" tvg-name="CINE - Cinecanal (Z)(1080)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="MEXICO-LOCAL",CINE - Cinecanal (Z)(1080)
+#EXTINF:-1 tvg-id="Cine(México).mx" tvg-name="Cinecanal (Z)(1080)" tvg-logo="http://fanc.tmsimg.com/assets/s105609_ll_h3_aa.png" group-title="MEXICO-LOCAL",Cinecanal (Z)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9631
-#EXTINF:-1 tvg-id="Cinemax.(México).mx" tvg-name="CINE - Cinemax (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png" group-title="MEXICO-LOCAL",CINE - Cinemax (M)(1080)
+#EXTINF:-1 tvg-id="Cinemax.(México).mx" tvg-name="Cinemax (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png" group-title="MEXICO-LOCAL",Cinemax (M)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9633
-#EXTINF:-1 tvg-id="Comedy.Central.co" tvg-name="CINE - Comedy Central (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-EGNc3XiW2mg/Xaoka4Z2TQI/AAAAAAAAAWU/WzeyBpAFtHw2hkqTpQi6FZCazB0eVIlHACLcBGAsYHQ/s200/7.png" group-title="MEXICO-LOCAL",CINE - Comedy Central (L)(1080)
+#EXTINF:-1 tvg-id="Comedy.Central.co" tvg-name="Comedy Central (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-EGNc3XiW2mg/Xaoka4Z2TQI/AAAAAAAAAWU/WzeyBpAFtHw2hkqTpQi6FZCazB0eVIlHACLcBGAsYHQ/s200/7.png" group-title="MEXICO-LOCAL",Comedy Central (L)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9636
-#EXTINF:-1 tvg-id="Paramount.Channel.(México).mx" tvg-name="CINE - Paramount Channel. (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-hN1LIpeBxmo/XatGnSfXE2I/AAAAAAAAAbY/oEcqLYx31rQATVggy6N5l3sK2D6BMQ1MgCLcBGAsYHQ/s200/40.png" group-title="MEXICO-LOCAL",CINE - Paramount Channel. (TV)(720)
+#EXTINF:-1 tvg-id="Paramount.Channel.(México).mx" tvg-name="Paramount Channel. (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-hN1LIpeBxmo/XatGnSfXE2I/AAAAAAAAAbY/oEcqLYx31rQATVggy6N5l3sK2D6BMQ1MgCLcBGAsYHQ/s200/40.png" group-title="MEXICO-LOCAL",Paramount Channel. (TV)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9708
-#EXTINF:-1 tvg-id="TNT.(México).mx" tvg-name="CINE - TNT (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" group-title="MEXICO-LOCAL",CINE - TNT (M)(1080)
+#EXTINF:-1 tvg-id="TNT.(México).mx" tvg-name="TNT (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-gvPayEmPc-0/XaqYSotqp-I/AAAAAAAAAY4/4YmafnkAwdkT2YrPdajCmQ-5WJj4en0-wCLcBGAsYHQ/s200/26.png" group-title="MEXICO-LOCAL",TNT (M)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9743
-#EXTINF:-1 tvg-id="TLNovelas.(México).mx" tvg-name="CINE - TNT Novelas  (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-GuBKhe6BjNU/XaqbhYUEY9I/AAAAAAAAZU/GoNTclP8BQYz3LWW1FRbP0e_zV7-V_bNACLcBGAsYHQ/s200/28.png" group-title="MEXICO-LOCAL",CINE - TNT Novelas  (M)(1080)
+#EXTINF:-1 tvg-id="TLNovelas.(México).mx" tvg-name="TNT Novelas  (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-GuBKhe6BjNU/XaqbhYUEY9I/AAAAAAAAZU/GoNTclP8BQYz3LWW1FRbP0e_zV7-V_bNACLcBGAsYHQ/s200/28.png" group-title="MEXICO-LOCAL",TNT Novelas  (M)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9747
-#EXTINF:-1 tvg-id="TNT.Series.(México).mx" tvg-name="CINE - TNT Series (L)(720)" tvg-logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/25.png" group-title="MEXICO-LOCAL",CINE - TNT Series (L)(720)
+#EXTINF:-1 tvg-id="TNT.Series.(México).mx" tvg-name="TNT Series (L)(720)" tvg-logo="https://1.bp.blogspot.com/-RU1QI0P40Bk/XaqXTmeUMsI/AAAAAAAAAYo/mKi7kYCtzykrjx76Ft-YMnk17IS3OdK0QCLcBGAsYHQ/s200/25.png" group-title="MEXICO-LOCAL",TNT Series (L)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9748
-#EXTINF:-1 tvg-id="Universal.TV.(México).mx" tvg-name="CINE - Universal Channel (L)(720)" tvg-logo="https://1.bp.blogspot.com/-wIjU7SeLay0/XatoZA--t0I/AAAAAAAAAec/HbZ16hL1yKohaQDAxLTlqls-Sd6OVf2LQCLcBGAsYHQ/s200/51.png" group-title="MEXICO-LOCAL",CINE - Universal Channel (L)(720)
+#EXTINF:-1 tvg-id="Universal.TV.(México).mx" tvg-name="Universal Channel (L)(720)" tvg-logo="https://1.bp.blogspot.com/-wIjU7SeLay0/XatoZA--t0I/AAAAAAAAAec/HbZ16hL1yKohaQDAxLTlqls-Sd6OVf2LQCLcBGAsYHQ/s200/51.png" group-title="MEXICO-LOCAL",Universal Channel (L)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9753
-#EXTINF:-1 tvg-id="Universal.Cinema.sv" tvg-name="CINE - Universal Cinema (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="MEXICO-LOCAL",CINE - Universal Cinema (L)(720)
+#EXTINF:-1 tvg-id="Universal.Cinema.sv" tvg-name="Universal Cinema (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="MEXICO-LOCAL",Universal Cinema (L)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9756
-#EXTINF:-1 tvg-id="Universal.Comedy.sv" tvg-name="CINE - Universal Comedy (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-SoNWrnF8TnQ/YmxO2XzcUnI/AAAAAAAADg0/nXRD_Ja3KYoO4SJyp2gqQkeFYeWBqt1xwCNcBGAsYHQ/w200-h200/1651265240279800-54.png" group-title="MEXICO-LOCAL",CINE - Universal Comedy (TV)(720)
+#EXTINF:-1 tvg-id="Universal.Comedy.sv" tvg-name="Universal Comedy (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-SoNWrnF8TnQ/YmxO2XzcUnI/AAAAAAAADg0/nXRD_Ja3KYoO4SJyp2gqQkeFYeWBqt1xwCNcBGAsYHQ/w200-h200/1651265240279800-54.png" group-title="MEXICO-LOCAL",Universal Comedy (TV)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9759
-#EXTINF:-1 tvg-id="Universal.Crime.sv" tvg-name="CINE - Universal Crime (M)(720)" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="MEXICO-LOCAL",CINE - Universal Crime (M)(720)
+#EXTINF:-1 tvg-id="Universal.Crime.sv" tvg-name="Universal Crime (M)(720)" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="MEXICO-LOCAL",Universal Crime (M)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9762
-#EXTINF:-1 tvg-id="Universal.Premiere.sv" tvg-name="CINE - Universal Premier (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="MEXICO-LOCAL",CINE - Universal Premier (L)(720)
+#EXTINF:-1 tvg-id="Universal.Premiere.sv" tvg-name="Universal Premier (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="MEXICO-LOCAL",Universal Premier (L)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9765
-#EXTINF:-1 tvg-id="Universal.Reality.sv" tvg-name="CINE - Universal Reality (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-jrUcCNjGjiA/YgMWDP_MqhI/AAAAAAAADNk/hSVW-HGIAE8x-ESHmjGqeoP3TZYwU1V9wCNcBGAsYHQ/w200-h200/1644369417411612-1.png" group-title="MEXICO-LOCAL",CINE - Universal Reality (L)(720)
+#EXTINF:-1 tvg-id="Universal.Reality.sv" tvg-name="Universal Reality (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-jrUcCNjGjiA/YgMWDP_MqhI/AAAAAAAADNk/hSVW-HGIAE8x-ESHmjGqeoP3TZYwU1V9wCNcBGAsYHQ/w200-h200/1644369417411612-1.png" group-title="MEXICO-LOCAL",Universal Reality (L)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9770
-#EXTINF:-1 tvg-id="Warner.TV.(México).sv" tvg-name="CINE - Warner Channel (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="MEXICO-LOCAL",CINE - Warner Channel (L)(1080)
+#EXTINF:-1 tvg-id="Warner.TV.(México).sv" tvg-name="Warner Channel (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-FfuoassQMwg/XaqRIDyHsII/AAAAAAAAAXI/jd8OpoO8C20tOoSbCOmLgf-lG87ZA8V5gCLcBGAsYHQ/s200/18.png" group-title="MEXICO-LOCAL",Warner Channel (L)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9774
-#EXTINF:-1 tvg-id="De.Pelicula.Clasico.us" tvg-name="CINE - De Pelicula Plus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="MEXICO-LOCAL",CINE - De Pelicula Plus (M)(1080)
+#EXTINF:-1 tvg-id="De.Pelicula.Clasico.us" tvg-name="De Pelicula Plus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="MEXICO-LOCAL",De Pelicula Plus (M)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9639
-#EXTINF:-1 tvg-id="Distrito.Comedia.mx" tvg-name="CINE - Distrito Comedia (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-beLeA0PDR3M/XatLcKHkHhI/AAAAAAAAAcY/qDSVdbA5CVwlSBEJV_XDE08auVkEZleBwCLcBGAsYHQ/s200/45.png" group-title="MEXICO-LOCAL",CINE - Distrito Comedia (L)(1080)
+#EXTINF:-1 tvg-id="Distrito.Comedia.mx" tvg-name="Distrito Comedia (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-beLeA0PDR3M/XatLcKHkHhI/AAAAAAAAAcY/qDSVdbA5CVwlSBEJV_XDE08auVkEZleBwCLcBGAsYHQ/s200/45.png" group-title="MEXICO-LOCAL",Distrito Comedia (L)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9644
-#EXTINF:-1 tvg-id="E!.Entertainment.Television.(México).mx" tvg-name="CINE - E! (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-8Sj9qIuwrcY/Xbft9AfFG8I/AAAAAAAAAtE/IsyxPWzh5n0sYocYCV7ebne0xlAeANvNgCLcBGAsYHQ/s200/54.png" group-title="MEXICO-LOCAL",CINE - E! (M)(1080)
+#EXTINF:-1 tvg-id="E!.Entertainment.Television.(México).mx" tvg-name="E! (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-8Sj9qIuwrcY/Xbft9AfFG8I/AAAAAAAAAtE/IsyxPWzh5n0sYocYCV7ebne0xlAeANvNgCLcBGAsYHQ/s200/54.png" group-title="MEXICO-LOCAL",E! (M)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9646
-#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="CINE - El Gourmet (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-CBdE6D49lec/XdtQjO47pYI/AAAAAAAAA3M/6wPiW4palq8OIODpugRUzyKO4LHK6Kl1wCLcBGAsYHQ/s200/21.png" group-title="MEXICO-LOCAL",CINE - El Gourmet (M)(1080)
+#EXTINF:-1 tvg-id="Elgourmet.mx" tvg-name="El Gourmet (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-CBdE6D49lec/XdtQjO47pYI/AAAAAAAAA3M/6wPiW4palq8OIODpugRUzyKO4LHK6Kl1wCLcBGAsYHQ/s200/21.png" group-title="MEXICO-LOCAL",El Gourmet (M)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9647
-#EXTINF:-1 tvg-id="Europa.Europa.mx" tvg-name="CINE - Europa Europa (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-hp_TVEc208E/Xg-BsZUcaKI/AAAAAAAAA48/eXROhRPKdKop12SD74yIK-zUaK-OZr_tACLcBGAsYHQ/s200/64.png" group-title="MEXICO-LOCAL",CINE - Europa Europa (M)(1080)
+#EXTINF:-1 tvg-id="Europa.Europa.mx" tvg-name="Europa Europa (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-hp_TVEc208E/Xg-BsZUcaKI/AAAAAAAAA48/eXROhRPKdKop12SD74yIK-zUaK-OZr_tACLcBGAsYHQ/s200/64.png" group-title="MEXICO-LOCAL",Europa Europa (M)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9648
-#EXTINF:-1 tvg-id="Film.&.Arts.mx" tvg-name="CINE - Film & Arts (Z)(1080)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNpsw81Sk4WqgDl5Pk0BZWu7740GNi_mEAtw&usqp=CAU" group-title="MEXICO-LOCAL",CINE - Film & Arts (Z)(1080)
+#EXTINF:-1 tvg-id="Film.&.Arts.mx" tvg-name="Film & Arts (Z)(1080)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNpsw81Sk4WqgDl5Pk0BZWu7740GNi_mEAtw&usqp=CAU" group-title="MEXICO-LOCAL",Film & Arts (Z)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9649
-#EXTINF:-1 tvg-id="Food.Network.co" tvg-name="CINE - Food Network (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-7LnO12UdM74/XkOMWms5SLI/AAAAAAAABWw/1_TuyGdHKgUvadJu2umfY-JB3zGZvdzqQCLcBGAsYHQ/s200/68.png" group-title="MEXICO-LOCAL",CINE - Food Network (M)(1080)
+#EXTINF:-1 tvg-id="Food.Network.co" tvg-name="Food Network (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-7LnO12UdM74/XkOMWms5SLI/AAAAAAAABWw/1_TuyGdHKgUvadJu2umfY-JB3zGZvdzqQCLcBGAsYHQ/s200/68.png" group-title="MEXICO-LOCAL",Food Network (M)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9651
-#EXTINF:-1 tvg-id="FX.(México).mx" tvg-name="CINE - FX (L)(720)" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png" group-title="MEXICO-LOCAL",CINE - FX (L)(720)
+#EXTINF:-1 tvg-id="FX.(México).mx" tvg-name="FX (L)(720)" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png" group-title="MEXICO-LOCAL",FX (L)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9652
-#EXTINF:-1 tvg-id="FX.(México).mx" tvg-name="CINE - FX MEX (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png" group-title="MEXICO-LOCAL",CINE - FX MEX (TV)(720)
+#EXTINF:-1 tvg-id="FX.(México).mx" tvg-name="FX MEX (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-MUjPzmbITqs/XatNGMM5_FI/AAAAAAAAAc0/KlUpHFhNkGMPz9cyXVoNYm_yJ-RU4LMSwCLcBGAsYHQ/s200/46.png" group-title="MEXICO-LOCAL",FX MEX (TV)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9655
-#EXTINF:-1 tvg-id="Golden.(México).mx" tvg-name="CINE - Golden (Z)(1080)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="MEXICO-LOCAL",CINE - Golden (Z)(1080)
+#EXTINF:-1 tvg-id="Golden.(México).mx" tvg-name="Golden (Z)(1080)" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYLx_K907PBpH9a9Zzu4M_YR_qJCnhP8q9r-ZJKkFy8ctFsbFoPTz1SyoF6tI3CWylvzY&usqp=CAU" group-title="MEXICO-LOCAL",Golden (Z)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9657
-#EXTINF:-1 tvg-id="Golden.Edge.mx" tvg-name="CINE - Golden Edge (Z)(1080)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Golden_Edge_2016.png/revision/latest/scale-to-width-down/310?cb=20191215195803&path-prefix=es" group-title="MEXICO-LOCAL",CINE - Golden Edge (Z)(1080)
+#EXTINF:-1 tvg-id="Golden.Edge.mx" tvg-name="Golden Edge (Z)(1080)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Golden_Edge_2016.png/revision/latest/scale-to-width-down/310?cb=20191215195803&path-prefix=es" group-title="MEXICO-LOCAL",Golden Edge (Z)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9659
-#EXTINF:-1 tvg-id="Golden.Plus.mx" tvg-name="CINE - Golden Plus (L)(720)" tvg-logo="https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png" group-title="MEXICO-LOCAL",CINE - Golden Plus (L)(720)
+#EXTINF:-1 tvg-id="Golden.Plus.mx" tvg-name="Golden Plus (L)(720)" tvg-logo="https://1.bp.blogspot.com/-xAsbQLg2Jh4/XatB0liBxTI/AAAAAAAAAaw/0DJSM8f-dGYbfmZhsUXXGokODQRxIrpXwCLcBGAsYHQ/s200/35.png" group-title="MEXICO-LOCAL",Golden Plus (L)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9660
-#EXTINF:-1 tvg-id="Golden.Premier.mx" tvg-name="CINE - Golden Premier (Z)(720)" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-(Z)(720)_m.png" group-title="MEXICO-LOCAL",CINE - Golden Premier (Z)(720)
+#EXTINF:-1 tvg-id="Golden.Premier.mx" tvg-name="Golden Premier (Z)(720)" tvg-logo="https://cdn.mitvstatic.com/channels/co_golden-premier-(Z)(720)_m.png" group-title="MEXICO-LOCAL",Golden Premier (Z)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9663
-#EXTINF:-1 tvg-id="Golden.Premier.2.mx" tvg-name="CINE - Golden Premiere 2 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png" group-title="MEXICO-LOCAL",CINE - Golden Premiere 2 (TV)(720)
+#EXTINF:-1 tvg-id="Golden.Premier.2.mx" tvg-name="Golden Premiere 2 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png" group-title="MEXICO-LOCAL",Golden Premiere 2 (TV)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9665
-#EXTINF:-1 tvg-id="Lifetime.(México).mx" tvg-name="CINE - Lifetime (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-iMAi_8FJwwQ/XatGmhKYmbI/AAAAAAAAAbQ/0z9DR3Ur5KYfsAzeHVCogx2jNUubeChrACLcBGAsYHQ/s200/37.png" group-title="MEXICO-LOCAL",CINE - Lifetime (M)(1080)
+#EXTINF:-1 tvg-id="Lifetime.(México).mx" tvg-name="Lifetime (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-iMAi_8FJwwQ/XatGmhKYmbI/AAAAAAAAAbQ/0z9DR3Ur5KYfsAzeHVCogx2jNUubeChrACLcBGAsYHQ/s200/37.png" group-title="MEXICO-LOCAL",Lifetime (M)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9703
-#EXTINF:-1 tvg-id="Pánico.mx" tvg-name="CINE - Panico MEX (TV)(720)" tvg-logo="" group-title="CANALES-CINE Y SERIES",CINE - Panico MEX (TV)(720)
+#EXTINF:-1 tvg-id="Pánico.mx" tvg-name="Panico MEX (TV)(720)" tvg-logo="" group-title="CANALES-CINE Y SERIES",Panico MEX (TV)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9704
-#EXTINF:-1 tvg-id="Showtime.Extreme.-.Eastern.us" tvg-name="CINE - Showtime Extreme (Z)" tvg-logo="https://lovingseries.files.wordpress.com/2016/01/showtime-logo.jpg" group-title="MEXICO-LOCAL",CINE - Showtime Extreme (Z)
+#EXTINF:-1 tvg-id="Showtime.Extreme.-.Eastern.us" tvg-name="Showtime Extreme (Z)" tvg-logo="https://lovingseries.files.wordpress.com/2016/01/showtime-logo.jpg" group-title="MEXICO-LOCAL",Showtime Extreme (Z)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9709
-#EXTINF:-1 tvg-id="Paramount+.with.Showtime..West.us" tvg-name="CINE - Showtime West Dual (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-1CyRY6HMjJE/XxCHEUy_trI/AAAAAAAAAbg/g0eCuMarEbA_5d3m7g468QjwKuXA91EjgCLcBGAsYHQ/w200-h200/Showtime%2BWEST.png" group-title="MEXICO-LOCAL",CINE - Showtime West Dual (M)(1080)
+#EXTINF:-1 tvg-id="Paramount+.with.Showtime..West.us" tvg-name="Showtime West Dual (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-1CyRY6HMjJE/XxCHEUy_trI/AAAAAAAAAbg/g0eCuMarEbA_5d3m7g468QjwKuXA91EjgCLcBGAsYHQ/w200-h200/Showtime%2BWEST.png" group-title="MEXICO-LOCAL",Showtime West Dual (M)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9710
-#EXTINF:-1 tvg-id="Sony.(México).mx" tvg-name="CINE - Sony Channel (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-Ess4VrXYpAQ/XatGnkceQRI/AAAAAAAAAbc/OqfYrJcB2UcrnplBlalhQncSDVbKkP2fwCLcBGAsYHQ/s200/41.png" group-title="MEXICO-LOCAL",CINE - Sony Channel (L)(1080)
+#EXTINF:-1 tvg-id="Sony.(México).mx" tvg-name="Sony Channel (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-Ess4VrXYpAQ/XatGnkceQRI/AAAAAAAAAbc/OqfYrJcB2UcrnplBlalhQncSDVbKkP2fwCLcBGAsYHQ/s200/41.png" group-title="MEXICO-LOCAL",Sony Channel (L)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9711
-#EXTINF:-1 tvg-id="SONY.HD.(Sony.HD).pe" tvg-name="CINE - Sony Cine (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-pDZUOqatcCc/YDSFENFbt6I/AAAAAAAACFk/aG-Brvhw2Hoz5IsWO5eyTJtIdk3FqDS7wCLcBGAsYHQ/w200-h200/Sony.png" group-title="MEXICO-LOCAL",CINE - Sony Cine (M)(1080)
+#EXTINF:-1 tvg-id="SONY.HD.(Sony.HD).pe" tvg-name="Sony Cine (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-pDZUOqatcCc/YDSFENFbt6I/AAAAAAAACFk/aG-Brvhw2Hoz5IsWO5eyTJtIdk3FqDS7wCLcBGAsYHQ/w200-h200/Sony.png" group-title="MEXICO-LOCAL",Sony Cine (M)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9713
-#EXTINF:-1 tvg-id="Sony.KAL.us" tvg-name="CINE - Sony Comedias (S)(720)" tvg-logo="https://lh3.googleusercontent.com/-vLc9HxhBCWc/YrOnfUyvmGI/AAAAAAAADqU/7-IF607hHU4auLdAULFL9TbfbuWWkvcFQCNcBGAsYHQ/w200-h200/1655940987722304-1.png" group-title="MEXICO-LOCAL",CINE - Sony Comedias (S)(720)
+#EXTINF:-1 tvg-id="Sony.KAL.us" tvg-name="Sony Comedias (S)(720)" tvg-logo="https://lh3.googleusercontent.com/-vLc9HxhBCWc/YrOnfUyvmGI/AAAAAAAADqU/7-IF607hHU4auLdAULFL9TbfbuWWkvcFQCNcBGAsYHQ/w200-h200/1655940987722304-1.png" group-title="MEXICO-LOCAL",Sony Comedias (S)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9714
-#EXTINF:-1 tvg-id="TNT.Novelas.(México).mx" tvg-name="CINE - Sony Novelas (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-JYH4OV2UZyY/YrOngMaC-EI/AAAAAAAADqY/2lSJe3QRzDM4qzssNcDa2qhVLQllQDPNwCNcBGAsYHQ/w200-h200/1655940990366011-0.png" group-title="MEXICO-LOCAL",CINE - Sony Novelas (TV)(720)
+#EXTINF:-1 tvg-id="TNT.Novelas.(México).mx" tvg-name="Sony Novelas (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-JYH4OV2UZyY/YrOngMaC-EI/AAAAAAAADqY/2lSJe3QRzDM4qzssNcDa2qhVLQllQDPNwCNcBGAsYHQ/w200-h200/1655940990366011-0.png" group-title="MEXICO-LOCAL",Sony Novelas (TV)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9716
-#EXTINF:-1 tvg-id="Space.(México).mx" tvg-name="CINE - Space (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png" group-title="MEXICO-LOCAL",CINE - Space (TV)(1080)
+#EXTINF:-1 tvg-id="Space.(México).mx" tvg-name="Space (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-6wvhPq5IaU0/XatGn62vaSI/AAAAAAAAAbg/Ag7mkwAVGCM4eBE7PoLyqAUwkyHiFFAIwCLcBGAsYHQ/s200/42.png" group-title="MEXICO-LOCAL",Space (TV)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9717
-#EXTINF:-1 tvg-id="Star.Channel.(México).mx" tvg-name="CINE - Star Channel Norte (Z)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" group-title="MEXICO-LOCAL",CINE - Star Channel Norte (Z)(720)
+#EXTINF:-1 tvg-id="Star.Channel.(México).mx" tvg-name="Star Channel Norte (Z)(720)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1280px-Star_Action_2020.svg.png" group-title="MEXICO-LOCAL",Star Channel Norte (Z)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9724
-#EXTINF:-1 tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-name="CINE - Starz Comedy (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-65SSCnBQbP4/Xbf6BdncZvI/AAAAAAAAAvM/P7AAIx-1ZV09VxM9GwpIFr6VoawVs3U8ACLcBGAsYHQ/s200/63.png" group-title="MEXICO-LOCAL",CINE - Starz Comedy (M)(1080)
+#EXTINF:-1 tvg-id="Starz.Comedy.HD.-.Eastern.us" tvg-name="Starz Comedy (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-65SSCnBQbP4/Xbf6BdncZvI/AAAAAAAAAvM/P7AAIx-1ZV09VxM9GwpIFr6VoawVs3U8ACLcBGAsYHQ/s200/63.png" group-title="MEXICO-LOCAL",Starz Comedy (M)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9728
-#EXTINF:-1 tvg-id="Starz.Encore.Suspense.-.Eastern.us" tvg-name="CINE - Starz Encore Suspense (Z)" tvg-logo="http://fanc.tmsimg.com/assets/s83076_ll_h3_aa.png" group-title="MEXICO-LOCAL",CINE - Starz Encore Suspense (Z)
+#EXTINF:-1 tvg-id="Starz.Encore.Suspense.-.Eastern.us" tvg-name="Starz Encore Suspense (Z)" tvg-logo="http://fanc.tmsimg.com/assets/s83076_ll_h3_aa.png" group-title="MEXICO-LOCAL",Starz Encore Suspense (Z)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9730
-#EXTINF:-1 tvg-id="Starz.Encore.Family.-.Eastern.us" tvg-name="CINE - Starz Family (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png" group-title="MEXICO-LOCAL",CINE - Starz Family (M)(1080)
+#EXTINF:-1 tvg-id="Starz.Encore.Family.-.Eastern.us" tvg-name="Starz Family (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png" group-title="MEXICO-LOCAL",Starz Family (M)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9731
-#EXTINF:-1 tvg-id="Studio.Universal.(México).mx" tvg-name="CINE - Studio Universal (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-Mm4RcdZlydc/XatpNZ2eSDI/AAAAAAAAAek/B1kOZW_TEv0GakL-m6tUYEmi592FBiSEQCLcBGAsYHQ/s200/52.png" group-title="MEXICO-LOCAL",CINE - Studio Universal (M)(1080)
+#EXTINF:-1 tvg-id="Studio.Universal.(México).mx" tvg-name="Studio Universal (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-Mm4RcdZlydc/XatpNZ2eSDI/AAAAAAAAAek/B1kOZW_TEv0GakL-m6tUYEmi592FBiSEQCLcBGAsYHQ/s200/52.png" group-title="MEXICO-LOCAL",Studio Universal (M)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9732
-#EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" tvg-name="CINE - Syfy (M)(720)" tvg-logo="https://1.bp.blogspot.com/-jfjNpEHTpUo/XaqcohSN_RI/AAAAAAAAAZg/zMNahbdtrzEcLIfwhOB4OpzhAg_HyR0OwCLcBGAsYHQ/s200/29.png" group-title="MEXICO-LOCAL",CINE - Syfy (M)(720)
+#EXTINF:-1 tvg-id="Syfy.-.Eastern.Feed.us" tvg-name="Syfy (M)(720)" tvg-logo="https://1.bp.blogspot.com/-jfjNpEHTpUo/XaqcohSN_RI/AAAAAAAAAZg/zMNahbdtrzEcLIfwhOB4OpzhAg_HyR0OwCLcBGAsYHQ/s200/29.png" group-title="MEXICO-LOCAL",Syfy (M)(720)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9735
-#EXTINF:-1 tvg-id="TBS.-.East.us" tvg-name="CINE - TBS (Z)" tvg-logo="https://www.kindpng.com/picc/m/483-4832828_tbs-logo-png-transparent-transparent-tbs-logo-png.png" group-title="MEXICO-LOCAL",CINE - TBS (Z)
+#EXTINF:-1 tvg-id="TBS.-.East.us" tvg-name="TBS (Z)" tvg-logo="https://www.kindpng.com/picc/m/483-4832828_tbs-logo-png-transparent-transparent-tbs-logo-png.png" group-title="MEXICO-LOCAL",TBS (Z)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9738
-#EXTINF:-1 tvg-id="TCM.(México).mx" tvg-name="CINE - TCM (Z)(1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="MEXICO-LOCAL",CINE - TCM (Z)(1080)
+#EXTINF:-1 tvg-id="TCM.(México).mx" tvg-name="TCM (Z)(1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Turner_Classic_Movies_%28TCM%2C_Latin_America%29_-_2015_logo.png" group-title="MEXICO-LOCAL",TCM (Z)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9741
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="DEPORTES - Espn 1 COL (PM)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="MEXICO-LOCAL",DEPORTES - Espn 1 COL (PM)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9516
