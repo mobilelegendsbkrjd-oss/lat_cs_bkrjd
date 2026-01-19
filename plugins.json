@@ -20,25 +20,6 @@
     "name": "Latanime"
   },
   {
-    "iconUrl": "https://play-lh.googleusercontent.com/PWQswFQHB5ceLihhVG4ZTIXCM7rNHugAYsmlHUHmNMBfE_WsXwTM58AXH8QrMifcALEJuoPeGN1cctJW5e0Xhw=w240-h480-rw",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
-    "fileSize": 13017,
-    "status": 3,
-    "language": "es-mx",
-    "authors": [
-      "bkrjd"
-    ],
-    "tvTypes": [
-      "Others",
-   ],
-    "version": 1,
-    "internalName": "MercadoPlay",
-    "description": "MercadoPlay MX",
-    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/MercadoPlay.cs3",
-    "name": "MercadoPlay"
-  },
-  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dailymotion.com&sz=%size",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
