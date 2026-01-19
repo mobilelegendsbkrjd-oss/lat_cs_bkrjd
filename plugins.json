@@ -238,6 +238,27 @@
         "name": "pelisgratishd"
     },
   {
+        "iconUrl": "https://cdn.aptoide.com/imgs/b/6/2/b625d62367c39e3a60f5e21962a0556b_icon.png",
+        "apiVersion": 1.1,
+        "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+        "fileSize": 14624,
+        "status": 3,
+        "language": "mx",
+        "authors": [
+            "bkrjd"
+        ],
+        "tvTypes": [
+            "Movie",
+            "TvSeries",
+            "Anime",
+            "Cartoon"
+        ],
+        "version": 1,
+        "internalName": "MercadoPlay",
+        "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/MercadoPlay.cs3",
+        "name": "MercadoPlay"
+    },
+  {
   "iconUrl": "https://www.youtube.com/s/desktop/8c9c7f0f/img/favicon_144x144.png",
   "apiVersion": 1,
   "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
