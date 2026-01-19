@@ -1,0 +1,57 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
+#EXTINF:-1 tvg-id="" tvg-name="INF-Baby TV (Z)(1080)" tvg-logo="http://daleplay.club:8080/images/07d716b7a2daab061d6ea4121f11d31e.png" group-title="CANALES-INFANTILES",INF-Baby TV (Z)(1080)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9855
+#EXTINF:-1 tvg-id="" tvg-name="INF-Boomerang (Z)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="CANALES-INFANTILES",INF-Boomerang (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9857
+#EXTINF:-1 tvg-id="" tvg-name="INF-Cartoon Network (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png" group-title="CANALES-INFANTILES",INF-Cartoon Network (M)(1080)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9858
+#EXTINF:-1 tvg-id="" tvg-name="INF-Cartoon Network (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png" group-title="CANALES-INFANTILES",INF-Cartoon Network (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9859
+#EXTINF:-1 tvg-id="" tvg-name="INF-Cartoon Network (Z)(720)" tvg-logo="http://fanc.tmsimg.com/assets/s59562_ll_h3_aa.png" group-title="CANALES-INFANTILES",INF-Cartoon Network (Z)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9861
+#EXTINF:-1 tvg-id="" tvg-name="INF-Cartoonito (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-QpOaYsWgcPg/XbCJ8KR8dqI/AAAAAAAAAnM/ZbLWuXslEYs_34QSlNCN1NxCJD_LIhEjQCLcBGAsYHQ/s200/3.png" group-title="CANALES-INFANTILES",INF-Cartoonito (M)(1080)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9856
+#EXTINF:-1 tvg-id="" tvg-name="INF-Discovery Kids (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-7wtBrbM92zg/XbCJ8pRUYFI/AAAAAAAAAnU/FcyjlaqBFvcyjS_btzHk80hR-QiDISgvQCLcBGAsYHQ/s200/5.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (M)(1080)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9862
+#EXTINF:-1 tvg-id="" tvg-name="INF-Discovery Kids (M)(SD)" tvg-logo="http://tv.proyectox.vip:8080/images/e4da3b7fbbce2345d7772b0674a318d5.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9863
+#EXTINF:-1 tvg-id="" tvg-name="INF-Discovery Kids (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-7wtBrbM92zg/XbCJ8pRUYFI/AAAAAAAAAnU/FcyjlaqBFvcyjS_btzHk80hR-QiDISgvQCLcBGAsYHQ/s200/5.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (TV)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9864
+#EXTINF:-1 tvg-id="" tvg-name="INF-Discovery Kids (Z)(1080)" tvg-logo="http://daleplay.club:8080/images/0709ebf7999dae6684fc2c945ae315ef.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (Z)(1080)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9865
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney Channel (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-jC_71uPSavo/XbCJ81p6qLI/AAAAAAAAAnY/Exgk_229xPQY-vQB55oAWD9a9gO5Ep-sACLcBGAsYHQ/s200/6.png" group-title="CANALES-INFANTILES",INF-Disney Channel (M)(1080)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9866
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney Channel (Z)" tvg-logo="http://daleplay.club:8080/images/1af27c4b7880c46b862f41093b2222a3.png" group-title="CANALES-INFANTILES",INF-Disney Channel (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9867
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney JR (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-UbKrve2iADs/XbCJ9H4V49I/AAAAAAAAAnc/P_zFX6qME9sp29_KgVUdMq7lGghzeE7FACLcBGAsYHQ/s200/7.png" group-title="CANALES-INFANTILES",INF-Disney JR (L)(1080)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9868
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney Jr (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-UbKrve2iADs/XbCJ9H4V49I/AAAAAAAAAnc/P_zFX6qME9sp29_KgVUdMq7lGghzeE7FACLcBGAsYHQ/s200/7.png" group-title="CANALES-INFANTILES",INF-Disney Jr (M)(1080)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9869
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney JR (Z)(720)" tvg-logo="http://daleplaypro.com:8080/images/627e7fa12773e20f3d430dd147f39c1d.png" group-title="CANALES-INFANTILES",INF-Disney JR (Z)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9870
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ienC4RYwebg/XbCJ6586sGI/AAAAAAAAAm4/Tnw_2TQefvEA0V1OwlajeJl3hfSo27oEQCLcBGAsYHQ/s200/12.png" group-title="CANALES-INFANTILES",INF-Nick (M)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9871
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick (Z)(720)" tvg-logo="http://daleplaypro.com:8080/images/aa751d00697408024bca5ef69d02b5ee.png" group-title="CANALES-INFANTILES",INF-Nick (Z)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9872
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick 2 (Z)(720)" tvg-logo="http://daleplay.club:8080/images/fca21adc35170a5bda5d664e14b08295.png" group-title="CANALES-INFANTILES",INF-Nick 2 (Z)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9874
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick Jr (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-X24mfjteGIE/XbCJ6OlCKII/AAAAAAAAAms/WRRle8oe1HgQh1YWorHwp6DjUZEwHub3QCLcBGAsYHQ/s200/11.png" group-title="CANALES-INFANTILES",INF-Nick Jr (M)(1080)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9875
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="INF-Nick Jr (M)(720)" tvg-logo="https://1.bp.blogspot.com/-X24mfjteGIE/XbCJ6OlCKII/AAAAAAAAAms/WRRle8oe1HgQh1YWorHwp6DjUZEwHub3QCLcBGAsYHQ/s200/11.png" group-title="CANALES-INFANTILES",INF-Nick Jr (M)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9876
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick JR (Z)(720)" tvg-logo="http://daleplaypro.com:8080/images/9760c7476e6274990edda067e059d332.png" group-title="CANALES-INFANTILES",INF-Nick JR (Z)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9877
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nick Music (L)(720)" tvg-logo="https://1.bp.blogspot.com/-I4ldwtW75bg/XbCJ7UTo99I/AAAAAAAAAnA/11FY3X5w_-shKupLj0Lct2mTe7JMURH_wCLcBGAsYHQ/s200/14.png" group-title="CANALES-INFANTILES",INF-Nick Music (L)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9878
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="INF-Nickelodeon (M)(720)" tvg-logo="https://1.bp.blogspot.com/-556Wpt2x81s/XbCJ7J0zvgI/AAAAAAAAAm8/M-3PaCQ6EsE1NBCXLOXvyNWVyL62gvJhQCLcBGAsYHQ/s200/13.png" group-title="CANALES-INFANTILES",INF-Nickelodeon (M)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9879
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nicktoon (Z)" tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/Nicktoons-United-States-Logo.png" group-title="CANALES-INFANTILES",INF-Nicktoon (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9881
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nicktoons (M)(720)" tvg-logo="https://1.bp.blogspot.com/-I4ldwtW75bg/XbCJ7UTo99I/AAAAAAAAAnA/11FY3X5w_-shKupLj0Lct2mTe7JMURH_wCLcBGAsYHQ/s200/14.png" group-title="CANALES-INFANTILES",INF-Nicktoons (M)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9882
+#EXTINF:-1 tvg-id="" tvg-name="INF-TeenNick (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-dFHl1z4YcQk/XbCJ6BgemaI/AAAAAAAAAm0/aQt5GvD7r5ATZetNP-4LfG1aS01FsKnMgCLcBGAsYHQ/s200/10.png" group-title="CANALES-INFANTILES",INF-TeenNick (M)(1080)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9873
+#EXTINF:-1 tvg-id="" tvg-name="INF-Tooncast (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ilF13a10Ezk/XbCJ7kw7jxI/AAAAAAAAAnE/7IuCyG1j-J0vgluvh4osCiMq6zQUmv8pwCLcBGAsYHQ/s200/15.png" group-title="CANALES-INFANTILES",INF-Tooncast (M)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9883
+#EXTINF:-1 tvg-id="" tvg-name="INF-Tooncast (Z)(720)" tvg-logo="http://daleplaypro.com:8080/images/ebdac901ea46a900977d3f1b260823f2.png" group-title="CANALES-INFANTILES",INF-Tooncast (Z)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9884

@@ -1,0 +1,173 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
+#EXTINF:-1 tvg-id="" tvg-name="PPV 1 - La Reina del Flow 3 (e)(1080) " tvg-logo="" group-title="EVENTOS PPV",PPV 1 - La Reina del Flow 3 (e)(1080)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/165338
+#EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="PPV 2 - La Reina del Flow 3" tvg-logo="" group-title="EVENTOS PPV",PPV 2 - La Reina del Flow 3
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/165337
+#EXTINF:-1 tvg-id="" tvg-name="PPV 3 - La reina de flow 3" tvg-logo="https://www.nll.com/wp-content/uploads/2020/11/Logo_Evolution.jpg" group-title="EVENTOS PPV",PPV 3 - La reina de flow 3
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/165336
+#EXTINF:-1 tvg-id="M+.LALIGA.TV.es" tvg-name="PPV 4 - " tvg-logo="" group-title="EVENTOS PPV",PPV 4 -
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/165333
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn 1 (L)" tvg-logo="https://i.postimg.cc/J4YTfty9/Proyecto-X-espana-31.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn 1 (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156148
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn 1 (TV)" tvg-logo="https://i.postimg.cc/J4YTfty9/Proyecto-X-espana-31.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn 1 (TV)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156150
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn 2 (L)" tvg-logo="https://i.postimg.cc/SxXZkqCq/Proyecto-X-espana-25.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn 2 (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156151
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn 2 (TV)" tvg-logo="https://i.postimg.cc/SxXZkqCq/Proyecto-X-espana-25.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn 2 (TV)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156152
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn LaLiga (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dazn_LaLiga_logo.svg/1280px-Dazn_LaLiga_logo.svg.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn LaLiga (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156156
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn LaLiga 1 (TV)" tvg-logo="https://i.postimg.cc/mDTNzGz7/Proyecto-X-espana-29.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn LaLiga 1 (TV)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156157
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn LaLiga 2 (TV)" tvg-logo="https://i.postimg.cc/bJqHDjDh/Proyecto-X-espana-28.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn LaLiga 2 (TV)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156159
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn LaLiga 3 (TV) (Solo Eventos)" tvg-logo="https://i.postimg.cc/VL9GK1nn/Proyecto-X-ppv-1.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn LaLiga 3 (TV) (Solo Eventos)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156161
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn LaLiga 4 (TV) (Solo Eventos)" tvg-logo="https://i.postimg.cc/N0jzyVyf/Proyecto-X-ppv-2.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn LaLiga 4 (TV) (Solo Eventos)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156162
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn F1 (L)" tvg-logo="https://i.postimg.cc/0QZG7HDh/Proyecto-X-espana-30.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn F1 (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156163
+#EXTINF:-1 tvg-id="" tvg-name="PPV - LaLiga: Dazn F1. (TV)" tvg-logo="https://i.postimg.cc/0QZG7HDh/Proyecto-X-espana-30.png" group-title="EVENTOS PPV MUNDIAL",PPV - LaLiga: Dazn F1. (TV)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156164
+#EXTINF:-1 tvg-id="" tvg-name="PPV - F1 | Dazn (Z)" tvg-logo="https://i.postimg.cc/0QZG7HDh/Proyecto-X-espana-30.png" group-title="EVENTOS PPV MUNDIAL",PPV - F1 | Dazn (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156165
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Serie A: Dazn Bar 1 (TV)" tvg-logo="https://i.postimg.cc/NjyNBYT3/Proyecto-X-ppv.png" group-title="EVENTOS PPV MUNDIAL",PPV - Serie A: Dazn Bar 1 (TV)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156172
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Serie A: Dazn Sport 1 (TV)" tvg-logo="https://i.postimg.cc/J4YTfty9/Proyecto-X-espana-31.png" group-title="EVENTOS PPV MUNDIAL",PPV - Serie A: Dazn Sport 1 (TV)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156173
+#EXTINF:-1 tvg-id="" tvg-name="PPV-Laliga Hypermotion 1 (i)(720)" tvg-logo="" group-title="EVENTOS PPV MUNDIAL",PPV-Laliga Hypermotion 1 (i)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/165483
+#EXTINF:-1 tvg-id="" tvg-name="PPV-Laliga Hypermotion 2 (i)(720)" tvg-logo="" group-title="EVENTOS PPV MUNDIAL",PPV-Laliga Hypermotion 2 (i)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/165484
+#EXTINF:-1 tvg-id="" tvg-name="PPV-Laliga Hypermotion 3 (i)(720) " tvg-logo="" group-title="EVENTOS PPV MUNDIAL",PPV-Laliga Hypermotion 3 (i)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/165485
+#EXTINF:-1 tvg-id="" tvg-name="Serie A 11:30 Verona vs Bologna (L)" tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="EVENTOS PPV",Serie A 11:30 Verona vs Bologna (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166343
+#EXTINF:-1 tvg-id="" tvg-name="Serie A 13:45 Como vs Milan (L) (L)" tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="EVENTOS PPV",Serie A 13:45 Como vs Milan (L) (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166344
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga 13:30 Augsburg vs Union Berlin (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo-1.jpg" group-title="EVENTOS PPV",Bundesliga 13:30 Augsburg vs Union Berlin (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166345
+#EXTINF:-1 tvg-id="" tvg-name="Copa del Rey 14:00 Burgos vs Valencia (L)" tvg-logo="https://i.pinimg.com/474x/bf/98/94/bf989461daf2636bf55cccb2df2764d9.jpg" group-title="EVENTOS PPV",Copa del Rey 14:00 Burgos vs Valencia (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166346
+#EXTINF:-1 tvg-id="" tvg-name="Copa del Rey 14:00 Racing Santander vs Barcelona (L)" tvg-logo="https://i.pinimg.com/474x/bf/98/94/bf989461daf2636bf55cccb2df2764d9.jpg" group-title="EVENTOS PPV",Copa del Rey 14:00 Racing Santander vs Barcelona (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166347
+#EXTINF:-1 tvg-id="" tvg-name="Colombia 18:30 Junior vs Santa Fe (L)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="EVENTOS PPV",Colombia 18:30 Junior vs Santa Fe (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166348
+#EXTINF:-1 tvg-id="" tvg-name="Serie Río de la Plata 15:00 Progreso vs Atlético Tucumán (L)" tvg-logo="https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fteamsportsmedia.net%2Fwp-content%2Fuploads%2F2024%2F12%2FSerie_2025_web.png" group-title="EVENTOS PPV",Serie Río de la Plata 15:00 Progreso vs Atlético Tucumán (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166349
+#EXTINF:-1 tvg-id="" tvg-name="Serie Río de la Plata 17:45 Olimpia vs Colo-Colo (L)" tvg-logo="https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fteamsportsmedia.net%2Fwp-content%2Fuploads%2F2024%2F12%2FSerie_2025_web.png" group-title="EVENTOS PPV",Serie Río de la Plata 17:45 Olimpia vs Colo-Colo (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166350
+#EXTINF:-1 tvg-id="" tvg-name="Albania 10:00 Teuta Durrës vs Dinamo City (L)" tvg-logo="https://futboljobs.com/wp-content/uploads/emblems/04744932f3b2270a72f45774eae1f99a.png" group-title="EVENTOS PPV",Albania 10:00 Teuta Durrës vs Dinamo City (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166351
+#EXTINF:-1 tvg-id="" tvg-name="Australia Women 23:50 Melbourne City vs Newcastle Jets (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/A-League_Women_logo.svg/500px-A-League_Women_logo.svg.png" group-title="EVENTOS PPV",Australia Women 23:50 Melbourne City vs Newcastle Jets (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166352
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Paulista 16:30 RB Bragantino vs Corinthians (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Federa%C3%A7%C3%A3o_Paulista_de_Futebol_logo.png" group-title="EVENTOS PPV",Campeonato Paulista 16:30 RB Bragantino vs Corinthians (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166353
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Gaúcho 16:00 Monsoon vs Internacional (L)" tvg-logo="https://p7.hiclipart.com/preview/88/747/581/campeonato-gaucho-federacao-gaucha-de-futebol-football-gremio-foot-ball-porto-alegrense-sport-club-internacional-rs-logo.jpg" group-title="EVENTOS PPV",Campeonato Gaúcho 16:00 Monsoon vs Internacional (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166354
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 14:00 Sampaio Corrêa RJ vs Nova Iguaçu (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png" group-title="EVENTOS PPV",Campeonato Carioca 14:00 Sampaio Corrêa RJ vs Nova Iguaçu (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166355
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 16:00 Portuguesa RJ vs Botafogo (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png" group-title="EVENTOS PPV",Campeonato Carioca 16:00 Portuguesa RJ vs Botafogo (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166356
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 18:30 Vasco da Gama vs Maricá (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png" group-title="EVENTOS PPV",Campeonato Carioca 18:30 Vasco da Gama vs Maricá (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166357
+#EXTINF:-1 tvg-id="" tvg-name="Costa Rica 20:00 Alajuelense vs Municipal Liberia (L)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/97r4et1716292122.png" group-title="EVENTOS PPV",Costa Rica 20:00 Alajuelense vs Municipal Liberia (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166358
+#EXTINF:-1 tvg-id="" tvg-name="FA Women's Cup 13:30 West Bromwich Albion vs Everton (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e4/Women_FA_Cup_Logo.png" group-title="EVENTOS PPV",FA Women's Cup 13:30 West Bromwich Albion vs Everton (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166359
+#EXTINF:-1 tvg-id="" tvg-name="Kings World Cup Nations 15:00 Chile vs. España (L)" tvg-logo="https://kingsleague.pro/_ipx/s_762x294/img/world-cup/KWC-clubs-horizontal.png" group-title="EVENTOS PPV",Kings World Cup Nations 15:00 Chile vs. España (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166360
+#EXTINF:-1 tvg-id="" tvg-name="Kings World Cup Nations 16:00 México vs. Brasil (L)" tvg-logo="https://kingsleague.pro/_ipx/s_762x294/img/world-cup/KWC-clubs-horizontal.png" group-title="EVENTOS PPV",Kings World Cup Nations 16:00 México vs. Brasil (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166361
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Womens Basketball 10:00 UMass Lowell vs.NJIT (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Womens Basketball 10:00 UMass Lowell vs.NJIT (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166362
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Womens Basketball 11:00 Bryant vs.UMBC (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Womens Basketball 11:00 Bryant vs.UMBC (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166363
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Womens Basketball 13:00 Abilene Christian vs.California Baptist (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Womens Basketball 13:00 Abilene Christian vs.California Baptist (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166364
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Womens Basketball 17:00 Marshall vs.James Madison (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Womens Basketball 17:00 Marshall vs.James Madison (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166365
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Womens Basketball 17:15 Lindenwood vs.Southeast Missouri State (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Womens Basketball 17:15 Lindenwood vs.Southeast Missouri State (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166366
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Mens Basketball 17:30 Binghamton vs.UAlbany (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Mens Basketball 17:30 Binghamton vs.UAlbany (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166367
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Mens Basketball 18:00 Detroit Mercy vs.Northern Kentucky (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Mens Basketball 18:00 Detroit Mercy vs.Northern Kentucky (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166368
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Womens Basketball #4 Texas vs.#2 South Carolina (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Womens Basketball #4 Texas vs.#2 South Carolina (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166369
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Womens Basketball 18.30 Valparaiso vs.Illinois State (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Womens Basketball 18.30 Valparaiso vs.Illinois State (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166370
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Mens Basketball 19:00 Arkansas State vs.South Alabama (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Mens Basketball 19:00 Arkansas State vs.South Alabama (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166371
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Mens Basketball 19:30 Southern Indiana vs.Tennessee Tech (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Mens Basketball 19:30 Southern Indiana vs.Tennessee Tech (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166372
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Womens Basketball 20:00 Missouri State vs.UTEP (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Womens Basketball 20:00 Missouri State vs.UTEP (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166373
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Mens Basketball 20:30 UC Santa Barbara vs.Cal State Bakersfield (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Mens Basketball 20:30 UC Santa Barbara vs.Cal State Bakersfield (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166374
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Mens Basketball 21:00 Hawaii vs.Cal Poly (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Mens Basketball 21:00 Hawaii vs.Cal Poly (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166375
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Womens Hockey 14:00 Merrimack vs.#5 UConn (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Womens Hockey 14:00 Merrimack vs.#5 UConn (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166376
+#EXTINF:-1 tvg-id="" tvg-name="ATP | 20:00 Tomas Machac (CZE) vs. Jaume Munar (ESP) (Cuartos de Final) (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png" group-title="EVENTOS PPV",ATP | 20:00 Tomas Machac (CZE) vs. Jaume Munar (ESP) (Cuartos de Final) (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166406
+#EXTINF:-1 tvg-id="" tvg-name="ATP | 22:30 Aleksandar Vukic (AUS) vs. Tommy Paul (USA) (Cuartos de Final) (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png" group-title="EVENTOS PPV",ATP | 22:30 Aleksandar Vukic (AUS) vs. Tommy Paul (USA) (Cuartos de Final) (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166407
+#EXTINF:-1 tvg-id="" tvg-name="ATP | 23:00 Giovanni Mpetshi Perricard (FRA) vs. Jakub Mensik (CZE) (Cuartos de Final) (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png" group-title="EVENTOS PPV",ATP | 23:00 Giovanni Mpetshi Perricard (FRA) vs. Jakub Mensik (CZE) (Cuartos de Final) (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166408
+#EXTINF:-1 tvg-id="" tvg-name="WTA | 18:30 Adelaide International (Semifinal) (L)" tvg-logo="https://images.seeklogo.com/logo-png/39/1/wta-2020-logo-png_seeklogo-392673.png" group-title="EVENTOS PPV",WTA | 18:30 Adelaide International (Semifinal) (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166409
+#EXTINF:-1 tvg-id="" tvg-name="WTA | 18:30 Adelaide International (Cuartos de Final) (L)" tvg-logo="https://images.seeklogo.com/logo-png/39/1/wta-2020-logo-png_seeklogo-392673.png" group-title="EVENTOS PPV",WTA | 18:30 Adelaide International (Cuartos de Final) (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166410
+#EXTINF:-1 tvg-id="" tvg-name="WTA | 20:00 Hobart International (Cuartos de Final) (L)" tvg-logo="https://images.seeklogo.com/logo-png/39/1/wta-2020-logo-png_seeklogo-392673.png" group-title="EVENTOS PPV",WTA | 20:00 Hobart International (Cuartos de Final) (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166411
+#EXTINF:-1 tvg-id="" tvg-name="WTA | 22:00 Hobart International (Semifinal) (L)" tvg-logo="https://images.seeklogo.com/logo-png/39/1/wta-2020-logo-png_seeklogo-392673.png" group-title="EVENTOS PPV",WTA | 22:00 Hobart International (Semifinal) (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166412
+#EXTINF:-1 tvg-id="" tvg-name="WTA | 22:30 Adelaide International / Show Court 1 (Doubles Semifinals) (L)" tvg-logo="https://images.seeklogo.com/logo-png/39/1/wta-2020-logo-png_seeklogo-392673.png" group-title="EVENTOS PPV",WTA | 22:30 Adelaide International / Show Court 1 (Doubles Semifinals) (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166413
+#EXTINF:-1 tvg-id="" tvg-name="WTA | 23:30 Adelaide International / Court 4 (Doubles Semifinals) (L)" tvg-logo="https://images.seeklogo.com/logo-png/39/1/wta-2020-logo-png_seeklogo-392673.png" group-title="EVENTOS PPV",WTA | 23:30 Adelaide International / Court 4 (Doubles Semifinals) (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166414
+#EXTINF:-1 tvg-id="" tvg-name="Australian Open 02:00 Alcaraz vs. de Minaur (Exhibicion) (L)" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/australian-open-1-logo.png" group-title="EVENTOS PPV",Australian Open 02:00 Alcaraz vs. de Minaur (Exhibicion) (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166415
+#EXTINF:-1 tvg-id="" tvg-name="Golf | 11:00 PGA TOUR Sony Open in Hawaii Morikawa Group & Hole #16 (First Round) (L)" tvg-logo="https://res.cloudinary.com/pgatour-prod/d_tournaments:logos:R000.png/tournaments/logos/R006.png" group-title="EVENTOS PPV",Golf | 11:00 PGA TOUR Sony Open in Hawaii Morikawa Group & Hole #16 (First Round) (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166416
+#EXTINF:-1 tvg-id="" tvg-name="Pro Swim Series: Austin 1 18:00 (L)" tvg-logo="https://s3.amazonaws.com/cstest/mb/2025/03/TYR_Pro_fTVdXgF.png.220x220_q95.png" group-title="EVENTOS PPV",Pro Swim Series: Austin 1 18:00 (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166417
+#EXTINF:-1 tvg-id="" tvg-name="LMP | 15 Enero | 20:30 Algodoneros de Guasave vs Tomateros de Culiacan (L)" tvg-logo="https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png" group-title="EVENTOS PPV",LMP | 15 Enero | 20:30 Algodoneros de Guasave vs Tomateros de Culiacan (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166418
+#EXTINF:-1 tvg-id="" tvg-name="LMP | 15 Enero | 21:30 Aguilas de Mexicali vs Charros de Jalisco (L)" tvg-logo="https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png" group-title="EVENTOS PPV",LMP | 15 Enero | 21:30 Aguilas de Mexicali vs Charros de Jalisco (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166419
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn 1 (L)" tvg-logo="https://i.postimg.cc/J4YTfty9/Proyecto-X-espana-31.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn 1 (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156148
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn 1 (TV)" tvg-logo="https://i.postimg.cc/J4YTfty9/Proyecto-X-espana-31.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn 1 (TV)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156150
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn 2 (L)" tvg-logo="https://i.postimg.cc/SxXZkqCq/Proyecto-X-espana-25.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn 2 (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156151
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn 2 (TV)" tvg-logo="https://i.postimg.cc/SxXZkqCq/Proyecto-X-espana-25.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn 2 (TV)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156152
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn LaLiga (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dazn_LaLiga_logo.svg/1280px-Dazn_LaLiga_logo.svg.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn LaLiga (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156156
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn LaLiga 1 (TV)" tvg-logo="https://i.postimg.cc/mDTNzGz7/Proyecto-X-espana-29.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn LaLiga 1 (TV)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156157
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn LaLiga 2 (TV)" tvg-logo="https://i.postimg.cc/bJqHDjDh/Proyecto-X-espana-28.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn LaLiga 2 (TV)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156159
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn LaLiga 3 (TV) (Solo Eventos)" tvg-logo="https://i.postimg.cc/VL9GK1nn/Proyecto-X-ppv-1.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn LaLiga 3 (TV) (Solo Eventos)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156161
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn LaLiga 4 (TV) (Solo Eventos)" tvg-logo="https://i.postimg.cc/N0jzyVyf/Proyecto-X-ppv-2.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn LaLiga 4 (TV) (Solo Eventos)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156162
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn F1 (L)" tvg-logo="https://i.postimg.cc/0QZG7HDh/Proyecto-X-espana-30.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn F1 (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156163
+#EXTINF:-1 tvg-id="" tvg-name="PPV - LaLiga: Dazn F1. (TV)" tvg-logo="https://i.postimg.cc/0QZG7HDh/Proyecto-X-espana-30.png" group-title="EVENTOS PPV MUNDIAL",PPV - LaLiga: Dazn F1. (TV)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156164
+#EXTINF:-1 tvg-id="" tvg-name="PPV - F1 | Dazn (Z)" tvg-logo="https://i.postimg.cc/0QZG7HDh/Proyecto-X-espana-30.png" group-title="EVENTOS PPV MUNDIAL",PPV - F1 | Dazn (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156165
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Serie A: Dazn Bar 1 (TV)" tvg-logo="https://i.postimg.cc/NjyNBYT3/Proyecto-X-ppv.png" group-title="EVENTOS PPV MUNDIAL",PPV - Serie A: Dazn Bar 1 (TV)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156172
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Serie A: Dazn Sport 1 (TV)" tvg-logo="https://i.postimg.cc/J4YTfty9/Proyecto-X-espana-31.png" group-title="EVENTOS PPV MUNDIAL",PPV - Serie A: Dazn Sport 1 (TV)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156173
+#EXTINF:-1 tvg-id="" tvg-name="PPV-Laliga Hypermotion 1 (i)(720)" tvg-logo="" group-title="EVENTOS PPV MUNDIAL",PPV-Laliga Hypermotion 1 (i)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/165483
+#EXTINF:-1 tvg-id="" tvg-name="PPV-Laliga Hypermotion 2 (i)(720)" tvg-logo="" group-title="EVENTOS PPV MUNDIAL",PPV-Laliga Hypermotion 2 (i)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/165484
+#EXTINF:-1 tvg-id="" tvg-name="PPV-Laliga Hypermotion 3 (i)(720) " tvg-logo="" group-title="EVENTOS PPV MUNDIAL",PPV-Laliga Hypermotion 3 (i)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/165485

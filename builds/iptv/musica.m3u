@@ -1,0 +1,35 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
+#EXTINF:-1 tvg-id="" tvg-name="MUS-Bandamax (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/6f4922f45568161a8cdf4ad2299f6d23.png" group-title="CANALES-MUSICA",MUS-Bandamax (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8307
+#EXTINF:-1 tvg-id="" tvg-name="MUS-Bandamax (TV)(720)" tvg-logo="" group-title="CANALES-MUSICA",MUS-Bandamax (TV)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8308
+#EXTINF:-1 tvg-id="" tvg-name="MUS-HTV (M)(720)" tvg-logo="" group-title="CANALES-MUSICA",MUS-HTV (M)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8309
+#EXTINF:-1 tvg-id="" tvg-name="MUS-MTV (M)(1080)" tvg-logo="http://23.153.216.121:25461/images/45c48cce2e2d7fbdea1afc51c7c6ad26.png" group-title="CANALES-MUSICA",MUS-MTV (M)(1080)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8310
+#EXTINF:-1 tvg-id="" tvg-name="MUS-MTV (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/45c48cce2e2d7fbdea1afc51c7c6ad26.png" group-title="CANALES-MUSICA",MUS-MTV (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8311
+#EXTINF:-1 tvg-id="" tvg-name="MUS-MTV Live (M)(1080)" tvg-logo="http://23.153.216.121:25461/images/1679091c5a880faf6fb5e6087eb1b2dc.png" group-title="CANALES-MUSICA",MUS-MTV Live (M)(1080)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8312
+#EXTINF:-1 tvg-id="" tvg-name="MUS-MTV Live (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/1679091c5a880faf6fb5e6087eb1b2dc.png" group-title="CANALES-MUSICA",MUS-MTV Live (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8313
+#EXTINF:-1 tvg-id="" tvg-name="MUS-Telehit (M)(1080)" tvg-logo="http://23.153.216.121:25461/images/8f14e45fceea167a5a36dedd4bea2543.png" group-title="CANALES-MUSICA",MUS-Telehit (M)(1080)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8315
+#EXTINF:-1 tvg-id="" tvg-name="MUS-Telehit (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/8f14e45fceea167a5a36dedd4bea2543.png" group-title="CANALES-MUSICA",MUS-Telehit (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8316
+#EXTINF:-1 tvg-id="" tvg-name="MUS-Telehit Plus(M)(1080)" tvg-logo="http://23.153.216.121:25461/images/c51ce410c124a10e0db5e4b97fc2af39.png" group-title="CANALES-MUSICA",MUS-Telehit Plus(M)(1080)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8317
+#EXTINF:-1 tvg-id="" tvg-name="MUS-Teleritmo (L)(SD)" tvg-logo="http://23.153.216.121:25461/images/c4ca4238a0b923820dcc509a6f75849b.png" group-title="CANALES-MUSICA",MUS-Teleritmo (L)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8318
+#EXTINF:-1 tvg-id="" tvg-name="MUS-VH1 (M)(1080)" tvg-logo="http://23.153.216.121:25461/images/e4da3b7fbbce2345d7772b0674a318d5.png" group-title="CANALES-MUSICA",MUS-VH1 (M)(1080)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8319
+#EXTINF:-1 tvg-id="" tvg-name="MUS-VH1 (TV)(720)" tvg-logo="http://23.153.216.121:25461/images/e4da3b7fbbce2345d7772b0674a318d5.png" group-title="CANALES-MUSICA",MUS-VH1 (TV)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8320
+#EXTINF:-1 tvg-id="" tvg-name="MUS-VH1 Classic (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/a87ff679a2f3e71d9181a67b7542122c.png" group-title="CANALES-MUSICA",MUS-VH1 Classic (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8321
+#EXTINF:-1 tvg-id="" tvg-name="MUS-VH1 Mega Hits (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/eccbc87e4b5ce2fe28308fd9f2a7baf3.png" group-title="CANALES-MUSICA",MUS-VH1 Mega Hits (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8322
+#EXTINF:-1 tvg-id="" tvg-name="MUS-VH1 Plus (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/c74d97b01eae257e44aa9d5bade97baf.png" group-title="CANALES-MUSICA",MUS-VH1 Plus (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8323
+#EXTINF:-1 tvg-id="" tvg-name="NOT-BBC World News (M)(720)" tvg-logo="https://1.bp.blogspot.com/-X4Twi3pHIRM/Xm5XtyganmI/AAAAAAAABbk/6byY3ZUAXUYkg6WVzsqg_MjZY5x5Bg-2gCLcBGAsYHQ/s200/5.png" group-title="CANALES-NOTICIA",NOT-BBC World News (M)(720)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/10250

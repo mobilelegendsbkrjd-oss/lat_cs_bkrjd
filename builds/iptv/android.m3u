@@ -1,72 +1,103 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
-#EXTINF:-1 group-title="24/7", Run Time Latino
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154
-#EXTINF:-1 group-title="24/7", Run Time Films
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1 group-title="24/7", Run Time Espanyol
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2649
-#EXTINF:-1 group-title="24/7", Run Time Cine y Series
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2152
-#EXTINF:-1 group-title="24/7", Run Time English
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2648
-#EXTINF:-1 group-title="24/7", Run Time France
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2160
-#EXTINF:-1 group-title="24/7", Run Time Brasil
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2153
-#EXTINF:-1 group-title="24/7", Run Time Familia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3528
-#EXTINF:-1 group-title="24/7", Run Time Terror
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529
-#EXTINF:-1 group-title="24/7", Run Time Romance
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3532
-#EXTINF:-1 group-title="24/7", Run Time Crimen
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3533
-#EXTINF:-1 group-title="24/7", Run Time Comedia
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2551
-#EXTINF:-1 group-title="24/7", Run Time Acción
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2550
-#EXTINF:-1 group-title="24/7", Canela TV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
-#EXTINF:-1 group-title="24/7", Canela Network
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2013
-#EXTINF:-1 group-title="24/7", Canela Cinema
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1733
-#EXTINF:-1 group-title="24/7", Canela Novelas
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1152
-#EXTINF:-1 group-title="24/7", Canela Clásicos
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
-#EXTINF:-1 group-title="24/7", Canela Hits
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1058
-#EXTINF:-1 group-title="24/7", Canela Kids
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
-#EXTINF:-1 group-title="24/7", Canela Music
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2548
-#EXTINF:-1 group-title="24/7", Canela Novelisima
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380
-#EXTINF:-1 group-title="Deportes", ITV DEPORTES
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
-#EXTINF:-1 group-title="Deportes", AYM Sports
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5106
-#EXTINF:-1 group-title="24/7", Combate Global
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
-#EXTINF:-1 group-title="24/7", Toon Goggles
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=771
-#EXTINF:-1 group-title="24/7", Kanal D Drama
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5088
-#EXTINF:-1 group-title="Entretenimiento", Corazón Fast
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4826
-#EXTINF:-1 group-title="Entretenimiento", Clic Fast
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827
-#EXTINF:-1 group-title="Peliculas", Cinema Fast
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829
-#EXTINF:-1 group-title="24/7", Acción Mexicana
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
-#EXTINF:-1 group-title="24/7", CombaTV
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5090
-#EXTINF:-1 group-title="24/7", WPT
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=5504
-#EXTINF:-1 group-title="24/7", C4 En Alerta
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
+#EXTINF:-1 tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-CINE Y SERIES",CINE - HBO (TV)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9669
+#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family. (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Family. (TV)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9677
+#EXTINF:-1 tvg-id="Canal.HBO.Plus.mx" tvg-name="CINE - HBO Plus (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Plus (TV)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9687
+#EXTINF:-1 tvg-id="HBO.POP.co" tvg-name="CINE - HBO POP. (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="CANALES-CINE Y SERIES",CINE - HBO POP. (TV)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9690
+#EXTINF:-1 tvg-id="HBO.XTREME.co" tvg-name="CINE - HBO Xtreme (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Xtreme (TV)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9700
+#EXTINF:-1 tvg-id="Comedy.Central.co" tvg-name="CINE - Comedy Central (M)(SD)" tvg-logo="http://tv.proyectox.vip:8080/images/8f14e45fceea167a5a36dedd4bea2543.png" group-title="CANALES-CINE Y SERIES",CINE - Comedy Central (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9637
+#EXTINF:-1 tvg-id="Canal.TNT.Novelas.(Latinoamérica).sv" tvg-name="CINE - TNT Novelas (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-GuBKhe6BjNU/XaqbhYUEY9I/AAAAAAAAAZU/GoNTclP8BQYz3LWW1FRbP0e_zV7-V_bNACLcBGAsYHQ/s200/28.png" group-title="CANALES-CINE Y SERIES",CINE - TNT Novelas (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9737
+#EXTINF:-1 tvg-id="M+.Cine.Español.es" tvg-name="CINE - A3 Cine INT (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-NB9rkT-lYkM/Xw8qxPOt_nI/AAAAAAAAAWw/NIIAJUpL29cJdLEkeRfNyS527x8nxiX5ACLcBGAsYHQ/w200-h200/A3%2BCine.png" group-title="CANALES-CINE Y SERIES",CINE - A3 Cine INT (TV)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9617
+#EXTINF:-1 tvg-id="Canal.Distrito.Comedia.mx" tvg-name="CINE - Distrito Comedia (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-beLeA0PDR3M/XatLcKHkHhI/AAAAAAAAAcY/qDSVdbA5CVwlSBEJV_XDE08auVkEZleBwCLcBGAsYHQ/s200/45.png" group-title="CANALES-CINE Y SERIES",CINE - Distrito Comedia (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9645
+#EXTINF:-1 tvg-id="Canal.Film.&.Arts.mx" tvg-name="CINE - Film And Arts (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-0Ey1X4aOpGY/Xg-Cjv2sU3I/AAAAAAAAA5E/Dt5jR8PGYFY7JZ-at0mMfzEjV9MNqaRvwCLcBGAsYHQ/s200/65.png" group-title="CANALES-CINE Y SERIES",CINE - Film And Arts (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9650
+#EXTINF:-1 tvg-id="Canal.AMC.(México).mx" tvg-name="CINE - AMC (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" group-title="CANALES-CINE Y SERIES",CINE - AMC (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9702
+#EXTINF:-1 tvg-id="Canal.TCM.(México).mx" tvg-name="CINE - TCM (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-I0it6XRRNxo/XdtVtXF2xPI/AAAAAAAAA30/Cb3ZdzakgygMU2_98viDf2CFqek_sQRTACLcBGAsYHQ/s200/24.png" group-title="CANALES-CINE Y SERIES",CINE - TCM (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9740
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - ESPN Premium ARG (L)(SD)" tvg-logo="https://lh3.googleusercontent.com/-jOfICTahjos/YoBRF4ftRiI/AAAAAAAADns/sO-bk2urxu0N3pCgD0ADRNC-D40slmGCgCNcBGAsYHQ/w200-h200/1652576530328166-0.png" group-title="CANALES-DEPORTES",DEPORTES - ESPN Premium ARG (L)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9549
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="DEPORTES - Fox Sports 2 ARG (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 ARG (L)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9581
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DEPORTES - Fox Sports 3 MEX (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 MEX (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9591
+#EXTINF:-1 tvg-id="IndiePlex.HDTV.(INDIEHD).us" tvg-name="DEPORTES - Golf Latin America (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin America (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9596
+#EXTINF:-1 tvg-id="" tvg-name="DOC-Discovery TLC (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-HOVUuBuEOZM/Xaukegk8w4I/AAAAAAAAAf8/y-jpMQsSCV80Xvk1S8dDwdMLyx6c4JohgCLcBGAsYHQ/s200/17.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery TLC (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9827
+#EXTINF:-1 tvg-id="" tvg-name="DOC-Discovery World (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-UP7Lxz2Td8g/XaukgY8HACI/AAAAAAAAAgY/HFeHTRkVWe4w5VJb-QATOz7rmIMfAFKSQCLcBGAsYHQ/s200/7.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery World (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9834
+#EXTINF:-1 tvg-id="" tvg-name="DOC-Investigation Discovery (M)(SD)" tvg-logo="http://tv.proyectox.vip:8080/images/9bf31c7ff062936a96d3c8bd1f8f2ff3.png" group-title="CANALES-DOCUMENTALES",DOC-Investigation Discovery (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9844
+#EXTINF:-1 tvg-id="" tvg-name="INF-Baby First (M)(SD)" tvg-logo="" group-title="CANALES-INFANTILES",INF-Baby First (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9854
+#EXTINF:-1 tvg-id="" tvg-name="INF-Cartoon Network (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png" group-title="CANALES-INFANTILES",INF-Cartoon Network (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9859
+#EXTINF:-1 tvg-id="" tvg-name="INF-Discovery Kids (M)(SD)" tvg-logo="http://tv.proyectox.vip:8080/images/e4da3b7fbbce2345d7772b0674a318d5.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9863
+#EXTINF:-1 tvg-id="" tvg-name="MUS-Bandamax (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/6f4922f45568161a8cdf4ad2299f6d23.png" group-title="CANALES-MUSICA",MUS-Bandamax (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8307
+#EXTINF:-1 tvg-id="" tvg-name="MUS-MTV (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/45c48cce2e2d7fbdea1afc51c7c6ad26.png" group-title="CANALES-MUSICA",MUS-MTV (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8311
+#EXTINF:-1 tvg-id="" tvg-name="MUS-MTV Live (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/1679091c5a880faf6fb5e6087eb1b2dc.png" group-title="CANALES-MUSICA",MUS-MTV Live (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8313
+#EXTINF:-1 tvg-id="" tvg-name="MUS-Telehit (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/8f14e45fceea167a5a36dedd4bea2543.png" group-title="CANALES-MUSICA",MUS-Telehit (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8316
+#EXTINF:-1 tvg-id="" tvg-name="MUS-Teleritmo (L)(SD)" tvg-logo="http://23.153.216.121:25461/images/c4ca4238a0b923820dcc509a6f75849b.png" group-title="CANALES-MUSICA",MUS-Teleritmo (L)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8318
+#EXTINF:-1 tvg-id="" tvg-name="MUS-VH1 Classic (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/a87ff679a2f3e71d9181a67b7542122c.png" group-title="CANALES-MUSICA",MUS-VH1 Classic (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8321
+#EXTINF:-1 tvg-id="" tvg-name="MUS-VH1 Mega Hits (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/eccbc87e4b5ce2fe28308fd9f2a7baf3.png" group-title="CANALES-MUSICA",MUS-VH1 Mega Hits (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8322
+#EXTINF:-1 tvg-id="" tvg-name="MUS-VH1 Plus (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/c74d97b01eae257e44aa9d5bade97baf.png" group-title="CANALES-MUSICA",MUS-VH1 Plus (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8323
+#EXTINF:-1 tvg-id="Canal.NTN24.(Nuestra.Tele.Noticias.24.Horas).sv" tvg-name="NOT-NTN24 (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-Qgr-jgmFI2s/Xm5XuXmxYBI/AAAAAAAABbw/eURPOer17pQMJS7tAF8uLXtT-eISGwzCgCLcBGAsYHQ/s200/8.png" group-title="CANALES-NOTICIA",NOT-NTN24 (TV)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/10256
+#EXTINF:-1 tvg-id="" tvg-name="NOT-Wobi (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-IkZ4XSP5dp4/Xm5XtoL93eI/AAAAAAAABbg/bLy9q5_WDL0ZhmIHVBYI1uNZ0uvNFuUWACLcBGAsYHQ/s200/4.png" group-title="CANALES-NOTICIA",NOT-Wobi (TV)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/10258
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca 7 (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="MEXICO",MEX-Azteca 7 (L)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/87571
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca 7 (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="MEXICO",MEX-Azteca 7 (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/87570
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca UNO -2 Horas (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png" group-title="MEXICO",MEX-Azteca UNO -2 Horas (L)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/87575
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Bloomberg (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-apx9Di-xHJM/Xm6zVXRpOnI/AAAAAAAABmY/fLo91xzoCjEJf2TdmBIqfwyc0Z-1WBjtgCLcBGAsYHQ/s200/42.png" group-title="MEXICO",MEX-Bloomberg (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/87577
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 5 (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="MEXICO",MEX-Canal 5 (L)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/87597
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Imagen TV (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-6DGj3EE5_5E/Xm60PTxOCXI/AAAAAAAABmg/m1B-y-CiE-U0Fxwxnvt5OV7nklSDRbsEgCLcBGAsYHQ/s200/43.png" group-title="MEXICO",MEX-Imagen TV (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/87615
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Las Estrellas (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png" group-title="MEXICO",MEX-Las Estrellas (M)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/87578
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Televisa Monterrey (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-OXCQ1Od1dUM/Xm5mzH9uszI/AAAAAAAABdQ/plWLCcO44SEliyJkdO1zd_3BU_Z0ElUSgCLcBGAsYHQ/s200/1.png" group-title="MEXICO",MEX-Televisa Monterrey (L)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/87605
+#EXTINF:-1 tvg-id="" tvg-name="MEX-María Visión Mexico (W)(SD)" tvg-logo="https://i.postimg.cc/Ghy9ZLBy/mariavision.png" group-title="MEXICO-LOCAL",MEX-María Visión Mexico (W)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/164656
+#EXTINF:-1 tvg-id="" tvg-name="MEX-PSN (W)(SD)" tvg-logo="https://i.imgur.com/7i7GkSL.png" group-title="MEXICO-LOCAL",MEX-PSN (W)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/164681
+#EXTINF:-1 tvg-id="" tvg-name="MEX-PSN Canal 45.2 (W)(SD)" tvg-logo="https://i.imgur.com/7i7GkSL.png" group-title="MEXICO-LOCAL",MEX-PSN Canal 45.2 (W)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/164682
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Radiotele Morelia ((W)(SD)" tvg-logo="https://i.imgur.com/XpcCZvu.png" group-title="MEXICO-LOCAL",MEX-Radiotele Morelia ((W)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/164685
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Sony Channel (W)(SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="MEXICO-LOCAL",MEX-Sony Channel (W)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/164699
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Tlaxcala Televisión (W)(SD)" tvg-logo="https://i.imgur.com/5vaEhfy.png" group-title="MEXICO-LOCAL",MEX-Tlaxcala Televisión (W)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/164711
+#EXTINF:-1 tvg-id="" tvg-name="MEX-TVMÁS (XHGV-TDT) (W)(SD)" tvg-logo="https://i.imgur.com/15kcNRb.png" group-title="MEXICO-LOCAL",MEX-TVMÁS (XHGV-TDT) (W)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/164731
+#EXTINF:-1 tvg-id="AztecaUno.mx" tvg-name="Azteca Uno (HD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/Logo_Azteca_Uno_2023.png"  group-title="Mexico", Azteca Uno
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name="Las Estrellas (excepto pelis)" tvg-logo="https://s3.us-east-1.amazonaws.com/forofms.na/monthly_2020_06/small.74835190079.png.f56373a3b38ea18c2c66ef37615a45b4.png"  group-title="Mexico", Las Estrellas (excepto pelis)
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 group-title="Mexico", Canal 6 CDMX
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6405
 #EXTINF:-1 group-title="Noticias", Milenio Televisión
@@ -80,7 +111,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4833
 #EXTINF:-1 group-title="Mexico", Imagen TV+ (-1h)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6149
 #EXTINF:-1 tvg-id="" tvg-name="Foro TV" tvg-logo="" group-title="Mexico",N+ Foro (US Feed)
-https://notusaauth.univision.com/api/v3/akamai-auth/token-auth?url=https://channel02secure-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8&amp;redirect=true
 #EXTINF:-1 tvg-id="" tvg-name="Canal 6 CDMX" tvg-logo="https://i.pinimg.com/originals/36/ae/a4/36aea42445a7f4fb199b8c34c9ac55f5.png" group-title="Mexico",Canal 6 CDMX
 https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1 tvg-id="MVSTV.mx" tvg-name="MVSTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/MVStv_logo.png" group-title="Entretenimiento",MVSTV
@@ -115,24 +145,12 @@ https://s5.mexside.net:1936/respaldo/respaldo/chunklist_w390601932.m3u8
 https://5e50264bd6766.streamlock.net/mexiquense/videomexiquense/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="AMX Noticias" tvg-logo="https://yt3.googleusercontent.com/gJzhEWQduAebS-WcB-5vE4ZpUWdTK2JIA_zJsigI5EQZMXQcbrVesBk5LrfLb4deU7u7knsxeQ=s900-c-k-c0x00ffffff-no-rj" group-title="Mexico",AMX Noticias
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Jalisco TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/Jalisco-TV_logotype.png" group-title="Mexico",Jalisco TV
-https://video0.rogohosting.com:19360/sisjalisciense/sisjalisciense.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 28 NL" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2019/11/Canal-28-Nuevo-Leon-en-VIVO-Online-.png" group-title="Mexico",Canal 28 NL
 https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SICOM Televisión 16.1" tvg-logo="https://sicompuebla.mx/wp-content/uploads/2023/08/TELE-16.1-140x140.jpg" group-title="Mexico",SICOM Televisión 16.1
 https://5d0d1d7a6be9e.streamlock.net/envivo/puecom/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SICOM Televisión 16.2" tvg-logo="https://sicompuebla.mx/wp-content/uploads/2023/08/TELE-16.2-140x140.jpg" group-title="Mexico",SICOM Televisión 16.2
 https://5d0d1d7a6be9e.streamlock.net/live/setpuebla/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4 Gto." tvg-logo="https://tvcuatro.tv/images/logo-menu.png" group-title="Mexico",TV4 Gto.
-https://5f1af61612fb5.streamlock.net:443/tv4/videotv4/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4.2 Gto." tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.2-Guanajuato-en-vivo-Online.png" group-title="Mexico",TV4.2 Gto.
-https://5f2c1b0d880e5.streamlock.net/tv42/videotv42_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV4.3 Gto." tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TV-Cuatro-Canal-4.3-Guanajuato-en-vivo-Online.png" group-title="Mexico",TV4.3 Gto.
-https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Morelos TV 15.1" tvg-logo="https://morelostv.org/wp-content/uploads/2023/05/morelostv-logo.jpg" group-title="Mexico",Morelos TV 15.1
-https://5f1af61612fb5.streamlock.net/tv4/smil:tv4.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Diez Chiapas" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Logotipo_oficial_del_Canal_10_Chiapas_perteneciente_al_Sistema_Chiapaneco_de_Radio%2C_Televisi%C3%B3n_y_Cinematograf%C3%ADa.png" group-title="Mexico",Diez Chiapas
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SMRTV 16.1" tvg-logo="https://sistemamichoacano.tv/wp-content/uploads/2022/04/cropped-logo-smrtv-web-1.jpg" group-title="Mexico",SMRTV 16.1
 https://s5.mexside.net:1936/enlinea/enlinea/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TV Mas 26.1" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/TV-Mas-Veracruz-en-vivo-Online.png" group-title="Mexico",TV Mas 26.1
@@ -141,8 +159,6 @@ https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
 https://5f2c1b0d880e5.streamlock.net/zacatecas/videozacatecas/playlist.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTQ" tvg-logo="https://www.rtq.mx/wp-content/uploads/2022/03/LOGO-TV.png" group-title="Mexico",RTQ
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Canal 10 Cancún/Heraldo Televisión Canal 8" tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2017/10/Canal-10-Cancun-en-vivo-Online.png" group-title="Mexico",Canal 10 Cancún/Heraldo Televisión Canal 8
-http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 tvg-id="JusticiaTV.mx" tvg-name="Justicia TV" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/531194-8c.png" group-title="Noticias",Justicia TV
 https://live-scjn.ovp-vivaro.digital/ovp-origin/638a22b47746d/playlist.m3u8
 #EXTINF:-1 tvg-id="RTinSpanish.mx" tvg-name="RT (Español)" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425396-8c.png" group-title="Extranjera",RT (Español)
@@ -181,6 +197,8 @@ https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/f12080cb1fe8a90df78e425df3f7a6d3.webp" group-title="Musica", m2o TV
 https://streamcdne2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://maximachile.cl/wp-content/uploads/2023/09/2021.gif" group-title="Musica", Maxima FM
+https://server1.oklanet.cl:1936/difunde-la-maximafmchile/ngrp:difunde-la-maximafmchile_all/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/ar_musictop_m.png" group-title="Musica", Music Top
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.5900.tv/wp-content/uploads/2023/06/latina-tv.jpg" group-title="Musica", Latina TV
@@ -200,80 +218,222 @@ https://5cefcbf58ba2e.streamlock.net:543/tltvweb/webtl-tv.stream/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="Musica", Turbo Mix TV
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 #EXTINF:-1 group-title="Mexico",Foro
-https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 #EXTINF:-1 tvg-id="CanalESNE.mx" tvg-name="El Sembrador Nueva Evangelización" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/425271-8c.png" group-title="Religion",El Sembrador Nueva Evangelización
 https://zypelive-amd-uswe.akamaized.net/hls/live/2041519/main/defEvent_1_720/hdntl=exp=1661186586~acl=%2f*~data=hdntl~hmac=e878cc95f10a199a85e244e48d4ff1ee3ad7cf0b4fc97a0e48f2764db37322ea/chunklist.m3u8
 #EXTINF:-1 tvg-id="Mariavision.mx" tvg-name="María Visión" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416625-8c.png" group-title="Religion",María Visión
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTN" tvg-logo="https://imgn.cdn.iutpcdn.com/IMGS/CHANNEL/SUPER_LIGHT/416623-8c.png" group-title="Religion",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PPV 1 - La Reina del Flow 3 (e)(1080) " tvg-logo="" group-title="EVENTOS PPV",PPV 1 - La Reina del Flow 3 (e)(1080)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/165338
 #EXTINF:-1 tvg-id="ESPN.2.co" tvg-name="PPV 2 - La Reina del Flow 3" tvg-logo="" group-title="EVENTOS PPV",PPV 2 - La Reina del Flow 3
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/165337
 #EXTINF:-1 tvg-id="" tvg-name="PPV 3 - La reina de flow 3" tvg-logo="https://www.nll.com/wp-content/uploads/2020/11/Logo_Evolution.jpg" group-title="EVENTOS PPV",PPV 3 - La reina de flow 3
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/165336
 #EXTINF:-1 tvg-id="M+.LALIGA.TV.es" tvg-name="PPV 4 - " tvg-logo="" group-title="EVENTOS PPV",PPV 4 -
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/165333
-#EXTINF:-1 tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-CINE Y SERIES",CINE - HBO (TV)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9669
-#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family. (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Family. (TV)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9677
-#EXTINF:-1 tvg-id="HBO.POP.co" tvg-name="CINE - HBO POP. (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="CANALES-CINE Y SERIES",CINE - HBO POP. (TV)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9690
-#EXTINF:-1 tvg-id="HBO.XTREME.co" tvg-name="CINE - HBO Xtreme (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Xtreme (TV)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9700
-#EXTINF:-1 tvg-id="Comedy.Central.co" tvg-name="CINE - Comedy Central (M)(SD)" tvg-logo="http://tv.proyectox.vip:8080/images/8f14e45fceea167a5a36dedd4bea2543.png" group-title="CANALES-CINE Y SERIES",CINE - Comedy Central (M)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9637
-#EXTINF:-1 tvg-id="Canal.HBO.Plus.mx" tvg-name="CINE - HBO Plus (M)(SD) [Dual Audio]" tvg-logo="http://tv.proyectox.vip:8080/images/34173cb38f07f89ddbebc2ac9128303f.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Plus (M)(SD) [Dual Audio]
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9686
-#EXTINF:-1 tvg-id="Canal.HBO.Plus.mx" tvg-name="CINE - HBO Plus (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Plus (TV)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9687
-#EXTINF:-1 tvg-id="Canal.HBO.Pop.mx" tvg-name="CINE - HBO POP (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="CANALES-CINE Y SERIES",CINE - HBO POP (M)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9691
-#EXTINF:-1 tvg-id="Canal.AMC.(México).mx" tvg-name="CINE - AMC (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-FwlH6QzpV-8/XaokZRCO07I/AAAAAAAAAWA/2fjkTYGqsp03aenYpNBo2pChRQ6T485_ACLcBGAsYHQ/s200/2.png" group-title="CANALES-CINE Y SERIES",CINE - AMC (M)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9702
-#EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Family (M)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9670
-#EXTINF:-1 tvg-id="Canal.Cinelatino.cl" tvg-name="CINE - Cine Latino (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-3-EvoMrQo-M/XaokZPxvp-I/AAAAAAAAAV8/wiPsHTnn5TQPaAOxfW6h00GSoQA1UvGgwCLcBGAsYHQ/s200/17.png" group-title="CANALES-CINE Y SERIES",CINE - Cine Latino (M)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9628
-#EXTINF:-1 tvg-id="Canal.Distrito.Comedia.mx" tvg-name="CINE - Distrito Comedia (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-beLeA0PDR3M/XatLcKHkHhI/AAAAAAAAAcY/qDSVdbA5CVwlSBEJV_XDE08auVkEZleBwCLcBGAsYHQ/s200/45.png" group-title="CANALES-CINE Y SERIES",CINE - Distrito Comedia (M)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9645
-#EXTINF:-1 tvg-id="Canal.TNT.Novelas.(Latinoamérica).sv" tvg-name="CINE - TNT Novelas (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-GuBKhe6BjNU/XaqbhYUEY9I/AAAAAAAAAZU/GoNTclP8BQYz3LWW1FRbP0e_zV7-V_bNACLcBGAsYHQ/s200/28.png" group-title="CANALES-CINE Y SERIES",CINE - TNT Novelas (M)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9737
-#EXTINF:-1 tvg-id="Canal.TCM.(México).mx" tvg-name="CINE - TCM (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-I0it6XRRNxo/XdtVtXF2xPI/AAAAAAAAA30/Cb3ZdzakgygMU2_98viDf2CFqek_sQRTACLcBGAsYHQ/s200/24.png" group-title="CANALES-CINE Y SERIES",CINE - TCM (M)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9740
-#EXTINF:-1 tvg-id="Canal.Fox.Sports.3.(Cono.Norte).sv" tvg-name="DEPORTES - Fox Sports 3 MEX (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 MEX (M)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9591
-#EXTINF:-1 tvg-id="IndiePlex.HDTV.(INDIEHD).us" tvg-name="DEPORTES - Golf Latin America (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-bnHcR36sEwk/XmzurT8VcYI/AAAAAAAABac/WuIdPohEzLU9o2C4V0_UB2_CpO72CjfQACLcBGAsYHQ/s200/35.png" group-title="CANALES-DEPORTES",DEPORTES - Golf Latin America (M)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9596
-#EXTINF:-1 tvg-id="" tvg-name="DOC-Discovery TLC (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-HOVUuBuEOZM/Xaukegk8w4I/AAAAAAAAAf8/y-jpMQsSCV80Xvk1S8dDwdMLyx6c4JohgCLcBGAsYHQ/s200/17.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery TLC (M)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9827
-#EXTINF:-1 tvg-id="" tvg-name="DOC-Discovery World (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-UP7Lxz2Td8g/XaukgY8HACI/AAAAAAAAAgY/HFeHTRkVWe4w5VJb-QATOz7rmIMfAFKSQCLcBGAsYHQ/s200/7.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery World (M)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9834
-#EXTINF:-1 tvg-id="" tvg-name="INF-Baby First (M)(SD)" tvg-logo="" group-title="CANALES-INFANTILES",INF-Baby First (M)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9854
-#EXTINF:-1 tvg-id="" tvg-name="INF-Cartoon Network (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-9UXQbO1ONHc/XbCJ8AM4PDI/AAAAAAAAAnQ/KAQFIcqoRJ81qr-mxPGwBOs5BqQRSumFwCLcBGAsYHQ/s200/4.png" group-title="CANALES-INFANTILES",INF-Cartoon Network (M)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9859
-#EXTINF:-1 tvg-id="" tvg-name="INF-Discovery Kids (M)(SD)" tvg-logo="http://tv.proyectox.vip:8080/images/e4da3b7fbbce2345d7772b0674a318d5.png" group-title="CANALES-INFANTILES",INF-Discovery Kids (M)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9863
-#EXTINF:-1 tvg-id="" tvg-name="MUS-Bandamax (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/6f4922f45568161a8cdf4ad2299f6d23.png" group-title="CANALES-MUSICA",MUS-Bandamax (M)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8307
-#EXTINF:-1 tvg-id="" tvg-name="MUS-MTV (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/45c48cce2e2d7fbdea1afc51c7c6ad26.png" group-title="CANALES-MUSICA",MUS-MTV (M)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8311
-#EXTINF:-1 tvg-id="" tvg-name="MUS-MTV Live (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/1679091c5a880faf6fb5e6087eb1b2dc.png" group-title="CANALES-MUSICA",MUS-MTV Live (M)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8313
-#EXTINF:-1 tvg-id="" tvg-name="MUS-Telehit (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/8f14e45fceea167a5a36dedd4bea2543.png" group-title="CANALES-MUSICA",MUS-Telehit (M)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8316
-#EXTINF:-1 tvg-id="" tvg-name="MUS-VH1 Classic (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/a87ff679a2f3e71d9181a67b7542122c.png" group-title="CANALES-MUSICA",MUS-VH1 Classic (M)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8321
-#EXTINF:-1 tvg-id="" tvg-name="MUS-VH1 Mega Hits (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/eccbc87e4b5ce2fe28308fd9f2a7baf3.png" group-title="CANALES-MUSICA",MUS-VH1 Mega Hits (M)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8322
-#EXTINF:-1 tvg-id="" tvg-name="MUS-VH1 Plus (M)(SD)" tvg-logo="http://23.153.216.121:25461/images/c74d97b01eae257e44aa9d5bade97baf.png" group-title="CANALES-MUSICA",MUS-VH1 Plus (M)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8323
-#EXTINF:-1 tvg-id="Canal.NTN24.(Nuestra.Tele.Noticias.24.Horas).sv" tvg-name="NOT-NTN24 (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-Qgr-jgmFI2s/Xm5XuXmxYBI/AAAAAAAABbw/eURPOer17pQMJS7tAF8uLXtT-eISGwzCgCLcBGAsYHQ/s200/8.png" group-title="CANALES-NOTICIA",NOT-NTN24 (TV)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/10256
-#EXTINF:-1 tvg-id="" tvg-name="NOT-Wobi (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-IkZ4XSP5dp4/Xm5XtoL93eI/AAAAAAAABbg/bLy9q5_WDL0ZhmIHVBYI1uNZ0uvNFuUWACLcBGAsYHQ/s200/4.png" group-title="CANALES-NOTICIA",NOT-Wobi (TV)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/10258
-#EXTINF:-1 tvg-id="M+.Cine.Español.es" tvg-name="CINE - A3 Cine INT (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-NB9rkT-lYkM/Xw8qxPOt_nI/AAAAAAAAAWw/NIIAJUpL29cJdLEkeRfNyS527x8nxiX5ACLcBGAsYHQ/w200-h200/A3%2BCine.png" group-title="CANALES-CINE Y SERIES",CINE - A3 Cine INT (TV)(SD)
-http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9617
+#EXTINF:-1 tvg-id="Canal.HBO.(Chile).cl" tvg-name="CINE - HBO SUR (Z)" tvg-logo="https://multipress.com.mx/wp-content/uploads/2013/11/hbo-logo-01-g.jpg" group-title="CANALES-CINE Y SERIES",CINE - HBO SUR (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9696
+#EXTINF:-1 tvg-id="Canal.Cinelatino.cl" tvg-name="CINE - Cine Latino (Z)" tvg-logo="http://127.0.0.1/" group-title="CANALES-CINE Y SERIES",CINE - Cine Latino (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9627
+#EXTINF:-1 tvg-id="Showtime.Extreme.-.Eastern.us" tvg-name="CINE - Showtime Extreme (Z)" tvg-logo="https://lovingseries.files.wordpress.com/2016/01/showtime-logo.jpg" group-title="CANALES-CINE Y SERIES",CINE - Showtime Extreme (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9709
+#EXTINF:-1 tvg-id="" tvg-name="DOC-Discovery ID (Z)" tvg-logo="https://1.bp.blogspot.com/-1wsiKCXFQwQ/XaukeKJb7pI/AAAAAAAAAf0/yIW1q0Xu334yYzGXEJSoR5g8RObOTjGHwCLcBGAsYHQ/s200/15.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery ID (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9785
+#EXTINF:-1 tvg-id="" tvg-name="DOC-Lifetime 2 (Z)" tvg-logo="https://static.epg.best/mx/Lifetime.mx.png" group-title="CANALES-DOCUMENTALES",DOC-Lifetime 2 (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9801
+#EXTINF:-1 tvg-id="" tvg-name="DOC-Smithsonian Channel (Z)" tvg-logo="https://static.epg.best/us/SmithsonianChannel.us.png" group-title="CANALES-DOCUMENTALES",DOC-Smithsonian Channel (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9808
+#EXTINF:-1 tvg-id="" tvg-name="INF-Boomerang (Z)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="CANALES-INFANTILES",INF-Boomerang (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9857
+#EXTINF:-1 tvg-id="" tvg-name="INF-Disney Channel (Z)" tvg-logo="http://daleplay.club:8080/images/1af27c4b7880c46b862f41093b2222a3.png" group-title="CANALES-INFANTILES",INF-Disney Channel (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9867
+#EXTINF:-1 tvg-id="" tvg-name="INF-Nicktoon (Z)" tvg-logo="https://1000logos.net/wp-content/uploads/2022/09/Nicktoons-United-States-Logo.png" group-title="CANALES-INFANTILES",INF-Nicktoon (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9881
+#EXTINF:-1 tvg-id="" tvg-name="NOV-Telemundo - Internacional (L)(HQ)" tvg-logo="https://1.bp.blogspot.com/-_GFXbzVQh9k/Xz8_lLKPCaI/AAAAAAAABK8/hcKKV288eDIDeBwu81Eehn4BtgVQC4kVwCLcBGAsYHQ/w200-h200/9%2BTELEMUNDO.png" group-title="CANALES-NOVELAS",NOV-Telemundo - Internacional (L)(HQ)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8351
+#EXTINF:-1 tvg-id="Univision.(KWNL-CD).Winslow,.AR.us" tvg-name="NOV-Univision Network (TV)" tvg-logo="https://1.bp.blogspot.com/-2dxUf0Es7Tw/Xz81WjWqiuI/AAAAAAAABJU/_D9dk-RDbfkf7lotdG3UxhMoVpUFqx9SwCLcBGAsYHQ/w200-h200/1%2BUnivision.png" group-title="CANALES-NOVELAS",NOV-Univision Network (TV)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/8400
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn 1 (L)" tvg-logo="https://i.postimg.cc/J4YTfty9/Proyecto-X-espana-31.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn 1 (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156148
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn 1 (TV)" tvg-logo="https://i.postimg.cc/J4YTfty9/Proyecto-X-espana-31.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn 1 (TV)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156150
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn 2 (L)" tvg-logo="https://i.postimg.cc/SxXZkqCq/Proyecto-X-espana-25.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn 2 (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156151
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn 2 (TV)" tvg-logo="https://i.postimg.cc/SxXZkqCq/Proyecto-X-espana-25.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn 2 (TV)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156152
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn LaLiga (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Dazn_LaLiga_logo.svg/1280px-Dazn_LaLiga_logo.svg.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn LaLiga (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156156
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn LaLiga 1 (TV)" tvg-logo="https://i.postimg.cc/mDTNzGz7/Proyecto-X-espana-29.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn LaLiga 1 (TV)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156157
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn LaLiga 2 (TV)" tvg-logo="https://i.postimg.cc/bJqHDjDh/Proyecto-X-espana-28.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn LaLiga 2 (TV)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156159
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn LaLiga 3 (TV) (Solo Eventos)" tvg-logo="https://i.postimg.cc/VL9GK1nn/Proyecto-X-ppv-1.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn LaLiga 3 (TV) (Solo Eventos)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156161
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn LaLiga 4 (TV) (Solo Eventos)" tvg-logo="https://i.postimg.cc/N0jzyVyf/Proyecto-X-ppv-2.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn LaLiga 4 (TV) (Solo Eventos)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156162
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Dazn F1 (L)" tvg-logo="https://i.postimg.cc/0QZG7HDh/Proyecto-X-espana-30.png" group-title="EVENTOS PPV MUNDIAL",PPV - Dazn F1 (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156163
+#EXTINF:-1 tvg-id="" tvg-name="PPV - LaLiga: Dazn F1. (TV)" tvg-logo="https://i.postimg.cc/0QZG7HDh/Proyecto-X-espana-30.png" group-title="EVENTOS PPV MUNDIAL",PPV - LaLiga: Dazn F1. (TV)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156164
+#EXTINF:-1 tvg-id="" tvg-name="PPV - F1 | Dazn (Z)" tvg-logo="https://i.postimg.cc/0QZG7HDh/Proyecto-X-espana-30.png" group-title="EVENTOS PPV MUNDIAL",PPV - F1 | Dazn (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156165
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Serie A: Dazn Bar 1 (TV)" tvg-logo="https://i.postimg.cc/NjyNBYT3/Proyecto-X-ppv.png" group-title="EVENTOS PPV MUNDIAL",PPV - Serie A: Dazn Bar 1 (TV)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156172
+#EXTINF:-1 tvg-id="" tvg-name="PPV - Serie A: Dazn Sport 1 (TV)" tvg-logo="https://i.postimg.cc/J4YTfty9/Proyecto-X-espana-31.png" group-title="EVENTOS PPV MUNDIAL",PPV - Serie A: Dazn Sport 1 (TV)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/156173
+#EXTINF:-1 tvg-id="" tvg-name="REL-Bendicion TV (W)(HQ)" tvg-logo="" group-title="CANALES-RELIGIOSOS",REL-Bendicion TV (W)(HQ)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166340
+#EXTINF:-1 tvg-id="" tvg-name="US | Sunday NFL Red Zone (L)" tvg-logo="https://www.rev.bs/wp-content/uploads/2021/09/REDZONE-LOGO-1-1024x478.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",US | Sunday NFL Red Zone (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166341
+#EXTINF:-1 tvg-id="" tvg-name="US | Sunday NFL Red Zone (L)" tvg-logo="https://www.rev.bs/wp-content/uploads/2021/09/REDZONE-LOGO-1-1024x478.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",US | Sunday NFL Red Zone (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166342
+#EXTINF:-1 tvg-id="" tvg-name="Serie A 11:30 Verona vs Bologna (L)" tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="EVENTOS PPV",Serie A 11:30 Verona vs Bologna (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166343
+#EXTINF:-1 tvg-id="" tvg-name="Serie A 13:45 Como vs Milan (L) (L)" tvg-logo="https://www.fifplay.com/img/public/serie-a-logo-transparent.png" group-title="EVENTOS PPV",Serie A 13:45 Como vs Milan (L) (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166344
+#EXTINF:-1 tvg-id="" tvg-name="Bundesliga 13:30 Augsburg vs Union Berlin (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/03/German-Bundesliga-logo-1.jpg" group-title="EVENTOS PPV",Bundesliga 13:30 Augsburg vs Union Berlin (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166345
+#EXTINF:-1 tvg-id="" tvg-name="Copa del Rey 14:00 Burgos vs Valencia (L)" tvg-logo="https://i.pinimg.com/474x/bf/98/94/bf989461daf2636bf55cccb2df2764d9.jpg" group-title="EVENTOS PPV",Copa del Rey 14:00 Burgos vs Valencia (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166346
+#EXTINF:-1 tvg-id="" tvg-name="Copa del Rey 14:00 Racing Santander vs Barcelona (L)" tvg-logo="https://i.pinimg.com/474x/bf/98/94/bf989461daf2636bf55cccb2df2764d9.jpg" group-title="EVENTOS PPV",Copa del Rey 14:00 Racing Santander vs Barcelona (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166347
+#EXTINF:-1 tvg-id="" tvg-name="Colombia 18:30 Junior vs Santa Fe (L)" tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1543.png" group-title="EVENTOS PPV",Colombia 18:30 Junior vs Santa Fe (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166348
+#EXTINF:-1 tvg-id="" tvg-name="Serie Río de la Plata 15:00 Progreso vs Atlético Tucumán (L)" tvg-logo="https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fteamsportsmedia.net%2Fwp-content%2Fuploads%2F2024%2F12%2FSerie_2025_web.png" group-title="EVENTOS PPV",Serie Río de la Plata 15:00 Progreso vs Atlético Tucumán (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166349
+#EXTINF:-1 tvg-id="" tvg-name="Serie Río de la Plata 17:45 Olimpia vs Colo-Colo (L)" tvg-logo="https://image-service.onefootball.com/transform?w=280&h=210&dpr=2&image=https%3A%2F%2Fteamsportsmedia.net%2Fwp-content%2Fuploads%2F2024%2F12%2FSerie_2025_web.png" group-title="EVENTOS PPV",Serie Río de la Plata 17:45 Olimpia vs Colo-Colo (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166350
+#EXTINF:-1 tvg-id="" tvg-name="Albania 10:00 Teuta Durrës vs Dinamo City (L)" tvg-logo="https://futboljobs.com/wp-content/uploads/emblems/04744932f3b2270a72f45774eae1f99a.png" group-title="EVENTOS PPV",Albania 10:00 Teuta Durrës vs Dinamo City (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166351
+#EXTINF:-1 tvg-id="" tvg-name="Australia Women 23:50 Melbourne City vs Newcastle Jets (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/5/5b/A-League_Women_logo.svg/500px-A-League_Women_logo.svg.png" group-title="EVENTOS PPV",Australia Women 23:50 Melbourne City vs Newcastle Jets (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166352
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Paulista 16:30 RB Bragantino vs Corinthians (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/7/71/Federa%C3%A7%C3%A3o_Paulista_de_Futebol_logo.png" group-title="EVENTOS PPV",Campeonato Paulista 16:30 RB Bragantino vs Corinthians (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166353
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Gaúcho 16:00 Monsoon vs Internacional (L)" tvg-logo="https://p7.hiclipart.com/preview/88/747/581/campeonato-gaucho-federacao-gaucha-de-futebol-football-gremio-foot-ball-porto-alegrense-sport-club-internacional-rs-logo.jpg" group-title="EVENTOS PPV",Campeonato Gaúcho 16:00 Monsoon vs Internacional (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166354
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 14:00 Sampaio Corrêa RJ vs Nova Iguaçu (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png" group-title="EVENTOS PPV",Campeonato Carioca 14:00 Sampaio Corrêa RJ vs Nova Iguaçu (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166355
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 16:00 Portuguesa RJ vs Botafogo (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png" group-title="EVENTOS PPV",Campeonato Carioca 16:00 Portuguesa RJ vs Botafogo (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166356
+#EXTINF:-1 tvg-id="" tvg-name="Campeonato Carioca 18:30 Vasco da Gama vs Maricá (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/f9/Carioca2017.png" group-title="EVENTOS PPV",Campeonato Carioca 18:30 Vasco da Gama vs Maricá (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166357
+#EXTINF:-1 tvg-id="" tvg-name="Costa Rica 20:00 Alajuelense vs Municipal Liberia (L)" tvg-logo="https://www.thesportsdb.com/images/media/league/badge/97r4et1716292122.png" group-title="EVENTOS PPV",Costa Rica 20:00 Alajuelense vs Municipal Liberia (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166358
+#EXTINF:-1 tvg-id="" tvg-name="FA Women's Cup 13:30 West Bromwich Albion vs Everton (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/id/e/e4/Women_FA_Cup_Logo.png" group-title="EVENTOS PPV",FA Women's Cup 13:30 West Bromwich Albion vs Everton (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166359
+#EXTINF:-1 tvg-id="" tvg-name="Kings World Cup Nations 15:00 Chile vs. España (L)" tvg-logo="https://kingsleague.pro/_ipx/s_762x294/img/world-cup/KWC-clubs-horizontal.png" group-title="EVENTOS PPV",Kings World Cup Nations 15:00 Chile vs. España (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166360
+#EXTINF:-1 tvg-id="" tvg-name="Kings World Cup Nations 16:00 México vs. Brasil (L)" tvg-logo="https://kingsleague.pro/_ipx/s_762x294/img/world-cup/KWC-clubs-horizontal.png" group-title="EVENTOS PPV",Kings World Cup Nations 16:00 México vs. Brasil (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166361
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Womens Basketball 10:00 UMass Lowell vs.NJIT (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Womens Basketball 10:00 UMass Lowell vs.NJIT (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166362
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Womens Basketball 11:00 Bryant vs.UMBC (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Womens Basketball 11:00 Bryant vs.UMBC (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166363
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Womens Basketball 13:00 Abilene Christian vs.California Baptist (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Womens Basketball 13:00 Abilene Christian vs.California Baptist (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166364
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Womens Basketball 17:00 Marshall vs.James Madison (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Womens Basketball 17:00 Marshall vs.James Madison (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166365
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Womens Basketball 17:15 Lindenwood vs.Southeast Missouri State (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Womens Basketball 17:15 Lindenwood vs.Southeast Missouri State (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166366
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Mens Basketball 17:30 Binghamton vs.UAlbany (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Mens Basketball 17:30 Binghamton vs.UAlbany (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166367
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Mens Basketball 18:00 Detroit Mercy vs.Northern Kentucky (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Mens Basketball 18:00 Detroit Mercy vs.Northern Kentucky (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166368
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Womens Basketball #4 Texas vs.#2 South Carolina (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Womens Basketball #4 Texas vs.#2 South Carolina (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166369
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Womens Basketball 18.30 Valparaiso vs.Illinois State (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Womens Basketball 18.30 Valparaiso vs.Illinois State (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166370
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Mens Basketball 19:00 Arkansas State vs.South Alabama (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Mens Basketball 19:00 Arkansas State vs.South Alabama (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166371
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Mens Basketball 19:30 Southern Indiana vs.Tennessee Tech (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Mens Basketball 19:30 Southern Indiana vs.Tennessee Tech (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166372
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Womens Basketball 20:00 Missouri State vs.UTEP (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Womens Basketball 20:00 Missouri State vs.UTEP (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166373
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Mens Basketball 20:30 UC Santa Barbara vs.Cal State Bakersfield (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Mens Basketball 20:30 UC Santa Barbara vs.Cal State Bakersfield (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166374
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Mens Basketball 21:00 Hawaii vs.Cal Poly (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Mens Basketball 21:00 Hawaii vs.Cal Poly (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166375
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Womens Hockey 14:00 Merrimack vs.#5 UConn (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/NCAA_logo.svg/640px-NCAA_logo.svg.png" group-title="EVENTOS PPV",NCAA Womens Hockey 14:00 Merrimack vs.#5 UConn (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166376
+#EXTINF:-1 tvg-id="" tvg-name="NBA 01 | Jan-15-2026 1:00PM | Memphis Grizzlies at Orlando Magic (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 01 | Jan-15-2026 1:00PM | Memphis Grizzlies at Orlando Magic (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166377
+#EXTINF:-1 tvg-id="" tvg-name="NBA 02 | Jan-15-2026 6:00PM | Phoenix Suns at Detroit Pistons (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 02 | Jan-15-2026 6:00PM | Phoenix Suns at Detroit Pistons (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166378
+#EXTINF:-1 tvg-id="" tvg-name="NBA 04 | Jan-15-2026 6:30PM | Oklahoma City Thunder at Houston Rockets (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 04 | Jan-15-2026 6:30PM | Oklahoma City Thunder at Houston Rockets (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166379
+#EXTINF:-1 tvg-id="" tvg-name="NBA 03 | Jan-15-2026 6:30PM | Boston Celtics at Miami Heat (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 03 | Jan-15-2026 6:30PM | Boston Celtics at Miami Heat (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166380
+#EXTINF:-1 tvg-id="" tvg-name="NBA 05 | Jan-15-2026 7:00PM | Milwaukee Bucks at San Antonio Spurs (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 05 | Jan-15-2026 7:00PM | Milwaukee Bucks at San Antonio Spurs (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166381
+#EXTINF:-1 tvg-id="" tvg-name="NBA 06 | Jan-15-2026 7:30PM | Utah Jazz at Dallas Mavericks (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 06 | Jan-15-2026 7:30PM | Utah Jazz at Dallas Mavericks (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166382
+#EXTINF:-1 tvg-id="" tvg-name="NBA 07 | Jan-15-2026 9:00PM | New York Knicks at Golden State Warriors (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 07 | Jan-15-2026 9:00PM | New York Knicks at Golden State Warriors (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166383
+#EXTINF:-1 tvg-id="" tvg-name="NBA 08 | Jan-15-2026 9:00PM | Atlanta Hawks at Portland Trail Blazers (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 08 | Jan-15-2026 9:00PM | Atlanta Hawks at Portland Trail Blazers (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166384
+#EXTINF:-1 tvg-id="" tvg-name="NBA 09 | Jan-15-2026 9:30PM | Charlotte Hornets at Los Angeles Lakers (L)" tvg-logo="https://1000marcas.net/wp-content/uploads/2019/12/NBA-Logo.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA 09 | Jan-15-2026 9:30PM | Charlotte Hornets at Los Angeles Lakers (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166385
+#EXTINF:-1 tvg-id="" tvg-name="NBA G League 18:00 Grand Rapids Gold vs.Noblesville Boom (L)" tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fleagues%2F500%2Fnba_gleague.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA G League 18:00 Grand Rapids Gold vs.Noblesville Boom (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166386
+#EXTINF:-1 tvg-id="" tvg-name="NBA G League 18:00 Greensboro Swarm vs.Westchester Knicks (L)" tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fleagues%2F500%2Fnba_gleague.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA G League 18:00 Greensboro Swarm vs.Westchester Knicks (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166387
+#EXTINF:-1 tvg-id="" tvg-name="NBA G League 19:00 Austin Spurs vs.Salt Lake City Stars (L)" tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fleagues%2F500%2Fnba_gleague.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA G League 19:00 Austin Spurs vs.Salt Lake City Stars (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166388
+#EXTINF:-1 tvg-id="" tvg-name="NBA G League 19:00 Motor City Cruise vs.Birmingham Squadron (L)" tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fleagues%2F500%2Fnba_gleague.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA G League 19:00 Motor City Cruise vs.Birmingham Squadron (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166389
+#EXTINF:-1 tvg-id="" tvg-name="NBA G League 20:00 Iowa Wolves vs.Valley Suns (L)" tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fleagues%2F500%2Fnba_gleague.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA G League 20:00 Iowa Wolves vs.Valley Suns (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166390
+#EXTINF:-1 tvg-id="" tvg-name="NBA G League 20:00 Rio Grande Valley Vipers vs. Capitanes de Ciudad de México (L)" tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fleagues%2F500%2Fnba_gleague.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA G League 20:00 Rio Grande Valley Vipers vs. Capitanes de Ciudad de México (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166391
+#EXTINF:-1 tvg-id="" tvg-name="NBA G League 21:30 Windy City Bulls vs.San Diego Clippers (L)" tvg-logo="https://a3.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fleagues%2F500%2Fnba_gleague.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NBA G League 21:30 Windy City Bulls vs.San Diego Clippers (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166392
+#EXTINF:-1 tvg-id="" tvg-name="Basket | LNB 19:10 San Lorenzo vs Ferro (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/5/5c/LNB_Logo.svg/2560px-LNB_Logo.svg.png" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",Basket | LNB 19:10 San Lorenzo vs Ferro (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166393
+#EXTINF:-1 tvg-id="" tvg-name="NHL 18:00 Buffalo Sabres vs Montreal Canadiens (L)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 18:00 Buffalo Sabres vs Montreal Canadiens (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166394
+#EXTINF:-1 tvg-id="" tvg-name="NHL 18:00 Columbus Blue Jackets vs Vancouver Canucks (L)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 18:00 Columbus Blue Jackets vs Vancouver Canucks (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166395
+#EXTINF:-1 tvg-id="" tvg-name="NHL 18:00 Pittsburgh Penguins vs Philadelphia Flyers (L)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 18:00 Pittsburgh Penguins vs Philadelphia Flyers (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166396
+#EXTINF:-1 tvg-id="" tvg-name="NHL 18:00 Washington Capitals vs San Jose Sharks (L)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 18:00 Washington Capitals vs San Jose Sharks (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166397
+#EXTINF:-1 tvg-id="" tvg-name="NHL 19:00 Bosotn Bruins vs Seattle Kraken (L)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 19:00 Bosotn Bruins vs Seattle Kraken (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166398
+#EXTINF:-1 tvg-id="" tvg-name="NHL 19:00 Minnesota Wild vs Winnipeg Jets (L)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 19:00 Minnesota Wild vs Winnipeg Jets (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166399
+#EXTINF:-1 tvg-id="" tvg-name="NHL 19:30 Chicago Blackhawks vs Calgary Flames (L)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 19:30 Chicago Blackhawks vs Calgary Flames (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166400
+#EXTINF:-1 tvg-id="" tvg-name="NHL 20:00 Edmonton Oilers vs New York Islanders (L)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 20:00 Edmonton Oilers vs New York Islanders (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166401
+#EXTINF:-1 tvg-id="" tvg-name="NHL 20:00 Utah Mammoth vs Dallas Stars (L)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 20:00 Utah Mammoth vs Dallas Stars (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166402
+#EXTINF:-1 tvg-id="" tvg-name="NHL 20:30 Vegas Golden Knights vs Toronto Maple Leafs (L)" tvg-logo="https://1000logos.net/wp-content/uploads/2017/05/NHL-logo.jpg" group-title="DEPORTES PPV (NBA,MLS,NFL,MLB,NHL)",NHL 20:30 Vegas Golden Knights vs Toronto Maple Leafs (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166403
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166404
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166405
+#EXTINF:-1 tvg-id="" tvg-name="ATP | 20:00 Tomas Machac (CZE) vs. Jaume Munar (ESP) (Cuartos de Final) (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png" group-title="EVENTOS PPV",ATP | 20:00 Tomas Machac (CZE) vs. Jaume Munar (ESP) (Cuartos de Final) (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166406
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166407
+#EXTINF:-1 tvg-id="" tvg-name="ATP | 23:00 Giovanni Mpetshi Perricard (FRA) vs. Jakub Mensik (CZE) (Cuartos de Final) (L)" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/f/f6/ATP_Tour_2019_Logo.png" group-title="EVENTOS PPV",ATP | 23:00 Giovanni Mpetshi Perricard (FRA) vs. Jakub Mensik (CZE) (Cuartos de Final) (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166408
+#EXTINF:-1 tvg-id="" tvg-name="WTA | 18:30 Adelaide International (Semifinal) (L)" tvg-logo="https://images.seeklogo.com/logo-png/39/1/wta-2020-logo-png_seeklogo-392673.png" group-title="EVENTOS PPV",WTA | 18:30 Adelaide International (Semifinal) (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166409
+#EXTINF:-1 tvg-id="" tvg-name="WTA | 18:30 Adelaide International (Cuartos de Final) (L)" tvg-logo="https://images.seeklogo.com/logo-png/39/1/wta-2020-logo-png_seeklogo-392673.png" group-title="EVENTOS PPV",WTA | 18:30 Adelaide International (Cuartos de Final) (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166410
+#EXTINF:-1 tvg-id="" tvg-name="WTA | 20:00 Hobart International (Cuartos de Final) (L)" tvg-logo="https://images.seeklogo.com/logo-png/39/1/wta-2020-logo-png_seeklogo-392673.png" group-title="EVENTOS PPV",WTA | 20:00 Hobart International (Cuartos de Final) (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166411
+#EXTINF:-1 tvg-id="" tvg-name="WTA | 22:00 Hobart International (Semifinal) (L)" tvg-logo="https://images.seeklogo.com/logo-png/39/1/wta-2020-logo-png_seeklogo-392673.png" group-title="EVENTOS PPV",WTA | 22:00 Hobart International (Semifinal) (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166412
+#EXTINF:-1 tvg-id="" tvg-name="WTA | 22:30 Adelaide International / Show Court 1 (Doubles Semifinals) (L)" tvg-logo="https://images.seeklogo.com/logo-png/39/1/wta-2020-logo-png_seeklogo-392673.png" group-title="EVENTOS PPV",WTA | 22:30 Adelaide International / Show Court 1 (Doubles Semifinals) (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166413
+#EXTINF:-1 tvg-id="" tvg-name="WTA | 23:30 Adelaide International / Court 4 (Doubles Semifinals) (L)" tvg-logo="https://images.seeklogo.com/logo-png/39/1/wta-2020-logo-png_seeklogo-392673.png" group-title="EVENTOS PPV",WTA | 23:30 Adelaide International / Court 4 (Doubles Semifinals) (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166414
+#EXTINF:-1 tvg-id="" tvg-name="Australian Open 02:00 Alcaraz vs. de Minaur (Exhibicion) (L)" tvg-logo="https://cdn.freebiesupply.com/logos/thumbs/2x/australian-open-1-logo.png" group-title="EVENTOS PPV",Australian Open 02:00 Alcaraz vs. de Minaur (Exhibicion) (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166415
+#EXTINF:-1 tvg-id="" tvg-name="Golf | 11:00 PGA TOUR Sony Open in Hawaii Morikawa Group & Hole #16 (First Round) (L)" tvg-logo="https://res.cloudinary.com/pgatour-prod/d_tournaments:logos:R000.png/tournaments/logos/R006.png" group-title="EVENTOS PPV",Golf | 11:00 PGA TOUR Sony Open in Hawaii Morikawa Group & Hole #16 (First Round) (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166416
+#EXTINF:-1 tvg-id="" tvg-name="Pro Swim Series: Austin 1 18:00 (L)" tvg-logo="https://s3.amazonaws.com/cstest/mb/2025/03/TYR_Pro_fTVdXgF.png.220x220_q95.png" group-title="EVENTOS PPV",Pro Swim Series: Austin 1 18:00 (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166417
+#EXTINF:-1 tvg-id="" tvg-name="LMP | 15 Enero | 20:30 Algodoneros de Guasave vs Tomateros de Culiacan (L)" tvg-logo="https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png" group-title="EVENTOS PPV",LMP | 15 Enero | 20:30 Algodoneros de Guasave vs Tomateros de Culiacan (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166418
+#EXTINF:-1 tvg-id="" tvg-name="LMP | 15 Enero | 21:30 Aguilas de Mexicali vs Charros de Jalisco (L)" tvg-logo="https://images.seeklogo.com/logo-png/19/1/liga-mexicana-del-pacifico-logo-png_seeklogo-196649.png" group-title="EVENTOS PPV",LMP | 15 Enero | 21:30 Aguilas de Mexicali vs Charros de Jalisco (L)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/166419
