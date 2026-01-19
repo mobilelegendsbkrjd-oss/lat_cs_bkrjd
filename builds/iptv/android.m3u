@@ -1,5 +1,4 @@
 #EXTM3Ux-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
-#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="8NTV (W)(1080)" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="MEXICO-LOCAL",MEX-8NTV (W)(1080)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/164587
 #EXTINF:-1 tvg-id="" tvg-name="ADN 40 (W)(720)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="MEXICO-LOCAL",MEX-ADN 40 (W)(720)
