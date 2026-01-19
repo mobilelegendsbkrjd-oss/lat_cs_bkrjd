@@ -1,5 +1,16 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
+#EXTINF:-1 tvg-id="Canal.De.Película.mx" tvg-name="CINE - De Pelicula (M)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/f7177163c833dff4b38fc8d2872f1ec6.png" group-title="CANALES-CINE Y SERIES",CINE - De Pelicula (M)(1080)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9638
+#EXTINF:-1 tvg-id="De.Pelicula.Clasico.us" tvg-name="CINE - De Pelicula Plus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="CANALES-CINE Y SERIES",CINE - De Pelicula Plus (M)(1080)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9639
+#EXTINF:-1 tvg-id="Canal.De.Película.mx" tvg-name="CINE - De Pelicula Plus (Z)" tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png" group-title="CANALES-CINE Y SERIES",CINE - De Pelicula Plus (Z)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9640
+#EXTINF:-1 tvg-id="De.Pelicula.Clasico.us" tvg-name="CINE - De Peliculas Clasico (Z)(1080)" tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png" group-title="CANALES-CINE Y SERIES",CINE - De Peliculas Clasico (Z)(1080)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9641
+#EXTINF:-1 tvg-id="Canal.De.Película.mx" tvg-name="CINE - De Película (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="CANALES-CINE Y SERIES",CINE - De Película (TV)(1080)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9642
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Sony Channel (W)(SD)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Sony_Channel_Logo.png/512px-Sony_Channel_Logo.png" group-title="MEXICO-LOCAL",MEX-Sony Channel (W)(SD)
+http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/164699
 #EXTINF:-1 tvg-id="Canal.HBO.(México).mx" tvg-name="CINE - HBO (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-CINE Y SERIES",CINE - HBO (TV)(SD)
 http://tv.zeuspro.xyz:8080/arturo903/11HD4MrrPG/9669
 #EXTINF:-1 tvg-id="Canal.HBO.Family.Latinoamérica.mx" tvg-name="CINE - HBO Family. (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-RfYNWzr47Q4/Xas8qIKw1II/AAAAAAAAAZ8/fbTjmjUfJB0_VyU3MDcYA5WQ65ntx6VPACLcBGAsYHQ/s200/32.png" group-title="CANALES-CINE Y SERIES",CINE - HBO Family. (TV)(SD)
