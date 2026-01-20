@@ -20,7 +20,7 @@
     "name": "Latanime"
   },
    {
-    "iconUrl": "https://la.movie/wp-content/uploads/2025/05/cropped-La.movie_-192x192.png",
+    "iconUrl": "https://www.google.com/s2/favicons?domain=cinecalidad.ec&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
     "fileSize": 13017,
@@ -30,54 +30,14 @@
       "bkrjd"
     ],
     "tvTypes": [
-      "TV",
-      "movies",
-      "Anime",
-      "AnimeMovie"
+      "TvSeries",
+      "Movie"
     ],
     "version": 2,
-    "internalName": "La.Movie",
-    "description": "La.Movie - Películas, Series y Animes Online en HD Gratis",
-    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/LaMovie.cs3",
-    "name": "La.Movie"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dailymotion.com&sz=%size",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
-    "fileSize": 48448,
-    "status": 1,
-    "language": "mx",
-    "authors": [
-      "bkrjd"
-    ],
-    "tvTypes": [
-      "Others"
-    ],
-    "version": 2,
-    "internalName": "Dailymotion",
-    "description": "Dailymotion mod prioridad latino",
-    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/DailymotionProvider.cs3",
-    "name": "Dailymotion"
-  },
-  {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=invidious.io&sz=%size%",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
-    "fileSize": 59562,
-    "status": 0,
-    "language": "mx",
-    "authors": [
-      "bkrjd"
-    ],
-    "tvTypes": [
-      "Others"
-    ],
-    "version": 2,
-    "internalName": "InvidiousProvider",
-    "description": "InvidiousProvider mod prioridad latino",
-    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/InvidiousProvider.cs3",
-    "name": "InvidiousProvider"
+    "internalName": "cinecalidad",
+    "description": "cinecalidad - Películas, Series y Animes Online en HD Gratis",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/cinecalidad.cs3",
+    "name": "cinecalidad"
   },
   {
     "iconUrl": "https://cachedimages.podchaser.com/256x256/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9zdGFnaW5nL3BvZGNhc3RfdXBsb2FkZWRfZXBpc29kZS80NDAwNzI2Mi80NDAwNzI2Mi0xNzU3MDY3OTE2Njg2LWRlNmYxYjJmYmEwZTcuanBn/aHR0cHM6Ly93d3cucG9kY2hhc2VyLmNvbS9pbWFnZXMvbWlzc2luZy1pbWFnZS5wbmc%3D",
@@ -176,27 +136,6 @@
         "name": "Flixlatam"
     },
   {
-        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww3.gnulahd.nu/&size=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-        "fileSize": 25447,
-        "status": 0,
-        "language": "es",
-        "authors": [
-            "ByAyzen"
-        ],
-        "tvTypes": [
-            "Movie",
-            "Anime",
-            "TvSeries"
-        ],
-        "version": 1,
-        "internalName": "Gnulahd",
-        "description": "GnulaHD",
-        "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Gnulahd.cs3",
-        "name": "Gnulahd"
-    },
-   {
         "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/IPTV.png",
         "jarFileSize": 73119,
         "apiVersion": 1,
@@ -217,28 +156,7 @@
         "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/IPTVPlayer.cs3",
         "name": "IPTVPlayer"
     },
-  {
-        "iconUrl": "https://sololatino.net/wp-content/uploads/2020/10/cropped-logo-final-192x192.png",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Stormunblessed/storm-ext",
-        "fileSize": 14624,
-        "status": 0,
-        "language": "es",
-        "authors": [
-            "bkrjd"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime",
-            "Cartoon"
-        ],
-        "version": 1,
-        "internalName": "SoloLatino",
-        "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/sololatino.cs3",
-        "name": "SoloLatino"
-    },
-  {
+ {
         "iconUrl": "https://www.pelisgratishd.net/images/logo.png",
         "apiVersion": 1.1,
         "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
@@ -259,50 +177,6 @@
         "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/pelisgratishd.cs3",
         "name": "pelisgratishd"
     },
-  {
-        "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/retrotve.png",
-        "apiVersion": 1.1,
-        "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
-        "fileSize": 14624,
-        "status": 0,
-        "language": "mx",
-        "authors": [
-            "bkrjd"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime",
-            "Cartoon"
-        ],
-        "version": 1,
-        "internalName": "Hdtodayz",
-        "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Hdtodayz.cs3",
-        "name": "Hdtodayz"
-    },
-  {
-  "iconUrl": "https://www.youtube.com/s/desktop/8c9c7f0f/img/favicon_144x144.png",
-  "apiVersion": 1,
-  "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
-  "fileSize": 0,
-  "status": 0,
-  "language": "es-mx",
-  "authors": [
-    "bkrjd"
-  ],
-  "tvTypes": [
-    "Anime",
-    "AnimeMovie",
-    "Live",
-    "Series",
-    "Movies"
-  ],
-  "version": 1,
-  "internalName": "YouTube",
-  "description": "YouTube extension nuevo con newpipe",
-  "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/youtube.cs3",
-  "name": "YouTube"
-},
   {
         "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww1.henaojara.net/&size=128",
         "apiVersion": 1,
