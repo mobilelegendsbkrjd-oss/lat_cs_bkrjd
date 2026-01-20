@@ -43,7 +43,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
     "fileSize": 59562,
-    "status": 1,
+    "status": 0,
     "language": "mx",
     "authors": [
       "bkrjd"
@@ -200,7 +200,7 @@
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/Stormunblessed/storm-ext",
         "fileSize": 14624,
-        "status": 3,
+        "status": 0,
         "language": "es",
         "authors": [
             "bkrjd"
@@ -242,7 +242,7 @@
         "apiVersion": 1.1,
         "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
         "fileSize": 14624,
-        "status": 3,
+        "status": 0,
         "language": "mx",
         "authors": [
             "bkrjd"
@@ -263,7 +263,7 @@
   "apiVersion": 1,
   "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
   "fileSize": 0,
-  "status": 1,
+  "status": 0,
   "language": "es-mx",
   "authors": [
     "bkrjd"
