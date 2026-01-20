@@ -20,20 +20,20 @@
     "name": "Latanime"
   },
    {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=cinecalidad.ec&sz=%size%",
+    "iconUrl": "https://www.cinecalidad.ec/wp-content/themes/Cinecalidad/assets/img/logo.svg?v=1aaaaaa.0",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
     "fileSize": 13017,
     "status": 1,
     "language": "es-mx",
     "authors": [
-      "bkrjd"
+      "bkrjd","cinecalidad-dev"
     ],
     "tvTypes": [
       "TvSeries",
       "Movie"
     ],
-    "version": 2,
+    "version": 3,
     "internalName": "cinecalidad",
     "description": "cinecalidad - Películas, Series y Animes Online en HD Gratis",
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/cinecalidad.cs3",
