@@ -24,7 +24,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
     "fileSize": 13017,
-    "status": 1,
+    "status": 0,
     "language": "es-mx",
     "authors": [
       "bkrjd"
@@ -40,6 +40,28 @@
     "description": "La.Movie - Películas, Series y Animes Online en HD Gratis",
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/LaMovie.cs3",
     "name": "La.Movie"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=cinecalidad.ec&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 13017,
+    "status": 0,
+    "language": "es-mx",
+    "authors": [
+      "bkrjd"
+    ],
+    "tvTypes": [
+      "TV",
+      "movies",
+      "Anime",
+      "AnimeMovie"
+    ],
+    "version": 2,
+    "internalName": "cinecalidad",
+    "description": "cinecalidad - Películas, Series y Animes Online en HD Gratis",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/cinecalidad.cs3",
+    "name": "cinecalidad"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dailymotion.com&sz=%size",
