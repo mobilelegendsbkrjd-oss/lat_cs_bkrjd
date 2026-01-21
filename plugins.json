@@ -19,6 +19,26 @@
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Latanime.cs3",
     "name": "Latanime"
   },
+  {
+    "iconUrl": "https://play-lh.googleusercontent.com/ki998ks_8TnevF4oqdOEMQVwS_JgXnzrJFSfQk0eohFyjckNrutg94zSjiJHe2pgBA",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 13017,
+    "status": 1,
+    "language": "es-mx",
+    "authors": [
+      "Stormunblessed","bkrjd"
+    ],
+    "tvTypes": [
+      "Cartoons", 
+	  "TvSeries"
+    ],
+    "version": 3,
+    "internalName": "LACartoons",
+    "description": "LACartoons latino",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/LACartoons.cs3",
+    "name": "LACartoons"
+  },
    {
     "iconUrl": "https://image.firstory-cdn.me/Image/cm0dkng7s07o601qjdh958yiy/3jA2abbR0p6wbwIFAFbVE.jpg",
     "apiVersion": 1,
