@@ -20,6 +20,47 @@
     "name": "Latanime"
   },
   {
+    "iconUrl": "https://la.movie/wp-content/uploads/2025/05/cropped-La.movie_-192x192.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 13017,
+    "status": 3,
+    "language": "es-mx",
+    "authors": [
+      "bkrjd"
+    ],
+    "tvTypes": [
+      "TV",
+      "movies",
+      "Anime",
+      "AnimeMovie"
+    ],
+    "version": 2,
+    "internalName": "La.Movie",
+    "description": "La.Movie - Películas, Series y Animes Online en HD Gratis",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/LaMovie.cs3",
+    "name": "La.Movie"
+  },
+  {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dailymotion.com&sz=%size",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 48448,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "bkrjd"
+    ],
+    "tvTypes": [
+      "Others"
+    ],
+    "version": 2,
+    "internalName": "Dailymotion",
+    "description": "Dailymotion mod prioridad latino",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/DailymotionProvider.cs3",
+    "name": "Dailymotion"
+  },
+  {
     "iconUrl": "https://play-lh.googleusercontent.com/ki998ks_8TnevF4oqdOEMQVwS_JgXnzrJFSfQk0eohFyjckNrutg94zSjiJHe2pgBA",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
