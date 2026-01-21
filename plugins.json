@@ -20,6 +20,26 @@
     "name": "Latanime"
   },
   {
+    "iconUrl": "https://www.google.com/s2/favicons?domain=tioanime.com&sz=%size%",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 13017,
+    "status": 1,
+    "language": "es-mx",
+    "authors": [
+      "Stormunblessed","bkrjd"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "version": 2,
+    "internalName": "TioAnime",
+    "description": "TioAnime",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/TioAnime.cs3",
+    "name": "TioAnime"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=www.dailymotion.com&sz=%size",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
