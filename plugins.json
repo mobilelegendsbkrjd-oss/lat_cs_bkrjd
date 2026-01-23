@@ -52,10 +52,11 @@
     "tvTypes": [
       "TvSeries",
       "Movie"
+	  "Anime"
     ],
     "version": 3,
     "internalName": "MegaDede",
-    "description": "MegaDede extension unofficial",
+    "description": "Peliculas, Series y Anime priorizado Latino. Hecho por bkrjd",
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/megadede.cs3",
     "name": "MegaDede"
   },
