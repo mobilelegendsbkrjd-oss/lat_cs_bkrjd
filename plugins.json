@@ -27,7 +27,7 @@
     "status": 1,
     "language": "es-mx",
     "authors": [
-      "bkrjd"
+      "redblacker8","bkrjd"
     ],
     "tvTypes": [
       "TvSeries",
@@ -35,7 +35,7 @@
     ],
     "version": 3,
     "internalName": "SoloLatino",
-    "description": "SoloLatino",
+    "description": "SoloLatino fixed by redblacker8",
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/sololatino.cs3",
     "name": "SoloLatino"
   },
