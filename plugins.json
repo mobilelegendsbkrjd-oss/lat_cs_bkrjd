@@ -274,6 +274,7 @@
         ],
         "version": 1,
         "internalName": "pelisgratishd",
+		"description": "pelisgratishd hecho por bkrjd",
         "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/pelisgratishd.cs3",
         "name": "pelisgratishd"
     },
