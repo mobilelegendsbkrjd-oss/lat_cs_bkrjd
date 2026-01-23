@@ -193,7 +193,7 @@
         ],
         "version": 1,
         "internalName": "AnimeYTX",
-        "description": "\u00danete a la familia de AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido m\u00e1s popular de la animaci\u00f3n japonesa.",
+        "description": "AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido japones.",
         "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeYTX.cs3",
         "name": "AnimeYTX"
     },
@@ -212,7 +212,7 @@
         ],
         "version": 2,
         "internalName": "DoramasLatinoX",
-        "description": "Doramas en Audio Espa\u00f1ol Latino y Subtitulado.",
+        "description": "Doramas en Audio Espanol Latino y Subtitulado.",
         "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/DoramasLatinoX.cs3",
         "name": "DoramasLatinoX"
     },
@@ -231,7 +231,7 @@
         ],
         "version": 2,
         "internalName": "Flixlatam",
-        "description": "Mira tus Series, Pel\u00edculas y Animes en Latino Online!",
+        "description": "Mira tus Series, Peliculas y Animes en Latino Online!",
         "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Flixlatam.cs3",
         "name": "Flixlatam"
     },
@@ -274,7 +274,6 @@
         ],
         "version": 1,
         "internalName": "pelisgratishd",
-		"description": "pelisgratishd hecho por bkrjd",
         "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/pelisgratishd.cs3",
         "name": "pelisgratishd"
     },
