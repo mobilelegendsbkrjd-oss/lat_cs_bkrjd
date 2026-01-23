@@ -51,8 +51,8 @@
     ],
     "tvTypes": [
       "TvSeries",
-      "Movie"
-	  "Anime"
+      "Movie",
+	    "Anime"
     ],
     "version": 3,
     "internalName": "MegaDede",
@@ -298,4 +298,3 @@
         "name": "Henaojara"
     }
 ]
-  {
