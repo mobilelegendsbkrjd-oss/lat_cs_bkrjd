@@ -20,11 +20,11 @@
     "name": "Latanime"
   },
   {
-    "iconUrl": "https://cdn-1.webcatalog.io/catalog/unitools/unitools-icon-filled-256.webp?v=1746499428578",
+    "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/sololatino.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
     "fileSize": 13017,
-    "status": 0,
+    "status": 1,
     "language": "es-mx",
     "authors": [
       "bkrjd"
@@ -34,10 +34,10 @@
       "Movie"
     ],
     "version": 3,
-    "internalName": "UTelevision",
-    "description": "UTelevision more entertaiment",
-    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/UTelevision.cs3",
-    "name": "UTelevision"
+    "internalName": "SoloLatino",
+    "description": "SoloLatino",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/sololatino.cs3",
+    "name": "SoloLatino"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tioanime.com&sz=%size%",
