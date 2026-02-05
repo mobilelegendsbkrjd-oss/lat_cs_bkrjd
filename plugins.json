@@ -20,6 +20,28 @@
     "name": "Latanime"
   },
   {
+    "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/verpelisonline.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 13017,
+    "status": 3,
+    "language": "es-mx",
+    "authors": [
+      "bkrjd"
+    ],
+    "tvTypes": [
+	  "Movie", 
+	  "TvSeries",
+      "Anime",
+      "AnimeMovie"
+    ],
+    "version": 2,
+    "internalName": "VerPeliculasOnline",
+    "description": "VerPeliculasOnline made by bkrjd",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/verpelisonline.cs3",
+    "name": "VerPeliculasOnline"
+  },
+  {
     "iconUrl": "https://as1.ftcdn.net/jpg/05/42/99/68/1000_F_542996885_yrZQwsBvuB4bCWk0EAYst1DgVJMoNfLH.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
