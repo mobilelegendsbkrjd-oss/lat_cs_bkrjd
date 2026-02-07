@@ -19,6 +19,25 @@
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Latanime.cs3",
     "name": "Latanime"
   },
+	{
+    "iconUrl": "https://cdn.novelas360.com/wp-content/uploads/2018/04/logo.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 13017,
+    "status": 3,
+    "language": "es-mx",
+    "authors": [
+      "bkrjd"
+    ],
+    "tvTypes": [
+      "TvSeries"
+    ],
+    "version": 2,
+    "internalName": "Novelas360",
+    "description": "Novelas360 made by bkrjd",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/novelas360.cs3",
+    "name": "Novelas360"
+  },
    {
     "iconUrl": "https://as1.ftcdn.net/jpg/05/42/99/68/1000_F_542996885_yrZQwsBvuB4bCWk0EAYst1DgVJMoNfLH.jpg",
     "apiVersion": 1,
