@@ -1,4 +1,4 @@
-# ⚡ ¡Qué onda! Soy [Tu Nombre] | Técnico Programador ⚡
+# ⚡ ¡Qué onda! Soy [BKRJD] | Técnico Programador ⚡
 
 <div align="center">
   <img src="https://vignette.wikia.nocookie.net/pixel-art/images/d/d7/Anime_landscape.gif/revision/latest?cb=20180424135540" width="100%" />
