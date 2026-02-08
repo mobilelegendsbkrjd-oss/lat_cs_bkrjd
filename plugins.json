@@ -20,11 +20,11 @@
     "name": "Latanime"
   },
 	{
-    "iconUrl": "https://cdn.novelas360.com/wp-content/uploads/2018/04/logo.png",
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCgObeae9q7nZbziXVQXsABMF1PFLqvtg7H1BhDNu5GQ&s=10",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
     "fileSize": 13017,
-    "status": 0,
+    "status": 1,
     "language": "es-mx",
     "authors": [
       "bkrjd"
@@ -33,10 +33,10 @@
       "TvSeries"
     ],
     "version": 2,
-    "internalName": "Novelas360",
-    "description": "Novelas360 made by bkrjd",
-    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/novelas360.cs3",
-    "name": "Novelas360"
+    "internalName": "TeleLibre",
+    "description": "TeleLibre made by bkrjd",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/telelibre.cs3",
+    "name": "TeleLibre"
   },
 		{
     "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/tlnovelas.jpg",
