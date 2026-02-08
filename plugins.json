@@ -24,7 +24,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
     "fileSize": 13017,
-    "status": 3,
+    "status": 0,
     "language": "es-mx",
     "authors": [
       "bkrjd"
@@ -53,7 +53,7 @@
     ],
     "version": 2,
     "internalName": "Tlnovelas",
-    "description": "Novelas360 made by bkrjd",
+    "description": "Tlnovelas made by bkrjd",
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Tlnovelas.cs3",
     "name": "Tlnovelas"
   },
