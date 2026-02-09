@@ -137,9 +137,9 @@
       "TvSeries",
       "Movie"
     ],
-    "version": 3,
+    "version": 5,
     "internalName": "SoloLatino",
-    "description": "SoloLatino fixed by redblacker8",
+    "description": "SoloLatino fixed by redblacker8, nuevas funciones añadidas by bkrjd",
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/sololatino.cs3",
     "name": "SoloLatino"
   },
