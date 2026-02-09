@@ -1,23 +1,5 @@
 [
   {
-    "title": "Star Wars Completa + Series",
-    "url": "https://sololatino.net/listas/48145/",
-    "poster": "https://img.aullidos.com/imagenes/posters-guerra-galaxias/imagen-28.jpg",
-    "description": "Todo lo relacionado a Star Wars (pelis, series y spin-offs)",
-    "author": "Kamisama",
-    "likes": 7,
-    "tags": ["Ciencia Ficción", "Espacio", "Saga"]
-  },
-  {
-    "title": "UNIVERSO MARVEL",
-    "url": "https://sololatino.net/listas/48155/",
-    "poster": "https://http2.mlstatic.com/D_NQ_NP_714889-MLM46309256328_062021-O.webp",
-    "description": "Saga o colección curada por usuarios",
-    "author": "Usuario",
-    "likes": 0,
-    "tags": ["Saga", "Comunidad"]
-  },
-  {
     "title": "Animes Isekai",
     "url": "https://sololatino.net/listas/70691/",
     "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPumIl923hzNJIBX06KOqkMzIZ-9yErm6v7Q&s",
@@ -26,4 +8,5 @@
     "likes": 0,
     "tags": ["Saga", "Comunidad"]
   }
+  
 ]
