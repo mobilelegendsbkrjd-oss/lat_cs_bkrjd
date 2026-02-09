@@ -9,15 +9,6 @@
     "tags": ["Fantasía", "Magia", "Saga"]
   },
   {
-    "title": "Crepúsculo Saga Completa",
-    "url": "https://sololatino.net/listas/70687/",
-    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjWEg_2u8bKc1m9Tkksvf9rcOPVIweGp_3Ag&s",
-    "description": "Saga de Crepúsculo completa",
-    "author": "Kamisama",
-    "likes": 7,
-    "tags": ["Romance", "Vampiros", "Saga"]
-  },
-  {
     "title": "Star Wars Completa + Series",
     "url": "https://sololatino.net/listas/48145/",
     "poster": "https://img.aullidos.com/imagenes/posters-guerra-galaxias/imagen-28.jpg",
@@ -25,6 +16,15 @@
     "author": "Kamisama",
     "likes": 7,
     "tags": ["Ciencia Ficción", "Espacio", "Saga"]
+  },
+  {
+    "title": "Crepúsculo Saga Completa",
+    "url": "https://sololatino.net/listas/70687/",
+    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjWEg_2u8bKc1m9Tkksvf9rcOPVIweGp_3Ag&s",
+    "description": "Saga de Crepúsculo completa",
+    "author": "Kamisama",
+    "likes": 7,
+    "tags": ["Romance", "Vampiros", "Saga"]
   },
   {
     "title": "Rápidos y Furiosos Saga Completa",
@@ -37,10 +37,19 @@
   },
   {
     "title": "Destino Final Saga",
-    "url": "https://sololatino.net/listas/97295/",
+    "url": "https://sololatino.net/listas/206425/",
     "poster": "https://xpot.sv/wp-content/uploads/2025/03/destino-final-6.jpeg",
-    "description": "Saga o colección curada por usuarios",
-    "author": "Usuario",
+    "description": "Saga o colección destino final",
+    "author": "bkrjd",
+    "likes": 0,
+    "tags": ["Saga", "Comunidad"]
+  },
+   {
+    "title": "Shrek Saga",
+    "url": "https://sololatino.net/listas/206424/",
+    "poster": "https://i.pinimg.com/originals/b5/56/97/b5569776005e892fcad42a782c2b4307.png",
+    "description": "Saga o colección Shrek",
+    "author": "bkrjd",
     "likes": 0,
     "tags": ["Saga", "Comunidad"]
   },
@@ -50,6 +59,15 @@
     "poster": "https://ih1.redbubble.net/image.4645277850.2334/fposter,small,wall_texture,square_product,600x600.jpg",
     "description": "Saga o colección curada por usuarios",
     "author": "Usuario",
+    "likes": 0,
+    "tags": ["Saga", "Comunidad"]
+  },
+  {
+    "title": "Planeta de los Simios Saga",
+    "url": "https://sololatino.net/listas/206423/",
+    "poster": "https://www.mubis.es/media/users/3724/328461/el-reino-del-planeta-de-los-simios-poster-barcelona-original.jpg",
+    "description": "Saga o colección Planeta de los Simios",
+    "author": "bkrjd",
     "likes": 0,
     "tags": ["Saga", "Comunidad"]
   },
@@ -80,13 +98,4 @@
     "likes": 0,
     "tags": ["Saga", "Comunidad"]
   },
-  {
-    "title": "Animes Isekai",
-    "url": "https://sololatino.net/listas/70691/",
-    "poster": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPumIl923hzNJIBX06KOqkMzIZ-9yErm6v7Q&s",
-    "description": "Saga o colección curada por usuarios",
-    "author": "Usuario",
-    "likes": 0,
-    "tags": ["Saga", "Comunidad"]
-  }
 ]
