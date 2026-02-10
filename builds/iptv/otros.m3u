@@ -39,4 +39,48 @@ https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/1080p-cc/index.m3u8
 https://servilive.com:3380/live/v3n6thy7glive.m3u8
 #EXTINF:-1 tvg-name="RTQ En Vivo" group-title="México - Variedades",RTQ En Vivo
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+#EXTINF:-1 tvg-name=""Free TV Sureño En Vivo"" group-title=""México - Cine"",Free TV Sureño En Vivo
+https://amg01024-olympusat-cinesureno-ono-ad-h2.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-name=""Free TV Sureño"" group-title=""México - CINE"",Free TV Sureño
+https://amg01024-olympusat-cinesureno-ono-ad-h2.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-name=""TVP Culiacán"" group-title=""México - Variedades"",TVP Culiacán
+https://5ca3e84a76d30.streamlock.net/gpacifico1/smil:gpculiacan.smil/playlist.m3u8
+#EXTINF:-1 tvg-name=""Tastemade Español"" group-title=""México - Culinario"",Tastemade Español
+https://amg00047-amg00047c6-canelatv-international-5854.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeespanoles16us-canelatvinternational/playlist.m3u8
+#EXTINF:-1 tvg-name=""C4 En Alerta"" group-title=""México - Noticias"",C4 En Alerta
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6404
+#EXTINF:-1 tvg-name=""Canal 26 Aguascalientes"" group-title=""México - Variedades"",Canal 26 Aguascalientes
+https://60417ddeaf0d9.streamlock.net/telemetrika3/smil:telemetrika3.smil/playlist.m3u8
+#EXTINF:-1 tvg-name=""TV Banda "" group-title=""México - Música"",TV Banda 
+https://amg01024-olympusat-mmcfreetv-ono-ad-kj.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-name=""TVP Mazatlán"" group-title=""México - Variedades"",TVP Mazatlán
+https://5ca3e84a76d30.streamlock.net/gpacifico4/smil:mazatlan.smil/playlist.m3u8
+#EXTINF:-1 tvg-name=""María Visíón"" group-title=""México - Católico"",María Visíón
+https://1601580044.rsc.cdn77.org/live/_jcn_/amls:Mariavision/playlist.m3u8
+#EXTINF:-1 tvg-name=""México Travel Channel"" group-title=""México - Cultura"",México Travel Channel
+https://5ca9af4645e15.streamlock.net/mexicotravel/videomexicotravel/playlist.m3u8
+#EXTINF:-1 tvg-name=""TVMÁS"" group-title=""México - Variedades"",TVMÁS
+https://5ca9af4645e15.streamlock.net/rtv/videortv/playlist.m3u8
+"#EXTINF:-1 tvg-name=""Alcance Tv"" group-title=""México - Evangélico"",Alcance Tv
+https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
+#EXTINF:-1 tvg-name=""Canal 10 México"" group-title=""México - Variedades"",Canal 10 México
+https://5ca9af4645e15.streamlock.net/canal10durango/videocanal10durango/playlist.m3u8
+#EXTINF:-1 tvg-name=""TVP Obregon"" group-title=""México - Variedades"",TVP Obregon
+https://5ca3e84a76d30.streamlock.net/gpacifico3/smil:obregon.smil/chunklist_w622754042_b1428000_sleng.m3u8
+#EXTINF:-1 tvg-name=""Party Tyme Karaoke"" group-title=""México - Música"",Party Tyme Karaoke
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=147
+#EXTINF:-1 tvg-name=""CNN en Español"" group-title=""México - Noticias"",CNN en Español
+https://amg00803-cnnfast-amg00803c3-lg-es-5477.playouts.now.amagi.tv/playlist1080p.m3u8
+#EXTINF:-1 tvg-name=""Azteca Deportes"" group-title=""México - Deportes"",Azteca Deportes
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
+#EXTINF:-1 tvg-name=""FOX Sports en Español "" group-title=""México - Deportes"",FOX Sports en Español 
+https://csm-e-cetubilusordlive-84853365.csm.tubi.video/csm/live/750557920.m3u8?playback_start_ts=1770724179&yo.ap=https://lna.tubi.video/prd-yospace/&yo.t.jt=1000&ss.exp=20260213114939&ss.sig=beb87546d239b72fe48965145a8cbab9972d6fa9&yo.oh=Y3NtLWUtZWIuY3Nt
+#EXTINF:-1 tvg-name=""Canal Once"" group-title=""México - Variedades"",Canal Once
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
+#EXTINF:-1 tvg-name=""Xtrema TV - Cine Acción"" group-title=""México - Cine"",Xtrema TV - Cine Acción
+https://stmv6.voxtvhd.com.br/cineaccion/cineaccion/playlist.m3u8
+#EXTINF:-1 tvg-name=""TeleFórmula"" group-title=""México - Noticias"",TeleFórmula
+https://rdf-tf-roku.otteravision.com/rdf/tf/tf_1080p.m3u8
+#EXTINF:-1 tvg-name=""Grjngo Español"" group-title=""México - Cine"",Grjngo Español
+https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
 
