@@ -44,7 +44,7 @@
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
     "fileSize": 13017,
-    "status": 1,
+    "status": 0,
     "language": "es-mx",
     "authors": [
       "bkrjd"
@@ -54,7 +54,7 @@
     ],
     "version": 2,
     "internalName": "TeleLibre",
-    "description": "TeleLibre made by bkrjd",
+    "description": "GEOBLOCKED -TeleLibre made by bkrjd",
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/telelibre.cs3",
     "name": "TeleLibre"
   },
@@ -279,7 +279,7 @@
     ],
     "version": 2,
     "internalName": "Netmirror",
-    "description": "NETMIRROR mod prioridad latino",
+    "description": "NETMIRROR servidor principal caido",
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Netmirror.cs3",
     "name": "Netmirror"
   },
@@ -385,7 +385,7 @@
         "apiVersion": 1.1,
         "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
         "fileSize": 14624,
-        "status": 3,
+        "status": 0,
         "language": "mx",
         "authors": [
             "bkrjd"
@@ -397,7 +397,7 @@
             "Cartoon"
         ],
         "version": 1,
-        "internalName": "Cuevana",
+        "internalName": "Cuevana en face de pruebas",
         "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Cuevana.cs3",
         "name": "Cuevana"
     },
