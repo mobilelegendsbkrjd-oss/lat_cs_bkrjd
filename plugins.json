@@ -20,6 +20,26 @@
     "name": "Latanime"
   },
 	{
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZIYC_JigYfcOl4fGvjfH-lWxd3VawvvGTtF86jU2Gqg&s",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 13017,
+    "status": 3,
+    "language": "es-mx",
+    "authors": [
+      "bkrjd"
+    ],
+    "tvTypes": [
+      "live",
+      "others"
+    ],
+    "version": 1,
+    "internalName": "Latinluchas",
+    "description": "Latinluchas mod prioridad latino",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Latinluchas.cs3",
+    "name": "Latinluchas"
+  },
+	{
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCgObeae9q7nZbziXVQXsABMF1PFLqvtg7H1BhDNu5GQ&s=10",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
