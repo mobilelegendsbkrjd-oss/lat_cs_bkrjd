@@ -35,7 +35,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
 https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 #EXTINF:-1 tvg-name="Free TV Familia" group-title="México - Variedades",Free TV Familia
 https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/1080p-cc/index.m3u8
-#EXTINF:-1 tvg-name="15 TV En Vivo" group-title="México - Variedades",Free TV Familia
+#EXTINF:-1 tvg-name="15 TV En Vivo" group-title="México - Variedades",15 TV En Vivo
 https://servilive.com:3380/live/v3n6thy7glive.m3u8
-#EXTINF:-1 tvg-name="RTQ En Vivo" group-title="México - Variedades",Free TV Familia
+#EXTINF:-1 tvg-name="RTQ En Vivo" group-title="México - Variedades",RTQ En Vivo
 https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
+
