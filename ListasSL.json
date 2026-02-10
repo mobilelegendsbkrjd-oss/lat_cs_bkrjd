@@ -27,6 +27,15 @@
     "tags": ["Romance", "Vampiros", "Saga"]
   },
   {
+    "title": "SAW saga",
+    "url": "https://sololatino.net/listas/84685/",
+    "poster": "https://ih1.redbubble.net/image.4645277850.2334/fposter,small,wall_texture,square_product,600x600.jpg",
+    "description": "Saga o colección curada por usuarios",
+    "author": "Usuario",
+    "likes": 0,
+    "tags": ["Saga", "Comunidad"]
+  },
+  {
     "title": "Rápidos y Furiosos Saga Completa",
     "url": "https://sololatino.net/listas/46740/",
     "poster": "https://laestatuilla.com/wp-content/uploads/2023/05/peliculas-rapidos-y-furiosos-poster.jpg",
@@ -37,7 +46,7 @@
   },
   {
     "title": "Destino Final Saga",
-    "url": "https://sololatino.net/listas/206425/",
+    "url": "https://sololatino.net/listas/206427/",
     "poster": "https://xpot.sv/wp-content/uploads/2025/03/destino-final-6.jpeg",
     "description": "Saga o colección destino final",
     "author": "bkrjd",
@@ -50,15 +59,6 @@
     "poster": "https://i.pinimg.com/originals/b5/56/97/b5569776005e892fcad42a782c2b4307.png",
     "description": "Saga o colección Shrek",
     "author": "bkrjd",
-    "likes": 0,
-    "tags": ["Saga", "Comunidad"]
-  },
-  {
-    "title": "SAW saga",
-    "url": "https://sololatino.net/listas/84685/",
-    "poster": "https://ih1.redbubble.net/image.4645277850.2334/fposter,small,wall_texture,square_product,600x600.jpg",
-    "description": "Saga o colección curada por usuarios",
-    "author": "Usuario",
     "likes": 0,
     "tags": ["Saga", "Comunidad"]
   },
@@ -81,11 +81,119 @@
     "tags": ["Saga", "Comunidad"]
   },
   {
-    "title": "80's/90's Peliculas",
-    "url": "https://sololatino.net/listas/199061/",
-    "poster": "https://png.pngtree.com/png-clipart/20211010/original/pngtree-poster-template-for-showing-retro-movies-png-image_6849809.png",
-    "description": "Saga o colección curada por usuarios",
-    "author": "Usuario",
+    "title": "El señor de los anillos",
+    "url": "https://sololatino.net/listas/206412/",
+    "poster": "https://www.mubis.es/media/users/6266/200510/el-senor-de-los-anillos-iii-poster-de-karl-fitzgerald-original.jpeg",
+    "description": "Saga o colección completa",
+    "author": "bkrjd",
+    "likes": 0,
+    "tags": ["Saga", "Comunidad"]
+  },
+  {
+    "title": "UHP - UNIVERSO HARRY POTTER",
+    "url": "https://sololatino.net/listas/206421/",
+    "poster": "https://contentful.harrypotter.com/usf1vwtuqyxm/6ndkMavDgUXleVCMhvPsTC/a2822a8d7650c26c7989ced9bb702be7/hbo-max-harry-potter.jpg",
+    "description": "Saga o colección completa",
+    "author": "bkrjd",
+    "likes": 0,
+    "tags": ["Saga", "Comunidad"]
+  },
+  {
+    "title": "MATRIX",
+    "url": "https://sololatino.net/listas/206428/",
+    "poster": "https://i.pinimg.com/736x/da/d6/27/dad6276aee9d462f32b300529e748821.jpg",
+    "description": "Saga o colección completa",
+    "author": "bkrjd",
+    "likes": 0,
+    "tags": ["Saga", "Comunidad"]
+  },
+  {
+    "title": "Mi villano Favorito",
+    "url": "https://sololatino.net/listas/206417/",
+    "poster": "https://image.tmdb.org/t/p/w200/AsaaPLSfisdFDeasEd9r0GiZVss.jpg",
+    "description": "Saga o colección completa",
+    "author": "bkrjd",
+    "likes": 0,
+    "tags": ["Saga", "Comunidad"]
+  },
+  {
+    "title": "Rocky",
+    "url": "https://sololatino.net/listas/206415/",
+    "poster": "https://mir-s3-cdn-cf.behance.net/project_modules/hd_webp/5b63ac179046645.64f27449e8bcb.jpg",
+    "description": "Saga o colección completa",
+    "author": "bkrjd",
+    "likes": 0,
+    "tags": ["Saga", "Comunidad"]
+  },
+  {
+    "title": "IT (ESO)",
+    "url": "https://sololatino.net/listas/206420/",
+    "poster": "https://m.media-amazon.com/images/I/61D1FRpbsLL._AC_SL1000_.jpg",
+    "description": "Saga o colección completa",
+    "author": "bkrjd",
+    "likes": 0,
+    "tags": ["Saga", "Comunidad"]
+  },
+  {
+    "title": "Como Entrenar a tu Dragon",
+    "url": "https://sololatino.net/listas/206422/",
+    "poster": "https://image.tmdb.org/t/p/w200/9Zr7ZyiMpgMhhxJQi1tQJp9LGho.jpg",
+    "description": "Saga o colección completa",
+    "author": "bkrjd",
+    "likes": 0,
+    "tags": ["Saga", "Comunidad"]
+  },
+  {
+    "title": "Divergente Saga",
+    "url": "https://sololatino.net/listas/206419/",
+    "poster": "https://image.tmdb.org/t/p/w200/libmZ7xJBkVWmoixPyF3EdTmNtt.jpg",
+    "description": "Saga o colección completa",
+    "author": "bkrjd",
+    "likes": 0,
+    "tags": ["Saga", "Comunidad"]
+  },
+    {
+    "title": "Maze Runner",
+    "url": "https://sololatino.net/listas/206416/",
+    "poster": "https://image.tmdb.org/t/p/w200/egKi4jZKKVZzR8NaaNjEwMpEgHs.jpg",
+    "description": "Saga o colección completa",
+    "author": "bkrjd",
+    "likes": 0,
+    "tags": ["Saga", "Comunidad"]
+  },
+    {
+    "title": "Piratas del Caribe",
+    "url": "https://sololatino.net/listas/206426/",
+    "poster": "https://image.tmdb.org/t/p/w200/AookkwjZfWdigGtaEwy5IfOnBku.jpg",
+    "description": "Saga o colección completa",
+    "author": "bkrjd",
+    "likes": 0,
+    "tags": ["Saga", "Comunidad"]
+  },
+    {
+    "title": "Transformers",
+    "url": "https://sololatino.net/listas/206430/",
+    "poster": "https://image.tmdb.org/t/p/w200/phAFhKOEhOGLIuH0brr5EenAckY.jpg",
+    "description": "Saga o colección completa",
+    "author": "bkrjd",
+    "likes": 0,
+    "tags": ["Saga", "Comunidad"]
+  },
+  {
+    "title": "Avatar",
+    "url": "https://sololatino.net/listas/206429/",
+    "poster": "https://image.tmdb.org/t/p/w200/t5T3LPbLLgP2OP6kloM9p2PXpJL.jpg",
+    "description": "Saga o colección completa",
+    "author": "bkrjd",
+    "likes": 0,
+    "tags": ["Saga", "Comunidad"]
+  },
+  {
+    "title": "Terminator",
+    "url": "https://sololatino.net/listas/206431/",
+    "poster": "https://image.tmdb.org/t/p/w200/9KI49SBnwAOzGcMw1onIki7vd2.jpg",
+    "description": "Saga o colección completa",
+    "author": "bkrjd",
     "likes": 0,
     "tags": ["Saga", "Comunidad"]
   },
