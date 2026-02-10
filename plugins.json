@@ -40,23 +40,23 @@
     "name": "Latinluchas"
   },
 	{
-    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCgObeae9q7nZbziXVQXsABMF1PFLqvtg7H1BhDNu5GQ&s=10",
+    "iconUrl": "https://www.cxtvenvivo.com/assets/img/ui/logo-header.webp",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
     "fileSize": 13017,
-    "status": 0,
+    "status": 1,
     "language": "es-mx",
     "authors": [
       "bkrjd"
     ],
     "tvTypes": [
-      "TvSeries"
+      "LiveTV"
     ],
     "version": 2,
-    "internalName": "TeleLibre",
-    "description": "GEOBLOCKED -TeleLibre made by bkrjd",
-    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/telelibre.cs3",
-    "name": "TeleLibre"
+    "internalName": "cxtvenvivo",
+    "description": "cxtvenvivo made by bkrjd",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/cxtvenvivo.cs3",
+    "name": "cxtvenvivo"
   },
 		{
     "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/tlnovelas.jpg",
