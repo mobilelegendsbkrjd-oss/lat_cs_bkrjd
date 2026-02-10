@@ -1,96 +1,41 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/acidjesuz/EPGTalk/master/guide.xml"
 #EXTM3U
 #EXTINF:-1 tvg-name="Las Estrellas" tvg-id="LasEstrellas.mx" group-title="México - Variedades",Las Estrellas
-https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8  # ejemplo real, prueba este primero
-
-#EXTINF:-1 tvg-name="Televisa Guadalajara" group-title="México - Variedades",Televisa Guadalajara
-https://www.cxtvenvivo.com/tv-en-vivo/televisa-guadalajara   # busca m3u8 aquí
-
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1 tvg-name="Teleclásica" group-title="México - Cine Serie",Teleclásica
-https://www.cxtvenvivo.com/tv-en-vivo/teleclasica
-
+https://stmv7.voxtvhd.com.br/teleclasica/teleclasica/playlist.m3u8
 #EXTINF:-1 tvg-name="Azteca Deportes" group-title="México - Deportes",Azteca Deportes
-https://www.cxtvenvivo.com/tv-en-vivo/azteca-deportes
-
+https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-name="Canal Once" group-title="México - Público",Canal Once
-https://www.cxtvenvivo.com/tv-en-vivo/canal-once
-
-#EXTINF:-1 tvg-name="Telemar" group-title="México - Variedades",Telemar
-https://www.cxtvenvivo.com/tv-en-vivo/telemar
-
+https://vivo.canaloncelive.tv/oncedos/ngrp:pruebachunks_all/playlist.m3u8
 #EXTINF:-1 tvg-name="TeleFórmula" group-title="México - Noticias",TeleFórmula
-https://www.cxtvenvivo.com/tv-en-vivo/teleformula
-
+https://rdf-tf-roku.otteravision.com/rdf/tf/tf_1080p.m3u8
 #EXTINF:-1 tvg-name="Pelimex" group-title="México - Cine",Pelimex
-https://www.cxtvenvivo.com/tv-en-vivo/pelimex
-
+https://amg00658-amg00658c95-canelatv-international-6696.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-pelimexta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-name="Trace Latina" group-title="México - Música",Trace Latina
-https://www.cxtvenvivo.com/tv-en-vivo/trace-latina
-
+https://amg01131-tracetv-tracelatina-xiaomi-395yt.amagi.tv/playlist/amg01131-tracetv-tracelatina-xiaomi/playlist.m3u8
 #EXTINF:-1 tvg-name="Azteca Noticias" group-title="México - Noticias",Azteca Noticias
-https://www.cxtvenvivo.com/tv-en-vivo/azteca-noticias
-
+https://www.youtube.com/embed?list=UUUP6qv-_EIL0hwTsJaKYnvw&playnext=1&index=1
 #EXTINF:-1 tvg-name="Hits Mexicanos" group-title="México - Música",Hits Mexicanos
-https://www.cxtvenvivo.com/tv-en-vivo/hits-mexicanos
-
+https://e46fa4a445464f8a9150fa7d510eb85c.mediatailor.us-west-2.amazonaws.com/v1/manifest/2d2d0d97b0e548f025b2598a69b55bf30337aa0e/npp/7ad7548f-cc44-4a1b-9aff-34610417fe1b/4.m3u8
 #EXTINF:-1 tvg-name="Canela TV" group-title="México - Variedades",Canela TV
-https://www.cxtvenvivo.com/tv-en-vivo/canela-tv
-
+https://amg00658-amg00658c108-canelatv-international-7664.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canelatvlatamapp-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-name="Telediario Mx Canal 6" group-title="México - Noticias",Telediario Mx Canal 6
-https://www.cxtvenvivo.com/tv-en-vivo/telediario-mx-canal-6
-
+https://amg00658-amg00658c65-canelatv-international-5541.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-canal6decdmxmultimediosta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-name="Telediario Now" group-title="México - Noticias",Telediario Now
-https://www.cxtvenvivo.com/tv-en-vivo/telediario-now
-
+https://amg00658-amg00658c70-canelatv-international-5558.playouts.now.amagi.tv/playlist/amg00658-canelamediafast-telediarionowmultimediosappta-canelatvinternational/playlist.m3u8
 #EXTINF:-1 tvg-name="Multimedios Monterrey" group-title="México - Regional",Multimedios Monterrey
-https://www.cxtvenvivo.com/tv-en-vivo/multimedios-monterrey
-
+https://www.youtube.com/embed/5r4wPMQdhnU?autoplay=true
 #EXTINF:-1 tvg-name="Telemax" group-title="México - Variedades",Telemax
-https://www.cxtvenvivo.com/tv-en-vivo/telemax
-
+https://s5.mexside.net:1936/telemax/telemax/playlist.m3u8
 #EXTINF:-1 tvg-name="NMás" group-title="México - Noticias",NMás
-https://www.cxtvenvivo.com/tv-en-vivo/nmas
-
+https://dai.google.com/linear/hls/event/-upN13W-TT6fUrHnL3XddQ/master.m3u8
 #EXTINF:-1 tvg-name="Milenio Tv" group-title="México - Noticias",Milenio Tv
-https://www.cxtvenvivo.com/tv-en-vivo/milenio-tv
-
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6403
 #EXTINF:-1 tvg-name="Corazón" group-title="México - Serie",Corazón
-https://www.cxtvenvivo.com/tv-en-vivo/corazon
-
+https://azt-cz.otteravision.com/azt/cz/cz_720p_high.m3u8
 #EXTINF:-1 tvg-name="Free TV Familia" group-title="México - Variedades",Free TV Familia
-https://www.cxtvenvivo.com/tv-en-vivo/free-tv-familia
-
-#EXTINF:-1 tvg-name="Canal 10 México" group-title="México - Variedades",Canal 10 México
-https://www.cxtvenvivo.com/tv-en-vivo/canal-10-mexico
-
-#EXTINF:-1 tvg-name="Free TV Banda" group-title="México - Música Regional",Free TV Banda
-https://www.cxtvenvivo.com/tv-en-vivo/free-tv-banda
-
-#EXTINF:-1 tvg-name="MVS Tv" group-title="México - Variedades",MVS Tv
-https://www.cxtvenvivo.com/tv-en-vivo/mvs-tv-mexico
-
-#EXTINF:-1 tvg-name="RTG" group-title="México - Regional",RTG (Acapulco)
-https://www.cxtvenvivo.com/tv-en-vivo/rtg-mexico
-
-#EXTINF:-1 tvg-name="México Travel Channel" group-title="México - Turismo",México Travel Channel
-https://www.cxtvenvivo.com/tv-en-vivo/mexico-travel-channel
-
-#EXTINF:-1 tvg-name="VB Media TV" group-title="México - Querétaro",VB Media TV
-https://www.cxtvenvivo.com/tv-en-vivo/vb-media-tv
-
-#EXTINF:-1 tvg-name="Alcance Tv" group-title="México - Religioso",Alcance Tv
-https://www.cxtvenvivo.com/tv-en-vivo/alcance-tv
-
-#EXTINF:-1 tvg-name="Nuestra Vision" group-title="México - Variedades",Nuestra Vision
-https://www.cxtvenvivo.com/tv-en-vivo/nuestra-vision
-
-#EXTINF:-1 tvg-name="Canal 66" group-title="México - Variedades",Canal 66
-https://www.cxtvenvivo.com/tv-en-vivo/canal-66
-
-#EXTINF:-1 tvg-name="TVP - Los Mochis" group-title="México - Regional",TVP Los Mochis
-https://www.cxtvenvivo.com/tv-en-vivo/mochis
-
-#EXTINF:-1 tvg-name="Tastemade Español" group-title="México - Cocina",Tastemade Español
-https://www.cxtvenvivo.com/tv-en-vivo/tastemade-espanol
-
-# ... y más (el sitio tiene ~60-70 de Méjico según conteos antiguos, pero estos son los más consistentes y mencionados)
+https://amg01024-olympusat-juntos-ono-ad-h5.amagi.tv/1080p-cc/index.m3u8
+#EXTINF:-1 tvg-name="15 TV En Vivo" group-title="México - Variedades",Free TV Familia
+https://servilive.com:3380/live/v3n6thy7glive.m3u8
+#EXTINF:-1 tvg-name="RTQ En Vivo" group-title="México - Variedades",Free TV Familia
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/playlist.m3u8
