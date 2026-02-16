@@ -343,5 +343,24 @@
     "description": "Ver anime online, subtitulado y/o doblado al español latino HD.",
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Henaojara.cs3",
     "name": "Henaojara"
-  }
+  },
+  {
+    "iconUrl": "https://pandrama.tv/template/conch/asset/logo.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "fileSize": 20486,
+    "status": 1,
+    "language": "es",
+    "authors": [
+      "bkrjd"
+    ],
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "version": 2,
+    "internalName": "Pandrama",
+    "description": "Doramas en Audio Espanol Latino y Subtitulado.",
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Pandrama.cs3",
+    "name": "Pandrama"
+  },
 ]
