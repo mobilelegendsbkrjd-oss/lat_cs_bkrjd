@@ -53,10 +53,10 @@
       "AsianDrama"
     ],
     "version": 2,
-    "internalName": "Pandrama",
-    "description": "Doramas en Audio Espanol Latino y Subtitulado.",
-    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Pandrama.cs3",
-    "name": "Pandrama"
+    "internalName": "DoramasMP4",
+    "description": "DoramasMP4 en Audio Espanol Latino y Subtitulado.",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/DoramasMP4.cs3",
+    "name": "DoramasMP4"
   },
 		{
     "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/tlnovelas.jpg",
