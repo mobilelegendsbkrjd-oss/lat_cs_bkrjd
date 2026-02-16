@@ -7,7 +7,8 @@
     "status": 1,
     "language": "es-mx",
     "authors": [
-      "Phisher98","bkrjd"
+      "Phisher98",
+      "bkrjd"
     ],
     "tvTypes": [
       "Anime",
@@ -19,7 +20,7 @@
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Latanime.cs3",
     "name": "Latanime"
   },
-	{
+  {
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZIYC_JigYfcOl4fGvjfH-lWxd3VawvvGTtF86jU2Gqg&s",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
@@ -39,7 +40,7 @@
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Latinluchas.cs3",
     "name": "Latinluchas"
   },
-	{
+  {
     "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/tlnovelas.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
@@ -58,7 +59,7 @@
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Tlnovelas.cs3",
     "name": "Tlnovelas"
   },
-   {
+  {
     "iconUrl": "https://as1.ftcdn.net/jpg/05/42/99/68/1000_F_542996885_yrZQwsBvuB4bCWk0EAYst1DgVJMoNfLH.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
@@ -69,10 +70,10 @@
       "bkrjd"
     ],
     "tvTypes": [
-      "Movie", 
-	  "TvSeries", 
-	  "Anime", 
-	  "Cartoon"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Cartoon"
     ],
     "version": 2,
     "internalName": "Series24",
@@ -91,10 +92,10 @@
       "bkrjd"
     ],
     "tvTypes": [
-      "Movie", 
-	  "TvSeries", 
-	  "Anime", 
-	  "Cartoon"
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Cartoon"
     ],
     "version": 3,
     "internalName": "EntrePeliculasYSeries",
@@ -110,7 +111,8 @@
     "status": 1,
     "language": "es-mx",
     "authors": [
-      "redblacker8","bkrjd"
+      "redblacker8",
+      "bkrjd"
     ],
     "tvTypes": [
       "TvSeries",
@@ -135,7 +137,7 @@
     "tvTypes": [
       "TvSeries",
       "Movie",
-	    "Anime"
+      "Anime"
     ],
     "version": 3,
     "internalName": "MegaDede",
@@ -151,7 +153,8 @@
     "status": 1,
     "language": "es-mx",
     "authors": [
-      "Stormunblessed","bkrjd"
+      "Stormunblessed",
+      "bkrjd"
     ],
     "tvTypes": [
       "Anime",
@@ -190,11 +193,12 @@
     "status": 1,
     "language": "es-mx",
     "authors": [
-      "Stormunblessed","bkrjd"
+      "Stormunblessed",
+      "bkrjd"
     ],
     "tvTypes": [
-      "Cartoons", 
-	  "TvSeries"
+      "Cartoons",
+      "TvSeries"
     ],
     "version": 3,
     "internalName": "LACartoons",
@@ -202,7 +206,7 @@
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/LACartoons.cs3",
     "name": "LACartoons"
   },
-   {
+  {
     "iconUrl": "https://image.firstory-cdn.me/Image/cm0dkng7s07o601qjdh958yiy/3jA2abbR0p6wbwIFAFbVE.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
@@ -210,7 +214,8 @@
     "status": 1,
     "language": "es-mx",
     "authors": [
-      "bkrjd","cinecalidad-dev"
+      "bkrjd",
+      "cinecalidad-dev"
     ],
     "tvTypes": [
       "TvSeries",
@@ -222,121 +227,121 @@
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/cinecalidad.cs3",
     "name": "cinecalidad"
   },
-    {
-        "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=animeav1.com",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-        "fileSize": 21020,
-        "status": 1,
-        "language": "es",
-        "authors": [
-            "kraptor"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 7,
-        "internalName": "AnimeAV",
-        "description": "Disfruta de los \u00faltimos episodios y animes agregados en HD y Sub Espa\u00f1ol. Miles de series, pel\u00edculas y OVAs disponibles para ver online totalmente gratis.",
-        "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Animeav1.cs3",
-        "name": "AnimeAV1"
-    },
-    {
-        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeytx.net/&size=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-        "fileSize": 17863,
-        "status": 1,
-        "language": "es",
-        "authors": [
-            "ByAyzen"
-        ],
-        "tvTypes": [
-            "Anime"
-        ],
-        "version": 1,
-        "internalName": "AnimeYTX",
-        "description": "AnimeYT.es y disfruta del anime online gratis. Disfruta con tus amigos del contenido japones.",
-        "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeYTX.cs3",
-        "name": "AnimeYTX"
-    },
   {
-        "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://doramaslatinox.com/&size=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-        "fileSize": 20486,
-        "status": 1,
-        "language": "es",
-        "authors": [
-            "ByAyzen"
-        ],
-        "tvTypes": [
-            "AsianDrama"
-        ],
-        "version": 2,
-        "internalName": "DoramasLatinoX",
-        "description": "Doramas en Audio Espanol Latino y Subtitulado.",
-        "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/DoramasLatinoX.cs3",
-        "name": "DoramasLatinoX"
-    },
+    "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=animeav1.com",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "fileSize": 21020,
+    "status": 1,
+    "language": "es",
+    "authors": [
+      "kraptor"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "version": 7,
+    "internalName": "AnimeAV",
+    "description": "Disfruta de los últimos episodios y animes agregados en HD y Sub Español.",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Animeav1.cs3",
+    "name": "AnimeAV1"
+  },
   {
-        "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://flixlatam.com&size=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-        "fileSize": 42189,
-        "status": 1,
-        "language": "es",
-        "authors": [
-            "ByAyzen"
-        ],
-        "tvTypes": [
-            "Movie"
-        ],
-        "version": 2,
-        "internalName": "Flixlatam",
-        "description": "Mira tus Series, Peliculas y Animes en Latino Online!",
-        "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Flixlatam.cs3",
-        "name": "Flixlatam"
-    },
-   	{
-        "iconUrl": "https://m.media-amazon.com/images/I/31kpNSQr6vL.jpg",
-        "apiVersion": 1.1,
-        "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
-        "fileSize": 21504,
-        "status": 3,
-        "language": "mx",
-        "authors": [
-            "bkrjd"
-        ],
-        "tvTypes": [
-            "Movie",
-            "TvSeries",
-            "Anime",
-            "Cartoon"
-        ],
-        "version": 1,
-        "internalName": "Cuevana en face de pruebas",
-        "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Cuevana.cs3",
-        "name": "Cuevana"
-    },
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://animeytx.net/&size=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "fileSize": 17863,
+    "status": 1,
+    "language": "es",
+    "authors": [
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Anime"
+    ],
+    "version": 1,
+    "internalName": "AnimeYTX",
+    "description": "AnimeYT.es y disfruta del anime online gratis.",
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/AnimeYTX.cs3",
+    "name": "AnimeYTX"
+  },
   {
-        "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww1.henaojara.net/&size=128",
-        "apiVersion": 1,
-        "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-        "fileSize": 14336,
-        "status": 1,
-        "language": "mx",
-        "authors": [
-            "ByAyzen"
-        ],
-        "tvTypes": [
-            "Anime",
-            "AnimeMovie"
-        ],
-        "version": 1,
-        "internalName": "Henaojara",
-        "description": "Ver anime online, subtitulado y/o doblado al espa\u00f1ol latino HD y completamente gratis. Aqu\u00ed podr\u00e1s ver y descargar todas tus series preferidas sin anuncios.",
-        "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Henaojara.cs3",
-        "name": "Henaojara"
-    }
+    "iconUrl": "https://t1.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://doramaslatinox.com/&size=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "fileSize": 20486,
+    "status": 1,
+    "language": "es",
+    "authors": [
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "AsianDrama"
+    ],
+    "version": 2,
+    "internalName": "DoramasLatinoX",
+    "description": "Doramas en Audio Espanol Latino y Subtitulado.",
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/DoramasLatinoX.cs3",
+    "name": "DoramasLatinoX"
+  },
+  {
+    "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://flixlatam.com&size=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "fileSize": 42189,
+    "status": 1,
+    "language": "es",
+    "authors": [
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Movie"
+    ],
+    "version": 2,
+    "internalName": "Flixlatam",
+    "description": "Mira tus Series, Peliculas y Animes en Latino Online!",
+    "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/Flixlatam.cs3",
+    "name": "Flixlatam"
+  },
+  {
+    "iconUrl": "https://m.media-amazon.com/images/I/31kpNSQr6vL.jpg",
+    "apiVersion": 1.1,
+    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 21504,
+    "status": 3,
+    "language": "mx",
+    "authors": [
+      "bkrjd"
+    ],
+    "tvTypes": [
+      "Movie",
+      "TvSeries",
+      "Anime",
+      "Cartoon"
+    ],
+    "version": 1,
+    "internalName": "Cuevana en face de pruebas",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Cuevana.cs3",
+    "name": "Cuevana"
+  },
+  {
+    "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww1.henaojara.net/&size=128",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
+    "fileSize": 14336,
+    "status": 1,
+    "language": "mx",
+    "authors": [
+      "ByAyzen"
+    ],
+    "tvTypes": [
+      "Anime",
+      "AnimeMovie"
+    ],
+    "version": 1,
+    "internalName": "Henaojara",
+    "description": "Ver anime online, subtitulado y/o doblado al español latino HD.",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Henaojara.cs3",
+    "name": "Henaojara"
+  }
 ]
