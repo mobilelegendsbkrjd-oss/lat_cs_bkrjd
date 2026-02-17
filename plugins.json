@@ -385,10 +385,10 @@
         "apiVersion": 1.1,
         "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
         "fileSize": 14624,
-        "status": 3,
+        "status": 1,
         "language": "mx",
         "authors": [
-            "bkrjd"
+            "bkrjd","phisher98"
         ],
         "tvTypes": [
             "Movie",
@@ -397,7 +397,7 @@
             "Cartoon"
         ],
         "version": 1,
-        "internalName": "Cuevana en face de pruebas",
+        "internalName": "Cuevana entretenimiento sin limites",
         "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Cuevana.cs3",
         "name": "Cuevana"
     },
