@@ -122,27 +122,24 @@
     "name": "EntrePeliculasYSeries"
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/verpelisonline.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
-    "fileSize": 13017,
-    "status": 0,
-    "language": "es-mx",
-    "authors": [
-      "bkrjd"
-    ],
-    "tvTypes": [
-      "Movie", 
-	  "TvSeries", 
-	  "Anime", 
-	  "Cartoon"
-    ],
-    "version": 2,
-    "internalName": "verpelisonline",
-    "description": "verpelisonline made by bkrjd",
-    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/verpelisonline.cs3",
-    "name": "verpelisonline"
-  },
+        "iconUrl": "https://www.google.com/s2/favicons?domain=animeflv.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redblacker8/storm-ext",
+        "fileSize": 19759,
+        "status": 1,
+        "language": "mx",
+        "authors": [
+            "Stormunblessed"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 6,
+        "internalName": "AnimeflvProvider",
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/AnimeflvProvider.cs3",
+        "name": "AnimeflvProvider"
+    },
   {
     "iconUrl": "data:image/jpeg;base64,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",
     "apiVersion": 1,
@@ -263,26 +260,60 @@
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/cinecalidad.cs3",
     "name": "cinecalidad"
   },
-  {
-    "iconUrl": "https://cachedimages.podchaser.com/256x256/aHR0cHM6Ly9kM3Qzb3pmdG1kbWgzaS5jbG91ZGZyb250Lm5ldC9zdGFnaW5nL3BvZGNhc3RfdXBsb2FkZWRfZXBpc29kZS80NDAwNzI2Mi80NDAwNzI2Mi0xNzU3MDY3OTE2Njg2LWRlNmYxYjJmYmEwZTcuanBn/aHR0cHM6Ly93d3cucG9kY2hhc2VyLmNvbS9pbWFnZXMvbWlzc2luZy1pbWFnZS5wbmc%3D",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
-    "fileSize": 13017,
-    "status": 0,
-    "language": "es-mx",
-    "authors": [
-      "cnc verse","bkrjd"
-    ],
-    "tvTypes": [
-      "TV",
-      "movies"
-    ],
-    "version": 2,
-    "internalName": "Netmirror",
-    "description": "NETMIRROR servidor principal caido",
-    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Netmirror.cs3",
-    "name": "Netmirror"
-  },
+   {
+        "iconUrl": "https://www.anime-jl.net/favicon.ico",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redblacker8/storm-ext",
+        "fileSize": 16466,
+        "status": 1,
+        "language": "mx",
+        "authors": [
+            "misajimenezmx"
+        ],
+        "tvTypes": [
+            "Anime"
+        ],
+        "version": 3,
+        "internalName": "AnimeJlProvider",
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/AnimeJlProvider.cs3",
+        "name": "AnimeJlProvider"
+    },
+    {
+        "iconUrl": "https://www.cablevisionhd.com/imge/cablevisionhd.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redblacker8/storm-ext",
+        "fileSize": 18317,
+        "status": 1,
+        "language": "mx",
+        "authors": [
+            "misajimenezmx"
+        ],
+        "tvTypes": [
+            "Live"
+        ],
+        "version": 5,
+        "internalName": "CablevisionHdProvider",
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/CablevisionHdProvider.cs3",
+        "name": "CablevisionHdProvider"
+    },
+	    "iconUrl": "https://cinehdplus.org/wp-content/uploads/2021/11/favicon.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redblacker8/storm-ext",
+        "fileSize": 19831,
+        "status": 1,
+        "language": "mx",
+        "authors": [
+            "redblacker8"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 2,
+        "internalName": "CineHdPlusProvider",
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/CineHdPlusProvider.cs3",
+        "name": "CineHdPlusProvider"
+    },
      {
         "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=animeav1.com",
         "apiVersion": 1,
@@ -340,6 +371,100 @@
         "url": "https://raw.githubusercontent.com/Kraptor123/Cs-Karma/builds/DoramasLatinoX.cs3",
         "name": "DoramasLatinoX"
     },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=doramasyt.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redblacker8/storm-ext",
+        "fileSize": 19187,
+        "status": 1,
+        "language": "mx",
+        "authors": [
+            "Stormunblessed"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 6,
+        "internalName": "DoramasYTProvider",
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/DoramasYTProvider.cs3",
+        "name": "DoramasYTProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=doramasflix.co&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redblacker8/storm-ext",
+        "fileSize": 39203,
+        "status": 1,
+        "language": "mx",
+        "authors": [
+            "Stormunblessed"
+        ],
+        "tvTypes": [
+            "AsianDrama"
+        ],
+        "version": 7,
+        "internalName": "DoramasFlixProvider",
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/DoramasFlixProvider.cs3",
+        "name": "DoramasFlixProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=jkanime.net&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redblacker8/storm-ext",
+        "fileSize": 33550,
+        "status": 1,
+        "language": "mx",
+        "authors": [
+            "Stormunblessed"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 9,
+        "internalName": "JKAnimeProvider",
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/JKAnimeProvider.cs3",
+        "name": "JKAnimeProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=monoschinos2.com&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redblacker8/storm-ext",
+        "fileSize": 18152,
+        "status": 0,
+        "language": "mx",
+        "authors": [
+            "Stormunblessed"
+        ],
+        "tvTypes": [
+            "Anime",
+            "OVA"
+        ],
+        "version": 7,
+        "internalName": "MonoschinosProvider",
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/MonoschinosProvider.cs3",
+        "name": "MonoschinosProvider"
+    },
+	{
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pelispedia.is&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/redblacker8/storm-ext",
+        "fileSize": 16630,
+        "status": 1,
+        "language": "mx",
+        "authors": [
+            "Stormunblessed"
+        ],
+        "tvTypes": [
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 7,
+        "internalName": "PelispediaProvider",
+        "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/PelispediaProvider.cs3",
+        "name": "PelispediaProvider"
+    },
+	
   {
         "iconUrl": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://flixlatam.com&size=128",
         "apiVersion": 1,
@@ -360,25 +485,24 @@
         "name": "Flixlatam"
     },
   {
-        "iconUrl": "https://raw.githubusercontent.com/phisher98/TVVVV/refs/heads/main/Icons/IPTV.png",
-        "jarFileSize": 73119,
+        "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplushd.bz&sz=%size%",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/phisher98/cloudstream-extensions-phisher",
-        "fileSize": 17920,
-        "status": 0,
+        "fileSize": 55209,
+        "status": 1,
         "language": "mx",
         "authors": [
-            "Phisher98,Adippe,bkrjd"
+            "Phisher98"
         ],
         "tvTypes": [
-            "Live"
+            "Movie",
+            "TvSeries"
         ],
-        "version": 6,
-        "internalName": "IPTVPlayer",
-        "jarUrl": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/IPTVPlayer.jar",
-        "description": "IPTV Player",
-        "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/IPTVPlayer.cs3",
-        "name": "IPTVPlayer"
+        "version": 2,
+        "internalName": "Pelisplushd",
+        "description": "(Mexican) Movies/Series/Anime Extension",
+        "url": "https://raw.githubusercontent.com/phisher98/cloudstream-extensions-phisher/builds/Pelisplushd.cs3",
+        "name": "Pelisplushd"
     },
  	{
         "iconUrl": "https://m.media-amazon.com/images/I/31kpNSQr6vL.jpg",
