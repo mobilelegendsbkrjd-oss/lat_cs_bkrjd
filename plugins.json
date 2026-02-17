@@ -214,11 +214,11 @@
     "fileSize": 18317,
     "status": 1,
     "language": "mx",
-    "authors": ["misajimenezmx"],
+    "authors": ["misajimenezmx","bkrjd"],
     "tvTypes": ["Live"],
     "version": 5,
     "internalName": "CablevisionHdProvider",
-    "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/CablevisionHdProvider.cs3",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/CablevisionHD.cs3",
     "name": "CablevisionHdProvider"
   },
   {
