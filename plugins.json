@@ -296,6 +296,7 @@
         "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/CablevisionHdProvider.cs3",
         "name": "CablevisionHdProvider"
     },
+	{
 	    "iconUrl": "https://cinehdplus.org/wp-content/uploads/2021/11/favicon.png",
         "apiVersion": 1,
         "repositoryUrl": "https://github.com/redblacker8/storm-ext",
