@@ -366,7 +366,7 @@
     "name": "Flixlatam"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=pelisplushd.bz&sz=%size%",
+    "iconUrl": "https://www.pelisplushd.la/images/logo/logo5.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
     "fileSize": 55209,
@@ -375,8 +375,8 @@
     "authors": ["bkrjd"],
     "tvTypes": ["Movie", "TvSeries","Anime","AsianDrama"],
     "version": 2,
-    "internalName": "Pelisplushd",
-    "description": "(Mexican) Movies/Series/Anime Extension",
+    "internalName": "Pelisplushd.la",
+    "description": "(Mexican) Movies/Series/Anime/Doramas Extension",
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Pelisplushd.cs3",
     "name": "Pelisplushd"
   },
