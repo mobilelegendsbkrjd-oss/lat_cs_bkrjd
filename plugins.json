@@ -395,6 +395,20 @@
     "name": "Cuevana"
   },
   {
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmXtbS4ft3UIgtBddFQ7LF9zG1txiKZ-loww&s",
+    "apiVersion": 1.1,
+    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 14624,
+    "status": 1,
+    "language": "mx",
+    "authors": ["bkrjd"
+    "tvTypes": ["TvSeries"],
+    "version": 1,
+    "internalName": "novelas360 entretenimiento sin limites",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/novelas360.cs3",
+    "name": "novelas360"
+  },
+  {
     "iconUrl": "https://t2.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://ww1.henaojara.net/&size=128",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
