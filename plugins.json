@@ -337,6 +337,20 @@
     "name": "Monoschinos"
   },
   {
+    "iconUrl": "https://i.imgur.com/iwCO94l.png?v=4.57",
+    "apiVersion": 1,
+    "repositoryUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/",
+    "fileSize": 18152,
+    "status": 3,
+    "language": "mx",
+    "authors": ["bkrjd"],
+    "tvTypes": ["Anime", "OVA"],
+    "version": 7,
+    "internalName": "Monoschinos2",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/monoschinos2.cs3",
+    "name": "Monoschinos2"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=pelispedia.is&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/redblacker8/storm-ext",
