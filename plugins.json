@@ -323,18 +323,18 @@
     "name": "JKAnimeProvider"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=monoschinos2.com&sz=%size%",
+    "iconUrl": "https://monoschinos.net/cdn/img/logotipo.png?v=4.57",
     "apiVersion": 1,
-    "repositoryUrl": "https://github.com/redblacker8/storm-ext",
+    "repositoryUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/",
     "fileSize": 18152,
-    "status": 0,
+    "status": 3,
     "language": "mx",
-    "authors": ["Stormunblessed"],
+    "authors": ["bkrjd"],
     "tvTypes": ["Anime", "OVA"],
     "version": 7,
-    "internalName": "MonoschinosProvider",
-    "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/MonoschinosProvider.cs3",
-    "name": "MonoschinosProvider"
+    "internalName": "Monoschinos",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/MonosChinos.cs3",
+    "name": "Monoschinos"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?domain=pelispedia.is&sz=%size%",
