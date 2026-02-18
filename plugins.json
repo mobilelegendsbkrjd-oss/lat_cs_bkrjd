@@ -30,21 +30,6 @@
     "name": "Latinluchas"
   },
   {
-    "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/pandrama.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/Kraptor123/Cs-Karma",
-    "fileSize": 20486,
-    "status": 1,
-    "language": "es",
-    "authors": ["bkrjd"],
-    "tvTypes": ["AsianDrama"],
-    "version": 2,
-    "internalName": "DoramasMP4",
-    "description": "DoramasMP4 en Audio Espanol Latino y Subtitulado.",
-    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/DoramasMP4.cs3",
-    "name": "DoramasMP4"
-  },
-  {
     "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/tlnovelas.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
