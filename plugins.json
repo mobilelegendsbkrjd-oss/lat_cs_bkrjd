@@ -30,6 +30,21 @@
     "name": "Latinluchas"
   },
   {
+    "iconUrl": "",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 13017,
+    "status": 3,
+    "language": "es-mx",
+    "authors": ["bkrjd"],
+    "tvTypes": ["TvSeries"],
+    "version": 1,
+    "internalName": "Ennovelas",
+    "description": "Latinluchas mod prioridad latino",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/ennovelas.cs3",
+    "name": "Ennovelas"
+  },
+  {
     "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/tlnovelas.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
