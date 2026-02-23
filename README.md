@@ -50,6 +50,26 @@ Actualmente estoy metido de lleno en el ecosistema de **Cloudstream**. No solo l
 * 📫 Cómo localizarme: `[b1k3rjd@gmail.com]`
 * ⚡ Fun Fact: El código corre mejor después de unos buenos tacos.
 
+* # 🎯 bkrjd Cloudstream Plugin Server
+
+ESTE FORK A SIDO PENSADO Y MODIFICADO SOLO PARA EXTENSIONES LATINAS, PUEDES PROBAR ESTAS NUEVAS FUNCIONES Y EXTENSIONES, DE LATINOS PARA LATINOS.
+SOY MÉXICANO Y AGRADECERIA MUCHO SU APOYO! TODOS LOS CREDITOS DE EXTENSIONES FIXEADAS SE LOS DEJO A SUS RESPECTIVOS CREADORES. PERO TAMBIEN DESARROLLO NUEVAS, PARA QUE EL CONTENIDO NUNCA ACABE. ESTOY BASTANTE ACTIVO, ASI QUE ESPERO CONTAR CON SU APOYO Y SI GUSTAN APOYAR EL PROYECTO PARA MOTIVARME A CONTINUAR DESARROLLANDO O FIXEANDO EL CONTENIDO LATINO PARA TODOS. LES DEJO LOS 2 LINKS ACTUALIZADOS PARA SUS DONACIONES. SIN MAS ME DESPIDO. Y LES DEJO EL LINK PARA INSTALAR TODO EL CONTENIDO!
+
+INSTALA ESTA REPO EN CS!!
+
+https://pastebin.com/rR0g0YTK
+
+---
+
+### ❤️ Support
+
+If you find this project helpful, consider supporting its development!
+
+<a href="https://buymeacoffee.com/bkrjd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
+[![Support me on Ko-fi](https://img.shields.io/badge/Ko--fi-Support%20Me-red?logo=ko-fi)](https://ko-fi.com/bkrjd)
+
+
 ---
 
 <div align="center">
