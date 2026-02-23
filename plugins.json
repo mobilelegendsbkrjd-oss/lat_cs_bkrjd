@@ -15,6 +15,21 @@
     "name": "Latanime"
   },
   {
+    "iconUrl": "https://latanime.org/public/img/logito.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 13017,
+    "status": 1,
+    "language": "es-mx",
+    "authors": ["Phisher98", "bkrjd"],
+    "tvTypes": ["Anime", "AnimeMovie"],
+    "version": 2,
+    "internalName": "Latanime2",
+    "description": "Latanime mod prioridad latino",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Latanime-release.aar",
+    "name": "Latanime2"
+  },
+  {
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZIYC_JigYfcOl4fGvjfH-lWxd3VawvvGTtF86jU2Gqg&s",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
