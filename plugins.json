@@ -410,20 +410,6 @@
     "name": "Pelisplushd"
   },
   {
-    "iconUrl": "https://m.media-amazon.com/images/I/31kpNSQr6vL.jpg",
-    "apiVersion": 1.1,
-    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
-    "fileSize": 14624,
-    "status": 0,
-    "language": "mx",
-    "authors": ["bkrjd", "phisher98"],
-    "tvTypes": ["Movie", "TvSeries", "Anime", "Cartoon"],
-    "version": 3,
-    "internalName": "Cuevana entretenimiento sin limites",
-    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Cuevana.cs3",
-    "name": "Cuevana"
-  },
-  {
     "iconUrl": "https://la.movie/wp-content/uploads/2025/05/cropped-La.movie_-192x192.png",
     "apiVersion": 1.1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
