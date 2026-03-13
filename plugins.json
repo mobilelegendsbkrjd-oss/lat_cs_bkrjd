@@ -60,21 +60,6 @@
     "name": "dramafun"
   },
   {
-    "iconUrl": "https://as1.ftcdn.net/jpg/05/42/99/68/1000_F_542996885_yrZQwsBvuB4bCWk0EAYst1DgVJMoNfLH.jpg",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
-    "fileSize": 13017,
-    "status": 1,
-    "language": "es-mx",
-    "authors": ["bkrjd"],
-    "tvTypes": ["Movie", "TvSeries", "Anime", "Cartoon"],
-    "version": 2,
-    "internalName": "Series24",
-    "description": "Series24 made by bkrjd",
-    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Series24.cs3",
-    "name": "Series24"
-  },
-  {
     "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/verpelisonline.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
