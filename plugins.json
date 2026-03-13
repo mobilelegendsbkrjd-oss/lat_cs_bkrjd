@@ -104,6 +104,21 @@
     "name": "SoloLatino"
   },
   {
+    "iconUrl": "https://www.cineby.gd/icon-192x192.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 13017,
+    "status": 1,
+    "language": "es-mx",
+    "authors": ["redblacker8", "bkrjd"],
+    "tvTypes": ["TvSeries", "Movie"],
+    "version": 5,
+    "internalName": "Cineby",
+    "description": "Cineby by bkrjd",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Cineby.cs3",
+    "name": "Cineby"
+  },
+  {
     "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/megadede.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
