@@ -15,21 +15,6 @@
     "name": "Latanime"
   },
   {
-    "iconUrl": "https://www.tvserieslatino.com/wp-content/uploads/2024/08/LOGO-PAGINA-tv-series-latino.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
-    "fileSize": 13017,
-    "status": 1,
-    "language": "es-mx",
-    "authors": ["bkrjd"],
-    "tvTypes": ["Anime", "AnimeMovie","TvSeries","Cartoon"],
-    "version": 2,
-    "internalName": "tvserieslatino",
-    "description": "tvserieslatino mod prioridad latino",
-    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/tvserieslatino.cs3",
-    "name": "tvserieslatino"
-  },
-  {
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZIYC_JigYfcOl4fGvjfH-lWxd3VawvvGTtF86jU2Gqg&s",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
