@@ -104,7 +104,7 @@
     "name": "SoloLatino"
   },
   {
-    "iconUrl": "https://www.cineby.gd/icon-192x192.png",
+    "iconUrl": "https://www.tdtchannels.com/favicon.ico",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
     "fileSize": 13017,
@@ -113,10 +113,10 @@
     "authors": ["redblacker8", "bkrjd"],
     "tvTypes": ["TvSeries", "Movie"],
     "version": 5,
-    "internalName": "Cineby",
-    "description": "Cineby by bkrjd",
-    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Cineby.cs3",
-    "name": "Cineby"
+    "internalName": "TDTChannels",
+    "description": "TDTChannels by bkrjd",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/TDTChannels.cs3",
+    "name": "TDTChannels"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/megadede.jpg",
