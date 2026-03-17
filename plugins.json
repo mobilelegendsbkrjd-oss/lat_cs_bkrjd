@@ -89,21 +89,6 @@
     "name": "AnimeflvProvider"
   },
   {
-    "iconUrl": "https://sololatino.net/images/logo.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
-    "fileSize": 13017,
-    "status": 1,
-    "language": "es-mx",
-    "authors": ["redblacker8", "bkrjd"],
-    "tvTypes": ["TvSeries", "Movie"],
-    "version": 5,
-    "internalName": "SoloLatino",
-    "description": "SoloLatino fixed by redblacker8, nuevas funciones añadidas by bkrjd",
-    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/sololatino.cs3",
-    "name": "SoloLatino"
-  },
-  {
     "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/megadede.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
