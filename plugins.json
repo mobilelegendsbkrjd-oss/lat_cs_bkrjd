@@ -30,6 +30,21 @@
     "name": "SoloLatino"
   },
   {
+    "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSy0HZmT0QUFsNJg8LOjAw_hO40htkI8P4V7w&s",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 13017,
+    "status": 1,
+    "language": "es-mx",
+    "authors": ["bkrjd"],
+    "tvTypes": ["Movie", "TvSeries", "Anime", "Cartoon", "AnimeMovie"],
+    "version": 2,
+    "internalName": "cuevana",
+    "description": "cuevana nuevo sitio",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/cuevana.cs3",
+    "name": "cuevana"
+  },
+  {
     "iconUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZIYC_JigYfcOl4fGvjfH-lWxd3VawvvGTtF86jU2Gqg&s",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
