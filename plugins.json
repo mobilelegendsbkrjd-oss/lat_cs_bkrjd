@@ -424,6 +424,21 @@
     "name": "Pelisplushd"
   },
   {
+    "iconUrl": "https://tioplus.app/images/logo2.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 55209,
+    "status": 1,
+    "language": "mx",
+    "authors": ["bkrjd"],
+    "tvTypes": ["Movie", "TvSeries","Anime","AsianDrama"],
+    "version": 2,
+    "internalName": "Pelisplusto",
+    "description": "(Mexican) Movies/Series/Anime/Doramas Extension",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Pelisplusto.cs3",
+    "name": "Pelisplusto"
+  },
+  {
     "iconUrl": "https://la.movie/wp-content/uploads/2025/05/cropped-La.movie_-32x32.png",
     "apiVersion": 1.1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
