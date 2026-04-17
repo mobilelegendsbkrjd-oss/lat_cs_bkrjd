@@ -179,7 +179,7 @@
     "name": "TioAnime"
   },
   {
-    "iconUrl": "https://www.google.com/s2/favicons?domain=www.dailymotion.com&sz=%size",
+    "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/iconos/daylimotion.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
     "fileSize": 48448,
@@ -189,8 +189,8 @@
     "tvTypes": ["Others"],
     "version": 2,
     "internalName": "Dailymotion",
-    "description": "Dailymotion mod prioridad latino",
-    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Dailymotion.cs3",
+    "description": "Dailymotion",
+    "url": "https://raw.githubusercontent.com/recloudstream/extensions/builds/DailymotionProvider.cs3",
     "name": "Dailymotion"
   },
   {
