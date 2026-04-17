@@ -149,6 +149,21 @@
     "name": "MegaDede"
   },
   {
+    "iconUrl": "https://apktodo.io/uploads/2026/4/modocine-thumbnail.jpg",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 13017,
+    "status": 1,
+    "language": "es-mx",
+    "authors": ["bkrjd"],
+    "tvTypes": ["TvSeries", "Movie", "Anime"],
+    "version": 3,
+    "internalName": "modocine",
+    "description": "Peliculas, Series y Anime priorizado Latino. Hecho por bkrjd",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/modocine.cs3",
+    "name": "modocine"
+  },
+  {
     "iconUrl": "https://www.google.com/s2/favicons?domain=tioanime.com&sz=%size%",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
