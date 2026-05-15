@@ -90,6 +90,21 @@
     "name": "Tlnovelas"
   },
   {
+    "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/iconos/tubepelis.jpg",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 13555,
+    "status": 3,
+    "language": "es-mx",
+    "authors": ["bkrjd"],
+    "tvTypes": ["TvSeries"],
+    "version": 2,
+    "internalName": "TubePelis",
+    "description": "TubePelis made by bkrjd",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/tubepelis.cs3",
+    "name": "TubePelis"
+  },
+  {
     "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/iconos/dramafun.jpg",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
