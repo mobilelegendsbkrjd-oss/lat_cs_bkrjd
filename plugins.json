@@ -54,10 +54,10 @@
     "authors": ["bkrjd"],
     "tvTypes": ["Anime", "AnimeMovie"],
     "version": 2,
-    "internalName": "cinehdplus",
-    "description": "cinehdplus nuevo sitio",
+    "internalName": "Cinehd+",
+    "description": "cinehd+ nuevo sitio",
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/cinehdplus.cs3",
-    "name": "cinehdplus"
+    "name": "cinehd+"
   },
   {
     "iconUrl": "https://wv3.cuevana3.eu/favicon-32x32.png",
