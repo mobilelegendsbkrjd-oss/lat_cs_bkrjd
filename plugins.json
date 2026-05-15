@@ -45,6 +45,21 @@
     "name": "SoloLatino"
   },
   {
+    "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/iconos/cinehdplus.jpg",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 13017,
+    "status": 1,
+    "language": "es-mx",
+    "authors": ["bkrjd"],
+    "tvTypes": ["Anime", "AnimeMovie"],
+    "version": 2,
+    "internalName": "cinehdplus",
+    "description": "cinehdplus nuevo sitio",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/cinehdplus.cs3",
+    "name": "cinehdplus"
+  },
+  {
     "iconUrl": "https://wv3.cuevana3.eu/favicon-32x32.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
@@ -250,20 +265,6 @@
     "internalName": "CablevisionHdProvider",
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/CablevisionHD.cs3",
     "name": "CablevisionHdProvider"
-  },
-  {
-    "iconUrl": "https://cinehdplus.org/wp-content/uploads/2021/11/favicon.png",
-    "apiVersion": 1,
-    "repositoryUrl": "https://github.com/redblacker8/storm-ext",
-    "fileSize": 19831,
-    "status": 1,
-    "language": "mx",
-    "authors": ["redblacker8"],
-    "tvTypes": ["TvSeries", "Movie"],
-    "version": 2,
-    "internalName": "CineHdPlusProvider",
-    "url": "https://raw.githubusercontent.com/redblacker8/storm-ext/builds/CineHdPlusProvider.cs3",
-    "name": "CineHdPlusProvider"
   },
   {
     "iconUrl": "https://www.google.com/s2/favicons?sz=64&domain=animeav1.com",
