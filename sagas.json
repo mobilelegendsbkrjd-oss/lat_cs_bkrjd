@@ -122,11 +122,11 @@
       },
       {
         "name": "Annabelle 3",
-        "url": "https://sololatino.net/pelicula/annabelle-3-viene-a-casa"
+        "url": "https://sololatino.net/pelicula/annabelle-3-vuelve-a-casa"
       },
       {
         "name": "La Maldición de La Llorona",
-        "url": "https://sololatino.net/pelicula/la-maldicion-de-la-llorona"
+        "url": "https://sololatino.net/pelicula/la-llorona"
       },
       {
         "name": "El Conjuro 2",
@@ -134,7 +134,11 @@
       },
       {
         "name": "El Conjuro 3",
-        "url": "https://sololatino.net/pelicula/el-conjuro-3"
+        "url": "https://sololatino.net/pelicula/el-conjuro-3-el-diablo-me-obligo-a-hacerlo"
+      },
+      {
+        "name": "El Conjuro 4",
+        "url": "https://sololatino.net/pelicula/el-conjuro-4-los-ultimos-ritos"
       }
     ]
   },
@@ -155,7 +159,7 @@
       },
       {
         "name": "Godzilla: Rey de los Monstruos",
-        "url": "https://sololatino.net/pelicula/godzilla-rey-de-los-monstruos"
+        "url": "https://sololatino.net/pelicula/godzilla-ii-el-rey-de-los-monstruos"
       },
       {
         "name": "Godzilla vs Kong",
@@ -225,11 +229,11 @@
       },
       {
         "name": "El Gato con Botas",
-        "url": "https://sololatino.net/pelicula/el-gato-con-botas"
+        "url": "https://sololatino.net/pelicula/gato-con-botas"
       },
       {
         "name": "El Gato con Botas: El Último Deseo",
-        "url": "https://sololatino.net/pelicula/el-gato-con-botas-el-ultimo-deseo"
+        "url": "https://sololatino.net/pelicula/gato-con-botas-el-ultimo-deseo"
       }
     ]
   }
