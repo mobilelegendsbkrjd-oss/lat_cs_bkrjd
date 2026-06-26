@@ -354,6 +354,21 @@
     "name": "JKAnimeProvider"
   },
   {
+    "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/iconos/tubepelis.jpg",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 13017,
+    "status": 1,
+    "language": "es-mx",
+    "authors": ["bkrjd"],
+    "tvTypes": ["Anime", "AnimeMovie"],
+    "version": 2,
+    "internalName": "TubePelis",
+    "description": "TubePelis nuevo sitio",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/PRUEBA/main/builds/tubepelis.cs3",
+    "name": "TubePelis"
+  },
+  {
     "iconUrl": "https://monoschinos.net/cdn/img/logotipo.png?v=4.57",
     "apiVersion": 1,
     "repositoryUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/",
