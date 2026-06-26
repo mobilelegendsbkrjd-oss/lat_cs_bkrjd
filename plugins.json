@@ -524,5 +524,20 @@
     "description": "Ver anime online, subtitulado y/o doblado al español latino HD y completamente gratis. Aquí podrás ver y descargar todas tus series preferidas sin anuncios.",
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Henaojara.cs3",
     "name": "Henaojara"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/iconos/Tioplus.jpg",
+    "apiVersion": 1,
+    "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 13017,
+    "status": 1,
+    "language": "es-mx",
+    "authors": ["bkrjd"],
+    "tvTypes": ["Anime", "AnimeMovie"],
+    "version": 2,
+    "internalName": "Tioplus",
+    "description": "Tioplus nuevo sitio",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/PRUEBA/main/builds/tioplus.cs3",
+    "name": "Tioplus"
   }
 ]
