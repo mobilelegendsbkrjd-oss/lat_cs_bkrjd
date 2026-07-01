@@ -539,5 +539,20 @@
     "description": "Tioplus nuevo sitio",
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/PRUEBA/main/builds/tioplus.cs3",
     "name": "Tioplus"
+  },
+  {
+    "iconUrl": "https://www.mundodonghua.com/images/logo-md.png",
+    "apiVersion": 1,
+    "repositoryUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 14204,
+    "status": 1,
+    "language": "mx",
+    "authors": ["Bkrjd"],
+    "tvTypes": ["Anime", "AnimeMovie"],
+    "version": 1,
+    "internalName": "MundoDonghua",
+    "description": "Ver donguas online, subtitulado y/o doblado al español latino HD y completamente gratis.",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/mundodonghua.cs3",
+    "name": "MundoDonghua"
   }
 ]
