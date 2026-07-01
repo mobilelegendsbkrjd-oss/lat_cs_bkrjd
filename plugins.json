@@ -554,5 +554,20 @@
     "description": "Ver donguas online, subtitulado y/o doblado al español latino HD y completamente gratis.",
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/mundodonghua.cs3",
     "name": "MundoDonghua"
+  },
+  {
+    "iconUrl": "https://raw.githubusercontent.com/Abodabodd/Oldarabrepo/refs/heads/main/img/IMG_%D9%A2%D9%A0%D9%A2%D9%A5%D9%A1%D9%A2%D9%A0%D9%A6_%D9%A1%D9%A7%D9%A2%D9%A6%D9%A1%D9%A6.jpg",
+    "apiVersion": 1,
+    "repositoryUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
+    "fileSize": 35000,
+    "status": 1,
+    "language": "es",
+    "authors": ["Abodabodd","Bkrjd"],
+    "tvTypes": [ "Movie","TvSeries","Live","Anime","Music","Documentary"],
+    "version": 1,
+    "internalName": "YouTube",
+    "description": "Ver YouTube online gratis.",
+    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/Youtube.cs3",
+    "name": "YouTube"
   }
 ]
