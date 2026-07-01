@@ -562,7 +562,7 @@
     "fileSize": 35000,
     "status": 1,
     "language": "es",
-    "authors": ["Abodabodd","Bkrjd"],
+    "authors": ["Abodabodd"],
     "tvTypes": [ "Movie","TvSeries","Live","Anime","Music","Documentary"],
     "version": 1,
     "internalName": "YouTube",
