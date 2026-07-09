@@ -569,20 +569,5 @@
     "description": "Ver YouTube online gratis.",
     "url": "https://github.com/Abodabodd/re-3arabi/raw/refs/heads/main/build/Youtube.cs3",
     "name": "YouTube"
-  },
-  {
-    "iconUrl": "https://hackstore2.com/wp-content/uploads/2024/09/cropped-hacsktore-1-32x32.jpg",
-    "apiVersion": 1,
-    "repositoryUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
-    "fileSize": 14204,
-    "status": 1,
-    "language": "mx",
-    "authors": ["Bkrjd"],
-    "tvTypes": ["Anime", "AnimeMovie"],
-    "version": 1,
-    "internalName": "HackStore",
-    "description": "Ver donguas online, subtitulado y/o doblado al español latino HD y completamente gratis.",
-    "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/PRUEBA/main/builds/hackstore.cs3",
-    "name": "HackStore"
   }
 ]
