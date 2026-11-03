@@ -15,7 +15,7 @@
     "name": "Latanime"
   },
   {
-    "iconUrl": "https://animefenix2.tv/themes/animefenix-frans185/images/AveFenix.png",
+    "iconUrl": "https://i.imgur.com/OxIRju1.png",
     "apiVersion": 1,
     "repositoryUrl": "https://github.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd",
     "fileSize": 13017,
@@ -42,7 +42,7 @@
     "internalName": "DescargatePelis",
     "description": "DescargatePelis latino",
     "url": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/builds/descargatepelis.cs3",
-    "name": "Animefenix"
+    "name": "DescargatePelis"
   },
   {
     "iconUrl": "https://raw.githubusercontent.com/mobilelegendsbkrjd-oss/lat_cs_bkrjd/main/iconos/sololatino.jpg",
